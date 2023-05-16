@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/NPCs/Manshoon.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md"
+                "file": "content/NPCs/Manshoon.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/NPCs/Manshoon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/NPCs/Manshoon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,8 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/NPCs/Skeemo Weirdbottle.md",
+    "content/NPCs/Ziraj the Hunter.md",
     "content/Factions/Factions.md",
     "content/Session Summaries/Session Summaries.md",
     "content/NPCs/Davil Starsong (Deceased).md",
@@ -217,10 +219,8 @@
     "content/Session Summaries",
     "content/NPCs/Renear Neverember.md",
     "content/NPCs/Istrid Horn.md",
-    "content/NPCs/Ziraj the Hunter.md",
     "content/Factions/Doom Raiders.md",
     "content/NPCs/Vajra Safahr.md",
-    "content/NPCs/Skeemo Weirdbottle.md",
     "content/NPCs",
     "content/NPCs/Manshoon.md",
     "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",

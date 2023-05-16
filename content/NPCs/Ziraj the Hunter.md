@@ -2,7 +2,7 @@
 title: Ziraj the Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
-date modified: May 15th 2023, 11:28:04 pm
+date modified: May 15th 2023, 11:28:28 pm
 tags: [NPCs, Doom-Raiders]
 ---
 ## Summary
