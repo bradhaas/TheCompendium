@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Ziraj the Hunter",
       "path": "content/NPCs/Ziraj the Hunter.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Istrid Horn",
       "path": "content/NPCs/Istrid Horn.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
     },
     {
       "basename": "Manshoon",
@@ -59,10 +63,6 @@
     {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/Davil Starsong (Deceased).md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Ziraj",

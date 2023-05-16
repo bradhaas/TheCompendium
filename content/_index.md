@@ -12,4 +12,5 @@ Welcome to the Compendium!
 
 ## [Factions](Factions.md)
 
-## [NPCs](NPCs.md)
+## [NPCs](NPCs/NPCs.md)
+
