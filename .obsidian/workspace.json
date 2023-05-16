@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Manshoon.md",
+                "file": "content/Factions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Manshoon.md"
+                "file": "content/Factions.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Manshoon.md",
+                "file": "content/Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Manshoon.md",
+                "file": "content/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,14 +203,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9dd573882abf551c",
+  "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
+    "content/Pasted image 20230515212225.png",
+    "content/Manshoon.md",
     "content/attachments",
     "content/Pasted image 20230515212419.png",
     "content/Lead Up to the Battle of the Closed Lords.md",
-    "content/Manshoon.md",
     "content/Zhentarim.md",
-    "content/Pasted image 20230515212225.png",
     "content/Vajra Safahr.md",
     "content/Ziraj the Hunter.md",
     "content/Session Summaries.md",
@@ -246,7 +246,6 @@
     "D&D/TheCompendium/static",
     "D&D/TheCompendium/screenshot.png",
     "D&D/TheCompendium/layouts/_default/_markup/render-link.html",
-    "D&D/TheCompendium/layouts/_default/_markup/render-image.html",
     "D&D/TheCompendium/content/notes/images/github-pages.png",
     "D&D/TheCompendium/content/notes/images/google-domains.png",
     "D&D/TheCompendium/content/notes/images/obsidian-settings.png",

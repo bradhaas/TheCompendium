@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
+      "basename": "Pasted image 20230515212225",
+      "path": "content/Pasted image 20230515212225.png"
+    },
+    {
       "basename": "Manshoon",
       "path": "content/Manshoon.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Renear Neverember",
       "path": "content/Renear Neverember.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
     },
     {
       "basename": "NPC Template",
@@ -195,10 +199,6 @@
     {
       "basename": "Dogs",
       "path": "Dogs/Dogs.md"
-    },
-    {
-      "basename": "AKC Fit Dog",
-      "path": "Dogs/Competition/AKC Fit Dog.md"
     }
   ],
   "omittedPaths": [],
