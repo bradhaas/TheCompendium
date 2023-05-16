@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Vajra Safahr",
       "path": "content/NPCs/Vajra Safahr.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "NPCs",
       "path": "content/NPCs/NPCs.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Renear Neverember",

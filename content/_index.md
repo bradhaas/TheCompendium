@@ -10,6 +10,6 @@ Welcome to the Compendium!
 
 ## [Session Summaries](Session%20Summaries.md)
 
-## [Factions](Factions.md)
-
 ## [NPCs](NPCs/NPCs.md)
+
+## [Factions](Factions/Factions.md)
