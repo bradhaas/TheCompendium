@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Factions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Factions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/The Trollskull Team.md"
+                "file": "content/Factions.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +211,13 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
-    "content/Matrick Side-Eyes.md",
+    "content/Durnan.md",
+    "content/attachments/Pasted image 20230516135552.png",
     "content/The Trollskull Team.md",
+    "content/Renear Neverember.md",
+    "content/Qisandoral Ofandrus.md",
+    "content/Safvyre Everdreya.md",
+    "content/Matrick Side-Eyes.md",
     "content/Tuferbop Lilli Timbers.md",
     "content/Factions.md",
     "content/Force Gray.md",
@@ -228,12 +233,9 @@
     "layouts/_default/baseof.rtf",
     "static/styles.css",
     "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
-    "content/Renear Neverember.md",
     "content/Istrid Horn.md",
-    "content/Safvyre Everdreya.md",
     "content/Session Summaries.md",
     "content/Skeemo Weirdbottle.md",
-    "content/Qisandoral Ofandrus.md",
     "content/Doom Raiders.md",
     "content/Tashlyn Yafeera.md",
     "content/Vajra Safahr.md",
@@ -248,12 +250,10 @@
     "content/Waterdeep - City of Splendors.md",
     "screenshot.png",
     "TheCompendium.md",
-    "content/NPC Summary.md",
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",
     "content/attachments/Skeemo.png",
     "content/attachments/Pasted image 20230515222747 1.png",
-    "content/attachments/Manshoon.png",
     "NPCs",
     "Factions",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
