@@ -24,6 +24,7 @@
 		- [[NPC Template]]
 		- [[post]]
 	- [[Vajra Safahr]]
+	- [[Waterdeep - City of Splendors]]
 	- [[Zhentarim]]
 	- [[Ziraj the Hunter]]
 - **data**

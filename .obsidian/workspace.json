@@ -11,16 +11,25 @@
             "id": "7aa2f798df77a9ef",
             "type": "leaf",
             "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "72f0084324ff93af",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Waterdeep - City of Splendors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Doom Raiders.md"
+                "file": "content/Waterdeep - City of Splendors.md"
               }
             }
           },
@@ -128,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Waterdeep - City of Splendors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Waterdeep - City of Splendors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,11 +208,16 @@
       "obsidian-metatable:Metatable": false,
       "cmdr:Periodic Notes: Open monthly note": false,
       "cmdr:Periodic Notes: Open weekly note": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7aa2f798df77a9ef",
+  "active": "72f0084324ff93af",
   "lastOpenFiles": [
+    "content/Waterdeep - City of Splendors.md",
+    "content/Factions Summary.md",
+    "content/attachments/waterdeep.jpeg",
+    "content/Doom Raiders.md",
     "content/Davil Starsong (Deceased).md",
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",
@@ -214,7 +228,6 @@
     "content/attachments/Zhentarim Banner.png",
     "content/attachments/Istrid Statblock.png",
     "content/attachments/Tashlyn.png",
-    "content/attachments/Tashlyn Statblock.png",
     "content/Ziraj the Hunter.md",
     "content/Zhentarim.md",
     "content/Vajra Safahr.md",
@@ -225,8 +238,6 @@
     "content/Manshoon.md",
     "content/Istrid Horn.md",
     "content/Force Gray.md",
-    "content/Factions Summary.md",
-    "content/Doom Raiders.md",
     "content/NPCs.md",
     "content/_index.md",
     "content/templates/NPC Template.md",
