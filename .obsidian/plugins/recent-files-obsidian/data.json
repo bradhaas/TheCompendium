@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "Ziraj the Hunter",
+      "path": "content/NPCs/Ziraj the Hunter.md"
+    },
+    {
       "basename": "2023-05-21 - The Battle of the Closed Lords",
       "path": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md"
     },
@@ -13,16 +21,8 @@
       "path": "content/Session Summaries/Session Summaries.md"
     },
     {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
       "basename": "Ziraj",
       "path": "content/Ziraj.png"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/NPCs/Ziraj the Hunter.md"
     },
     {
       "basename": "NPCs",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,16 +205,16 @@
   },
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
+    "content/NPCs/Ziraj the Hunter.md",
+    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
     "content/Session Summaries/Session Summaries.md",
     "content/_index.md",
     "content/Ziraj.png",
-    "content/NPCs/Ziraj the Hunter.md",
     "content/NPCs/NPCs.md",
     "content/Factions/Doom Raiders.md",
     "README.md",
     "screenshot.png",
-    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "'content/attachments/Pasted.md",
     "'content/attachments",
     "'content",

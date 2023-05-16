@@ -36,5 +36,6 @@
   ],
   "readableLineLength": false,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "spellcheck": false
 }
