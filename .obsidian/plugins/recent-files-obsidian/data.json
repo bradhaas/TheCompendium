@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
       "basename": "The Trollskull Team",
       "path": "content/The Trollskull Team.md"
+    },
+    {
+      "basename": "Matrick Side-Eyes",
+      "path": "content/Matrick Side-Eyes.md"
     },
     {
       "basename": "Safvyre Everdreya",
@@ -23,10 +31,6 @@
     {
       "basename": "Qisandoral Ofandrus",
       "path": "content/Qisandoral Ofandrus.md"
-    },
-    {
-      "basename": "Matrick Side-Eyes",
-      "path": "content/Matrick Side-Eyes.md"
     },
     {
       "basename": "Tuferbop Lilli Timbers",
@@ -51,10 +55,6 @@
     {
       "basename": "Doom Raiders",
       "path": "content/attachments/Doom Raiders.png"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
     },
     {
       "basename": "_index",

@@ -3,8 +3,8 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 16th 2023, 12:52:57 pm
-tags: 
+date modified: May 16th 2023, 1:01:13 pm
+tags: [trollskull-team, factions]
 ---
 ## [[Matrick Side-Eyes]]
 [Character App](https://www.dndbeyond.com/characters/47957494)
