@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Ziraj",
       "path": "content/Ziraj.png"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Renear Neverember",
