@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Force Gray.md",
+                "file": "content/Factions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Force Gray.md"
+                "file": "content/Factions.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Force Gray.md",
+                "file": "content/Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Force Gray.md",
+                "file": "content/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,16 +205,16 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/Doom Raiders.md",
     "content/Factions.md",
+    "content/Davil Starsong (Deceased).md",
+    "content/Force Gray.md",
+    "content/Manshoon.md",
+    "content/Istrid Horn.md",
     "content/NPCs.md",
     "content/_index.md",
-    "content/Davil Starsong (Deceased).md",
     "content/templates/NPC Template.md",
-    "content/Doom Raiders.md",
-    "content/Istrid Horn.md",
-    "content/Manshoon.md",
     "content/Zhentarim.md",
-    "content/Force Gray.md",
     "content/Renear Neverember.md",
     "content/Session Summaries.md",
     "content/Tashlyn Yafeera.md",

@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/Davil Starsong (Deceased).md"
+    },
+    {
       "basename": "Force Gray",
       "path": "content/Force Gray.md"
     },
     {
-      "basename": "Factions",
-      "path": "content/Factions.md"
+      "basename": "Manshoon",
+      "path": "content/Manshoon.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/Istrid Horn.md"
     },
     {
       "basename": "NPCs",
@@ -17,24 +33,8 @@
       "path": "content/_index.md"
     },
     {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/Davil Starsong (Deceased).md"
-    },
-    {
       "basename": "NPC Template",
       "path": "content/templates/NPC Template.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/Istrid Horn.md"
-    },
-    {
-      "basename": "Manshoon",
-      "path": "content/Manshoon.md"
     },
     {
       "basename": "Zhentarim",

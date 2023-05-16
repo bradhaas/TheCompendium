@@ -5,6 +5,7 @@ date created: May 16th 2023, 12:20:35 am
 date modified: May 16th 2023, 12:20:39 am
 tags: 
 ---
+Dataview generate
 ```dataview
 LIST
 FROM #factions 
