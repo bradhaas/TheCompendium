@@ -8,10 +8,10 @@ tags:
 
 Welcome to the Compendium!
 
-## [Session Summaries](Session%20Summaries.md)
+# [Session Summaries](content/Session%20Summaries.md)
 
-## [NPCs](NPCs/NPCs.md)
+# [NPCs](content/NPCs/NPCs.md)
 
-## [Factions](content/Factions.md)
+# [Factions](content/Factions/Factions.md)
 
 

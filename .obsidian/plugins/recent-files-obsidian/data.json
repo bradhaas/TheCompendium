@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/NPCs/Istrid Horn.md"
+    },
+    {
       "basename": "NPCs",
       "path": "content/NPCs/NPCs.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Factions",
       "path": "content/Factions/Factions.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
     },
     {
       "basename": "Doom Raiders",
@@ -39,14 +47,6 @@
     {
       "basename": "Renear Neverember",
       "path": "content/NPCs/Renear Neverember.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/NPCs/Istrid Horn.md"
     },
     {
       "basename": "Tashlyn Yafeera",
