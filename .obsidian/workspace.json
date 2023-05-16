@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Davil Starsong (Deceased).md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Davil Starsong (Deceased).md",
+                "file": "content/_index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Davil Starsong (Deceased).md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Davil Starsong (Deceased).md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,9 +211,9 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/Davil Starsong (Deceased).md",
     "content/Doom Raiders.md",
     "content/Cruceus Hieron Auric Disthenes.md",
-    "content/Davil Starsong (Deceased).md",
     "content/Closed Lords of Waterdeep.md",
     "content/Session Summaries.md",
     "content/_index.md",

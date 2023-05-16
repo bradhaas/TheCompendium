@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/Davil Starsong (Deceased).md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "The Trollskull Team",
