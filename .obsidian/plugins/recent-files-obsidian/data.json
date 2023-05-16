@@ -5,6 +5,14 @@
       "path": "content/Doom Raiders.md"
     },
     {
+      "basename": "NPC Template",
+      "path": "content/templates/NPC Template.md"
+    },
+    {
+      "basename": "post",
+      "path": "content/templates/post.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
