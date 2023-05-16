@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "The Trollskull Team",
+      "path": "content/The Trollskull Team.md"
+    },
+    {
       "basename": "Factions",
       "path": "content/Factions.md"
     },
     {
-      "basename": "The Trollskull Team",
-      "path": "content/The Trollskull Team.md"
+      "basename": "Force Gray",
+      "path": "content/Force Gray.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/Istrid Horn.md"
     },
     {
       "basename": "Matrick Side-Eyes",
@@ -123,14 +131,6 @@
     {
       "basename": "Skeemo Statblock",
       "path": "content/attachments/Skeemo Statblock.png"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/Istrid Horn.md"
-    },
-    {
-      "basename": "Force Gray",
-      "path": "content/Force Gray.md"
     },
     {
       "basename": "NPC Template",

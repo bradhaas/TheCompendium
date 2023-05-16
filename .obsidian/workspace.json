@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/The Trollskull Team.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/The Trollskull Team.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions.md"
+                "file": "content/The Trollskull Team.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/The Trollskull Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,6 +211,9 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/Factions.md",
+    "content/Force Gray.md",
+    "content/Istrid Horn.md",
     "content/The Trollskull Team.md",
     "content/Matrick Side-Eyes.md",
     "content/Safvyre Everdreya.md",
@@ -224,7 +227,6 @@
     "content/Vajra Safahr.md",
     "content/Cruceus Hieron Auric Disthenes.md",
     "content/attachments/Doom Raiders.png",
-    "content/Factions.md",
     "content/_index.md",
     "content/attachments/waterdeep.jpeg",
     "content/Manshoon.md",
@@ -243,8 +245,6 @@
     "content/attachments/Pasted image 20230515222747 1.png",
     "content/attachments/Manshoon.png",
     "content/attachments/Zhentarim Banner.png",
-    "content/Istrid Horn.md",
-    "content/Force Gray.md",
     "content/NPCs.md",
     "content/templates/NPC Template.md",
     "NPCs",
