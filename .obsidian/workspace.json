@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Renear Neverember.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Renear Neverember.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/The Trollskull Team.md"
+                "file": "content/Renear Neverember.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Renear Neverember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,15 +211,15 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/The Trollskull Team.md",
+    "content/Renear Neverember.md",
     "content/Factions.md",
     "content/Force Gray.md",
     "content/Istrid Horn.md",
-    "content/The Trollskull Team.md",
     "content/Matrick Side-Eyes.md",
     "content/Safvyre Everdreya.md",
     "content/Session Summaries.md",
     "content/Skeemo Weirdbottle.md",
-    "content/Renear Neverember.md",
     "content/Qisandoral Ofandrus.md",
     "content/Tuferbop Lilli Timbers.md",
     "content/Doom Raiders.md",

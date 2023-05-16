@@ -3,7 +3,7 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 16th 2023, 1:07:04 pm
+date modified: May 16th 2023, 1:07:36 pm
 tags: [trollskull-team, factions]
 ---
 ## [[Matrick Side-Eyes]]
@@ -26,7 +26,7 @@ tags: [trollskull-team, factions]
 - **Stunning Strike**
 - **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](Qisandoral%20Ofandrus.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
 - **Arcane Recovery**
-## Key Equipment
+### Key Equipment
 
 ## [Renear Neverember](Renear%20Neverember.md)
 [Character Sheet](https://www.dndbeyond.com/characters/52716043)
