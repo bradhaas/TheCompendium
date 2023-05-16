@@ -2,9 +2,11 @@
 title: Ziraj The Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
-date modified: May 15th 2023, 8:05:03 pm
+date modified: May 15th 2023, 8:19:26 pm
 tags: 
 ---
+## Summary
+A burly half orc paladin and one of the original members of the Doom Raiders. Loyal to anyone who shows him kindness.
 ![ziraj](../attachments/Ziraj.png)
 
 ## Background
