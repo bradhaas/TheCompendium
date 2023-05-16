@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Safvyre Everdreya.md",
+                "file": "content/Tuferbop Lilli Timbers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
       {
         "id": "66b5fad7e13190bd",
         "type": "tabs",
-        "dimension": 66.07773851590106,
+        "dimension": 48.975265017667844,
         "children": [
           {
             "id": "cfe9d94357a8e123",
@@ -108,27 +108,17 @@
         ]
       },
       {
-        "id": "f1b492ce15fe584f",
+        "id": "95a6ffbf6275bd97",
         "type": "tabs",
-        "dimension": 33.92226148409894,
+        "dimension": 22.261484098939928,
         "children": [
-          {
-            "id": "f1014b8f89aee13b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "content/Safvyre Everdreya.md"
-              }
-            }
-          },
           {
             "id": "471c77f143a8caf4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Safvyre Everdreya.md",
+                "file": "content/Tuferbop Lilli Timbers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,14 +130,12 @@
             }
           },
           {
-            "id": "53fa41179ce6090a",
+            "id": "f1014b8f89aee13b",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "file": "content/Safvyre Everdreya.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "content/Tuferbop Lilli Timbers.md"
               }
             }
           },
@@ -178,8 +166,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "f1b492ce15fe584f",
+        "type": "tabs",
+        "dimension": 28.763250883392228,
+        "children": [
+          {
+            "id": "53fa41179ce6090a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Tuferbop Lilli Timbers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,22 +211,24 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/The Trollskull Team.md",
+    "content/Tuferbop Lilli Timbers.md",
+    "content/Qisandoral Ofandrus.md",
+    "content/Safvyre Everdreya.md",
+    "content/Doom Raiders.md",
+    "content/Tashlyn Yafeera.md",
+    "content/Skeemo Weirdbottle.md",
+    "content/Session Summaries.md",
     "content/Renear Neverember.md",
     "content/Matrick Side-Eyes.md",
     "content/Vajra Safahr.md",
-    "content/Safvyre Everdreya.md",
-    "content/The Trollskull Team.md",
     "content/Cruceus Hieron Auric Disthenes.md",
-    "content/Doom Raiders.md",
     "content/attachments/Doom Raiders.png",
     "content/Factions.md",
-    "content/Session Summaries.md",
     "content/_index.md",
     "content/attachments/waterdeep.jpeg",
     "content/Manshoon.md",
     "content/Blackstaff.md",
-    "content/Tashlyn Yafeera.md",
-    "content/Skeemo Weirdbottle.md",
     "content/Zhentarim.md",
     "content/attachments/Pasted image 20230516105853.png",
     "content/Ziraj the Hunter.md",
@@ -240,8 +248,6 @@
     "content/NPCs.md",
     "content/templates/NPC Template.md",
     "NPCs",
-    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
-    "content/Session Summaries/Session Summaries.md",
     "Factions",
     "content/Session Summaries",
     "NPCs",
