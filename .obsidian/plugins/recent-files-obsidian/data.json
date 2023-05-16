@@ -5,6 +5,10 @@
       "path": "content/NPCs/Tashlyn Yafeera.md"
     },
     {
+      "basename": "Skeemo Weirdbottle",
+      "path": "content/NPCs/Skeemo Weirdbottle.md"
+    },
+    {
       "basename": "Istrid Horn",
       "path": "content/NPCs/Istrid Horn.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Renear Neverember",
       "path": "content/NPCs/Renear Neverember.md"
-    },
-    {
-      "basename": "Skeemo Weirdbottle",
-      "path": "content/NPCs/Skeemo Weirdbottle.md"
     },
     {
       "basename": "Vajra Safahr",
