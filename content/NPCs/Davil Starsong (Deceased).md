@@ -2,7 +2,7 @@
 title: Davil Starsong (Deceased)
 enableToc: false
 date created: May 15th 2023, 10:30:45 pm
-date modified: May 15th 2023, 11:46:52 pm
+date modified: May 16th 2023, 12:23:17 am
 tags: [NPCs, doom-raiders]
 ---
 ## Summary

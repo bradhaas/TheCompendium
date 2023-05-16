@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Skeemo Weirdbottle",
+      "path": "content/NPCs/Skeemo Weirdbottle.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Istrid Horn",
       "path": "content/NPCs/Istrid Horn.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
     },
     {
       "basename": "Manshoon",
@@ -39,10 +43,6 @@
     {
       "basename": "Zhentarim",
       "path": "content/Factions/Zhentarim.md"
-    },
-    {
-      "basename": "Skeemo Weirdbottle",
-      "path": "content/NPCs/Skeemo Weirdbottle.md"
     },
     {
       "basename": "Renear Neverember",
