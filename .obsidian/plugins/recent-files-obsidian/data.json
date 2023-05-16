@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "NPCs",
       "path": "content/NPCs/NPCs.md"
     },
     {
-      "basename": "_index",
-      "path": "content/_index.md"
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/Davil Starsong (Deceased).md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/NPCs/Renear Neverember.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/NPCs/Istrid Horn.md"
     },
     {
       "basename": "Ziraj the Hunter",
@@ -23,14 +35,6 @@
     {
       "basename": "Skeemo Weirdbottle",
       "path": "content/NPCs/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/NPCs/Renear Neverember.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/NPCs/Istrid Horn.md"
     },
     {
       "basename": "Manshoon",
@@ -59,10 +63,6 @@
     {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
-    },
-    {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/Davil Starsong (Deceased).md"
     },
     {
       "basename": "Ziraj",

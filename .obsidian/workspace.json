@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/NPCs.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/NPCs.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/NPCs.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/NPCs.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,14 +205,15 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/NPCs/NPCs.md",
+    "content/Davil Starsong (Deceased).md",
+    "content/NPCs/Renear Neverember.md",
+    "content/NPCs/Istrid Horn.md",
     "content/_index.md",
     "content/NPCs/Ziraj the Hunter.md",
     "content/Doom Raiders.md",
     "content/NPCs/Vajra Safahr.md",
     "content/NPCs/Skeemo Weirdbottle.md",
-    "content/NPCs/Renear Neverember.md",
-    "content/NPCs/Istrid Horn.md",
-    "content/NPCs/NPCs.md",
     "content/NPCs",
     "content/Manshoon.md",
     "content/NPCs.md",
@@ -222,7 +223,6 @@
     "content/Session Summaries.md",
     "content/Zhentarim.md",
     "content/attachments/Pasted image 20230515223421.png",
-    "content/Davil Starsong (Deceased).md",
     "content/attachments/Pasted image 20230515223326.png",
     "content/attachments/Pasted image 20230515222747.png",
     "TheCompendium.md",
