@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "The Trollskull Team",
-      "path": "content/The Trollskull Team.md"
+      "basename": "Safvyre Everdreya",
+      "path": "content/Safvyre Everdreya.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/Renear Neverember.md"
     },
     {
       "basename": "Matrick Side-Eyes",
       "path": "content/Matrick Side-Eyes.md"
+    },
+    {
+      "basename": "Vajra Safahr",
+      "path": "content/Vajra Safahr.md"
+    },
+    {
+      "basename": "The Trollskull Team",
+      "path": "content/The Trollskull Team.md"
     },
     {
       "basename": "Cruceus Hieron Auric Disthenes",
@@ -45,20 +57,12 @@
       "path": "content/Blackstaff.md"
     },
     {
-      "basename": "Vajra Safahr",
-      "path": "content/Vajra Safahr.md"
-    },
-    {
       "basename": "Tashlyn Yafeera",
       "path": "content/Tashlyn Yafeera.md"
     },
     {
       "basename": "Skeemo Weirdbottle",
       "path": "content/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/Renear Neverember.md"
     },
     {
       "basename": "Zhentarim",
@@ -195,10 +199,6 @@
     {
       "basename": "Member of the Corpse of Discovery",
       "path": "D&D/D&D - Campaign 2/Custom Backgrounds/Member of the Corpse of Discovery.md"
-    },
-    {
-      "basename": "Bonnie and Clyde",
-      "path": "D&D/D&D - Campaign 2/Custom Backgrounds/Bonnie and Clyde.md"
     }
   ],
   "omittedPaths": [],
