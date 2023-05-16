@@ -12,7 +12,7 @@
 
 	- **[[Factions]]**
 	- **[[NPCs]]**
-	- **[[Session Summaries]]**
+	- [[Session Summaries]]
 	- **templates**
 		- [[NPC Template]]
 		- [[post]]

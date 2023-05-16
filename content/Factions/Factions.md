@@ -7,6 +7,7 @@ tags:
 ---
 %% Begin Waypoint %%
 - [[Doom Raiders]]
+- [[Force Gray]]
 - [[Zhentarim]]
 
 %% End Waypoint %%

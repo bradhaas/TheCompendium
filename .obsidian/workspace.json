@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Vajra Safahr.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions/Doom Raiders.md"
+                "file": "content/NPCs/Vajra Safahr.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Vajra Safahr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Vajra Safahr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,27 +205,28 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
-    "content/Factions/Zhentarim.md",
+    "content/Factions/Force Gray.md",
+    "content/NPCs/Vajra Safahr.md",
+    "content/NPCs/Ziraj the Hunter.md",
+    "content/Session Summaries.md",
+    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+    "content/Session Summaries/Session Summaries.md",
     "content/Factions/Doom Raiders.md",
+    "content/Factions/Zhentarim.md",
     "content/NPCs/Manshoon.md",
     "content/NPCs/Skeemo Weirdbottle.md",
-    "content/NPCs/Ziraj the Hunter.md",
     "content/Factions/Factions.md",
-    "content/Session Summaries/Session Summaries.md",
     "content/NPCs/Davil Starsong (Deceased).md",
     "content/NPCs/NPCs.md",
     "content/NPCs.md",
     "content/Factions.md",
     "content/Factions",
-    "content/Session Summaries.md",
     "content/_index.md",
     "content/Session Summaries",
     "content/NPCs/Renear Neverember.md",
     "content/NPCs/Istrid Horn.md",
-    "content/NPCs/Vajra Safahr.md",
     "content/NPCs",
     "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
-    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "content/attachments/Pasted image 20230515223421.png",
     "content/attachments/Pasted image 20230515223326.png",
     "content/attachments/Pasted image 20230515222747.png",
@@ -245,7 +246,6 @@
     "'content/attachments/Pasted.md",
     "'content/attachments",
     "'content",
-    "content/attachments/P.md",
     "Session Summaries",
     "content/attachments",
     "D&D/TheCompendium/static/icon.png",

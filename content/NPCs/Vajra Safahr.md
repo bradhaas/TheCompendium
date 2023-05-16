@@ -2,17 +2,17 @@
 title: Vajra Safahr
 enableToc: false
 date created: May 15th 2023, 8:27:16 pm
-date modified: May 15th 2023, 9:53:45 pm
+date modified: May 15th 2023, 11:32:53 pm
 tags: 
 ---
 ## Summary
-A burly half orc paladin and one of the original members of the [[../Factions/Doom Raiders]]. Loyal to anyone who shows him kindness.
+The head mage of Waterdeep - the 
 
 ## Background
 **Race**: Half Orc
 
-**Faction**: [[../Factions/Doom Raiders|Doom Raiders]] - relative style of link
-[[../Factions/Doom Raiders]] - shortest style of link
+**Faction**: 
+
 
 ## Party Relationship
 - Party fled from Ziraj's huge arrow bolts through the city as
