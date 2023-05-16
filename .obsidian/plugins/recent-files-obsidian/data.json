@@ -1,28 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "Ziraj",
+      "path": "content/Ziraj.png"
     },
     {
       "basename": "Ziraj the Hunter",
       "path": "content/NPCs/Ziraj the Hunter.md"
     },
     {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
       "basename": "Session Summaries",
       "path": "content/Session Summaries/Session Summaries.md"
     },
     {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
       "basename": "Doom Raiders",
       "path": "content/Factions/Doom Raiders.md"
-    },
-    {
-      "basename": "Ziraj",
-      "path": "content/Ziraj.png"
     },
     {
       "basename": "README",
