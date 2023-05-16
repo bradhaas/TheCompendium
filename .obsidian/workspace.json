@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/Davil Starsong (Deceased).md",
+                "file": "content/NPCs/Istrid Horn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/Davil Starsong (Deceased).md"
+                "file": "content/NPCs/Istrid Horn.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/Davil Starsong (Deceased).md",
+                "file": "content/NPCs/Istrid Horn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/Davil Starsong (Deceased).md",
+                "file": "content/NPCs/Istrid Horn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,13 +205,13 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/NPCs/Davil Starsong (Deceased).md",
+    "content/NPCs/Istrid Horn.md",
     "content/Factions/Doom Raiders.md",
     "content/NPCs/NPCs.md",
     "content/Session Summaries.md",
     "content/_index.md",
     "content/templates/NPC Template.md",
-    "content/NPCs/Istrid Horn.md",
-    "content/NPCs/Davil Starsong (Deceased).md",
     "content/NPCs/Manshoon.md",
     "content/NPCs/Renear Neverember.md",
     "content/NPCs/Vajra Safahr.md",

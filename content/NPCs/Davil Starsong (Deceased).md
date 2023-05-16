@@ -2,7 +2,7 @@
 title: Davil Starsong (Deceased)
 enableToc: false
 date created: May 15th 2023, 10:30:45 pm
-date modified: May 15th 2023, 10:32:08 pm
+date modified: May 15th 2023, 11:46:52 pm
 tags: [NPCs, doom-raiders]
 ---
 ## Summary
@@ -11,4 +11,3 @@ tags: [NPCs, doom-raiders]
 - Sun Elf Rogue with an affinity for magic
 - Does most of his business in the taproom of the Yawning Portal
 ![](attachments/Pasted%20image%2020230515223326.png)
-

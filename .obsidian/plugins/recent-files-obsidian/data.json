@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Istrid Horn",
+      "path": "content/NPCs/Istrid Horn.md"
+    },
+    {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/NPCs/Davil Starsong (Deceased).md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "NPC Template",
       "path": "content/templates/NPC Template.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/NPCs/Istrid Horn.md"
     },
     {
       "basename": "Manshoon",
