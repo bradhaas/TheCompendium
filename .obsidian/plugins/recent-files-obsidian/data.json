@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
       "basename": "Manshoon",
       "path": "content/Manshoon.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Ziraj the Hunter",
       "path": "content/Ziraj the Hunter.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
     },
     {
       "basename": "Force Gray",
