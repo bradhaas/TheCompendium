@@ -10,7 +10,8 @@ tags: [factions, Doom-Raiders]
 - After raiding every dungeon they could, they founded a mercenary compamy named the Black Network
 - Eventually, they allied themselves with [Manshoon](content/Manshoon.md) leading to the Black Network's transformation in to the [Zhentarim](content/Zhentarim.md)
 
-## Members
+## Key Members 
+Left to right in the image below:
 - [Davil Starsong (Deceased)](content/Davil%20Starsong%20(Deceased).md) A human Rogue
 	- Stabbed in the back by [Skeemo Weirdbottle](content/Skeemo%20Weirdbottle.md) as he betrayed his friends and helped [Manshoon](content/Manshoon.md) assassinate the Open Lord
 - [Tashlyn Yafeera](content/Tashlyn%20Yafeera.md) -
@@ -24,6 +25,12 @@ tags: [factions, Doom-Raiders]
 	- Together, they formed what became the [Zhentarim](content/Zhentarim.md)
 	- They acted as the generals of the Mercenary Group
 - Skeemo grew frustrated with their stagnant
+
+## All Members
+```dataview
+LIST
+FROM #Doom-Raiders 
+```
 
 ## What the Party Knows
 ### Goals

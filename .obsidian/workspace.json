@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Doom Raiders.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Doom Raiders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,13 +206,13 @@
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
     "content/NPCs.md",
+    "content/_index.md",
     "content/Factions.md",
     "content/Doom Raiders.md",
     "content/Davil Starsong (Deceased).md",
     "content/Force Gray.md",
     "content/Manshoon.md",
     "content/Istrid Horn.md",
-    "content/_index.md",
     "content/templates/NPC Template.md",
     "content/Zhentarim.md",
     "content/Renear Neverember.md",
