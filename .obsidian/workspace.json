@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Session Summaries.md",
+                "file": "content/NPCs/Tashlyn Yafeera.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Session Summaries.md"
+                "file": "content/NPCs/Tashlyn Yafeera.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Session Summaries.md",
+                "file": "content/NPCs/Tashlyn Yafeera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Session Summaries.md",
+                "file": "content/NPCs/Tashlyn Yafeera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,24 +205,25 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
-    "content/NPCs/NPCs.md",
     "content/NPCs/Istrid Horn.md",
+    "content/NPCs/Tashlyn Yafeera.md",
+    "content/Factions/Doom Raiders.md",
+    "content/NPCs/Manshoon.md",
+    "content/NPCs/Renear Neverember.md",
+    "content/NPCs/Skeemo Weirdbottle.md",
+    "content/NPCs/Vajra Safahr.md",
+    "content/NPCs/NPCs.md",
+    "content/Session Summaries.md",
     "content/attachments/Pasted image 20230515235113.png",
     "content/attachments/Pasted image 20230515234842.png",
     "content/NPCs/Davil Starsong (Deceased).md",
-    "content/Factions/Doom Raiders.md",
-    "content/Session Summaries.md",
     "content/_index.md",
     "content/templates/NPC Template.md",
-    "content/NPCs/Manshoon.md",
-    "content/NPCs/Renear Neverember.md",
-    "content/NPCs/Vajra Safahr.md",
     "content/Factions/Force Gray.md",
     "content/NPCs/Ziraj the Hunter.md",
     "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Session Summaries/Session Summaries.md",
     "content/Factions/Zhentarim.md",
-    "content/NPCs/Skeemo Weirdbottle.md",
     "content/Factions/Factions.md",
     "content/NPCs.md",
     "content/Factions.md",

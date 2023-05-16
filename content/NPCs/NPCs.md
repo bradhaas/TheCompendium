@@ -11,6 +11,7 @@ tags:
 - [[Manshoon]]
 - [[Renear Neverember]]
 - [[Skeemo Weirdbottle]]
+- [[Tashlyn Yafeera]]
 - [[Vajra Safahr]]
 - [[Ziraj the Hunter]]
 

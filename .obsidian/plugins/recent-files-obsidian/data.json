@@ -1,32 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
+      "basename": "Tashlyn Yafeera",
+      "path": "content/NPCs/Tashlyn Yafeera.md"
     },
     {
       "basename": "Istrid Horn",
       "path": "content/NPCs/Istrid Horn.md"
     },
     {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/NPCs/Davil Starsong (Deceased).md"
-    },
-    {
       "basename": "Doom Raiders",
       "path": "content/Factions/Doom Raiders.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
-      "basename": "NPC Template",
-      "path": "content/templates/NPC Template.md"
     },
     {
       "basename": "Manshoon",
@@ -37,8 +21,32 @@
       "path": "content/NPCs/Renear Neverember.md"
     },
     {
+      "basename": "Skeemo Weirdbottle",
+      "path": "content/NPCs/Skeemo Weirdbottle.md"
+    },
+    {
       "basename": "Vajra Safahr",
       "path": "content/NPCs/Vajra Safahr.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/NPCs/Davil Starsong (Deceased).md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "NPC Template",
+      "path": "content/templates/NPC Template.md"
     },
     {
       "basename": "Force Gray",
@@ -51,10 +59,6 @@
     {
       "basename": "Zhentarim",
       "path": "content/Factions/Zhentarim.md"
-    },
-    {
-      "basename": "Skeemo Weirdbottle",
-      "path": "content/NPCs/Skeemo Weirdbottle.md"
     },
     {
       "basename": "Factions",
