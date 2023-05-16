@@ -18,7 +18,7 @@ Left to right in the image below:
 - [Istrid Horn](Istrid%20Horn.md) - A Dwarven Shield Cleric
 - [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md) - A Gnomish Wizard
 - [Ziraj the Hunter](Ziraj%20the%20Hunter.md) - A Orc Paladin Archer
-![](attachments/Doom%20Raiders.png)
+![Doom Raiders](Doom%20Raiders.png)
 
 ## Faction History
 - An adventuring party that made a name for themselves cleaning out the lairs of liches (known as "dooms").

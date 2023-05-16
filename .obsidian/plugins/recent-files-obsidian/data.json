@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Waterdeep - City of Splendors",
+      "path": "content/Waterdeep - City of Splendors.md"
+    },
+    {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/Davil Starsong (Deceased).md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
       "basename": "Factions",
       "path": "content/Factions.md"
     },
@@ -23,18 +35,6 @@
     {
       "basename": "Ziraj the Hunter",
       "path": "content/Ziraj the Hunter.md"
-    },
-    {
-      "basename": "Waterdeep - City of Splendors",
-      "path": "content/Waterdeep - City of Splendors.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
-    },
-    {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/Davil Starsong (Deceased).md"
     },
     {
       "basename": "Davil",
@@ -115,10 +115,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "screenshot",
-      "path": "screenshot.png"
     },
     {
       "basename": "_index",

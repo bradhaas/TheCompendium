@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "38e6a93cca807053",
+        "id": "f5622df3fed3c567",
         "type": "tabs",
         "children": [
           {
-            "id": "7aa2f798df77a9ef",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a0642fdaa2204c05",
+            "id": "c385e34f9fba8889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Waterdeep - City of Splendors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions.md"
+                "file": "content/Waterdeep - City of Splendors.md"
               }
             }
           },
@@ -137,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Waterdeep - City of Splendors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Waterdeep - City of Splendors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,19 +203,21 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a0642fdaa2204c05",
+  "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "screenshot.png",
+    "TheCompendium.md",
+    "content/Davil Starsong (Deceased).md",
+    "content/Doom Raiders.md",
+    "content/Factions.md",
     "content/Skeemo Weirdbottle.md",
     "content/Renear Neverember.md",
     "content/Session Summaries.md",
     "content/_index.md",
-    "content/Factions.md",
     "content/NPC Summary.md",
     "content/Ziraj the Hunter.md",
     "content/Waterdeep - City of Splendors.md",
     "content/attachments/waterdeep.jpeg",
-    "content/Doom Raiders.md",
-    "content/Davil Starsong (Deceased).md",
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",
     "content/attachments/Skeemo.png",
@@ -249,7 +242,6 @@
     "content/Session Summaries",
     "NPCs",
     "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
-    "TheCompendium.md",
     "content/attachments",
     "config.toml.sb-fdbe754b-5cpBzZ",
     "content/attach.md",
