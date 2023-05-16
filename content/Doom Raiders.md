@@ -6,7 +6,9 @@ tags: [factions]
 ---
 ## Faction Background
 - An adventuring party that made a name for themselves cleaning out the lairs of liches (known as "dooms").
-- As they sought more 
+- As they sought more power, they eventually allied themselves with the wizard Manshoon
+	- Together, they formed what became the [[Zhentarim]]
+	- 
 
 As they 
 

@@ -49,7 +49,7 @@
       "format": "MMMM Do YYYY, h:mm:ss a"
     },
     "yaml-title": {
-      "enabled": false,
+      "enabled": true,
       "title-key": "title"
     },
     "yaml-title-alias": {

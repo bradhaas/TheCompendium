@@ -6,4 +6,4 @@ tags:
 - session-summary
 ---
 
-[[D&D/TheCompendium/NPCs/Ziraj the Hunter|Ziraj the Hunter]] ed the way
+[[Ziraj the Hunter]]
