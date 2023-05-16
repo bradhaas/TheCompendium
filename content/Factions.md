@@ -2,7 +2,7 @@
 title: Factions
 enableToc: false
 date created: May 16th 2023, 12:20:35 am
-date modified: May 16th 2023, 12:17:16 pm
+date modified: May 16th 2023, 12:17:44 pm
 tags: [factions]
 ---
 ## [Doom Raiders](Doom%20Raiders.md)
@@ -27,4 +27,7 @@ tags: [factions]
 
 ## [Manshoon](Manshoon.md) / [Zhentarim](Zhentarim.md)
 - Mercenary company turned gang led by [Manshoon](Manshoon.md), founded and managed by the [Doom Raiders](Doom%20Raiders.md)
-- **Primary Goal:** Accumulate resources - money, power, and spellcasting components - to fund Manshoon's expensive magical research
+> [!info] Primary Goal
+>
+> Accumulate resources - money, power, and spellcasting components - to fund Manshoon's expensive magical research
+
