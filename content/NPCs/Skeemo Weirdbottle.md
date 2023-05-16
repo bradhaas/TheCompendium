@@ -6,7 +6,7 @@ date modified: May 15th 2023, 10:34:23 pm
 tags: [NPCs, Doom-Raiders]
 ---
 ## Summary
-- Skeemo became the Master of Magic for the Black Network in Waterdeep, setting up a cover in the Trades Ward in the form of a cramped little shop called Weirdbottle’s Concoctions.
+- Skeemo became the Master of Magic for the [Zhentarim](../Factions/Zhentarim.md), setting up a cover in the Trades Ward in the form of a cramped little shop called Weirdbottle’s Concoctions.
 - Most of his potions and elixirs are nonmagical, but he crafts magical ones for his Zhent friends.
 ![](attachments/Pasted%20image%2020230515223421.png)
 ![](../attachments/Pasted%20image%2020230516000237.png)
