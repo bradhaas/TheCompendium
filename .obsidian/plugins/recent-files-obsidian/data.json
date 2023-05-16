@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Manshoon",
+      "path": "content/Manshoon.md"
+    },
+    {
+      "basename": "Lead Up to the Battle of the Closed Lords",
+      "path": "content/Lead Up to the Battle of the Closed Lords.md"
+    },
+    {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "post",
       "path": "content/templates/post.md"
-    },
-    {
-      "basename": "Lead Up to the Battle of the Closed Lords",
-      "path": "content/Lead Up to the Battle of the Closed Lords.md"
     },
     {
       "basename": "README",
