@@ -11,9 +11,12 @@
             "id": "c385e34f9fba8889",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/icon.png"
+                "file": "content/The Trollskull Team.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/icon.png",
+                "file": "content/The Trollskull Team.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/icon.png"
+                "file": "content/The Trollskull Team.md"
               }
             }
           },
@@ -176,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/icon.png",
+                "file": "content/The Trollskull Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,6 +211,11 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/Factions.md",
+    "content/Force Gray.md",
+    "content/Davil Starsong (Deceased).md",
+    "content/Cruceus Hieron Auric Disthenes.md",
+    "static/icon.png",
     "static/styles.css.md",
     "layouts/_default/baseof.html",
     "layouts/_default/Unconfirmed 607548.crdownload",
@@ -221,8 +229,6 @@
     "content/Tuferbop Lilli Timbers.md",
     "content/Matrick Side-Eyes.md",
     "content/Renear Neverember.md",
-    "content/Factions.md",
-    "content/Force Gray.md",
     "content/Istrid Horn.md",
     "content/Safvyre Everdreya.md",
     "content/Session Summaries.md",
@@ -231,7 +237,6 @@
     "content/Doom Raiders.md",
     "content/Tashlyn Yafeera.md",
     "content/Vajra Safahr.md",
-    "content/Cruceus Hieron Auric Disthenes.md",
     "content/attachments/Doom Raiders.png",
     "content/_index.md",
     "content/attachments/waterdeep.jpeg",
@@ -243,14 +248,12 @@
     "content/Waterdeep - City of Splendors.md",
     "screenshot.png",
     "TheCompendium.md",
-    "content/Davil Starsong (Deceased).md",
     "content/NPC Summary.md",
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",
     "content/attachments/Skeemo.png",
     "content/attachments/Pasted image 20230515222747 1.png",
     "content/attachments/Manshoon.png",
-    "content/attachments/Zhentarim Banner.png",
     "NPCs",
     "Factions",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
