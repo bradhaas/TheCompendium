@@ -5,16 +5,20 @@
       "path": "content/Factions.md"
     },
     {
-      "basename": "Renear Neverember",
-      "path": "content/Renear Neverember.md"
-    },
-    {
       "basename": "Doom Raiders",
       "path": "content/Doom Raiders.md"
     },
     {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/Davil Starsong (Deceased).md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/Renear Neverember.md"
     },
     {
       "basename": "Skeemo Weirdbottle",
@@ -43,10 +47,6 @@
     {
       "basename": "Vajra Safahr",
       "path": "content/Vajra Safahr.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "NPC Template",
