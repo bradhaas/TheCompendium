@@ -6,7 +6,9 @@ date modified: May 15th 2023, 8:39:56 pm
 tags: 
 ---
 ## Summary
-A burly half orc paladin and one of the original members of the [[content/Factions/Doom Raiders|Doom Raiders]]. Loyal to anyone who shows him kindness.
+- A burly half orc paladin and one of the original members of the [[content/Factions/Doom Raiders|Doom Raiders]]. 
+- Loyal to anyone who shows him kindness. 
+- Good Friends with Babacar
 
 ![](../attachments/Ziraj.png)()
 
