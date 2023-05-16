@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "NPC Template",
-      "path": "content/templates/NPC Template.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/NPCs/Istrid Horn.md"
-    },
-    {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/NPCs/Davil Starsong (Deceased).md"
-    },
-    {
-      "basename": "Manshoon",
-      "path": "content/NPCs/Manshoon.md"
     },
     {
       "basename": "Doom Raiders",
       "path": "content/Factions/Doom Raiders.md"
     },
     {
-      "basename": "Renear Neverember",
-      "path": "content/NPCs/Renear Neverember.md"
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
     },
     {
       "basename": "_index",
       "path": "content/_index.md"
+    },
+    {
+      "basename": "NPC Template",
+      "path": "content/templates/NPC Template.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/NPCs/Istrid Horn.md"
+    },
+    {
+      "basename": "Manshoon",
+      "path": "content/NPCs/Manshoon.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/NPCs/Renear Neverember.md"
     },
     {
       "basename": "Vajra Safahr",
@@ -43,10 +47,6 @@
     {
       "basename": "Ziraj the Hunter",
       "path": "content/NPCs/Ziraj the Hunter.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
     },
     {
       "basename": "Zhentarim",
