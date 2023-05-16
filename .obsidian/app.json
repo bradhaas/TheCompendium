@@ -35,6 +35,6 @@
     "insert-current-time"
   ],
   "readableLineLength": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": false
 }

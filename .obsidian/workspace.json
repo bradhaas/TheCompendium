@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md"
+                "file": "content/NPCs/Ziraj the Hunter.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +205,14 @@
   },
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
-    "content/NPCs/Ziraj the Hunter.md",
-    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
-    "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
+    "content/NPCs/NPCs.md",
+    "content/attachments/Ziraj.png",
+    "README.md",
+    "screenshot.png",
     "content/Factions/Doom Raiders.md",
+    "content/NPCs/Ziraj the Hunter.md",
+    "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
+    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "'content/attachments/Pasted.md",
     "'content/attachments",
     "'content",
@@ -217,8 +221,6 @@
     "content/attachments/P.md",
     "content/attachments/Pasted.md",
     "content/Factions/Factions.md",
-    "content/attachments/Ziraj.png",
-    "content/NPCs/NPCs.md",
     "content/Session Summaries",
     "content/attachments",
     "content/NPCs.md",
@@ -235,7 +237,6 @@
     "Relationship/Date Ideas.md",
     "D&D/TheCompendium/data/config.yaml.sb-fdbe754b-B8QeHr",
     "Periodic Notes/Daily Notes/2023-05-15.md",
-    "D&D/D&D - Campaign 1/D&D - Campaign 1.md",
     "D&D/TheCompendium/static/icon.png",
     "D&D/TheCompendium/static",
     "D&D/TheCompendium/screenshot.png",
@@ -248,9 +249,7 @@
     "D&D/TheCompendium/content/notes/images/obsidian-settings.png",
     "D&D/TheCompendium/content/notes/images/fork.png",
     "D&D/TheCompendium/content/notes/images/github-actions.png",
-    "D&D/TheCompendium/content/templates/post.md",
     "D&D/D&D - Campaign 1/Player's Vault/PlayersVault/screenshot.png",
-    "D&D/D&D - Campaign 1/TheCompendium/static/icon.png",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]
