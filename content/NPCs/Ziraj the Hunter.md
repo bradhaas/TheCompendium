@@ -5,7 +5,7 @@ date created: May 15th 2023, 5:48:00 pm
 date modified: May 15th 2023, 8:05:03 pm
 tags: 
 ---
-![ziraj](Ziraj.png)
+![ziraj](../attachments/Ziraj.png)
 
 ## Background
 **Race**: Half Orc
