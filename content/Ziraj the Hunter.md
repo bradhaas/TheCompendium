@@ -2,7 +2,7 @@
 title: Ziraj the Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
-date modified: May 15th 2023, 8:58:19 pm
+date modified: May 15th 2023, 9:02:21 pm
 tags: 
 ---
 ## Summary
@@ -13,7 +13,7 @@ tags:
 
 ## Background
 - **Race**: Half Orc
-- **Faction**: [[Doom Raiders|Doom Raiders]]
+- **Faction**: [[Doom Raiders]]
 - **Abilities**: Arrow Paladin.
 
 ## Party Relationship
