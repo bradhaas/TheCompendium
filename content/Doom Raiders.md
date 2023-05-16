@@ -6,7 +6,7 @@ tags: [factions]
 ---
 ## Faction Background
 ### Goals
-asdf
+To 
 ### Ideals
 asd
 ### Hangout Spots
