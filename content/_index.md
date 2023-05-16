@@ -6,8 +6,6 @@ date modified: May 15th 2023, 6:03:11 pm
 ---
 
 Welcome to the Compendium!
-[[Ziraj the Hunter]] - test relative to path
 
-[[D&D/TheCompendium/content/Ziraj the Hunter|Ziraj the Hunter]] - absolute path in vault
-
-[[Ziraj the Hunter]] - just raw brackets
+[[D&D/TheCompendium/content/Ziraj the Hunter|Ziraj the Hunter]] - shortest path when possible
+[[D&D/TheCompendium/content/Ziraj the Hunter#^db50a5|Ziraj the Hunter]]
