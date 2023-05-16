@@ -13,4 +13,12 @@ Absolute links below
 
 # [Factions](Factions.md)
 
+# [Session Summaries](Session%20Summaries.md)
+
+first image
+![](Ziraj.png)
+relative path image
+![](attachments/Ziraj.png)
+
+
 

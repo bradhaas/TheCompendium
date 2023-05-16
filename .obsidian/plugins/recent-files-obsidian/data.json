@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "NPCs",
       "path": "content/NPCs.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Istrid Horn",
       "path": "content/Istrid Horn.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "NPC Template",
