@@ -1,13 +1,12 @@
 ---
-title: "Vajra Safahr"
+title: Vajra Safahr
+enableToc: false
 date created: May 15th 2023, 8:27:16 pm
-date modified: May 15th 2023, 8:27:27 pm
+date modified: May 15th 2023, 9:53:45 pm
 tags: 
 ---
 ## Summary
 A burly half orc paladin and one of the original members of the [[Doom Raiders]]. Loyal to anyone who shows him kindness.
-
-
 
 ## Background
 **Race**: Half Orc
