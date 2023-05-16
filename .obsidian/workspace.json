@@ -11,13 +11,8 @@
             "id": "c385e34f9fba8889",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "static/styles.css.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -118,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/styles.css.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "static/styles.css.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/styles.css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,12 +200,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c385e34f9fba8889",
+  "active": "9dd573882abf551c",
   "lastOpenFiles": [
-    "content/The Trollskull Team.md",
-    "static/styles.css.md",
+    "layouts/_default/baseof.html",
+    "layouts/_default/Unconfirmed 607548.crdownload",
     "layouts/partials/header.html",
     "layouts/partials/header.rtf",
+    "static/styles.css.md",
+    "layouts/_default/baseof.html.rtf",
+    "layouts/_default/baseof.rtf",
+    "static/styles.css",
+    "content/The Trollskull Team.md",
     "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
     "content/Tuferbop Lilli Timbers.md",
     "content/Matrick Side-Eyes.md",
@@ -249,14 +245,9 @@
     "content/attachments/Pasted image 20230515222747 1.png",
     "content/attachments/Manshoon.png",
     "content/attachments/Zhentarim Banner.png",
-    "content/NPCs.md",
     "NPCs",
     "Factions",
     "content/Session Summaries",
-    "NPCs",
-    "content/attachments",
-    "config.toml.sb-fdbe754b-5cpBzZ",
-    "content/attachments",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]
