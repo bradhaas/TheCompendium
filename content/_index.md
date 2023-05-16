@@ -2,7 +2,7 @@
 title: _index
 enableToc: false
 date created: May 15th 2023, 5:45:10 pm
-date modified: May 15th 2023, 10:16:35 pm
+date modified: May 15th 2023, 10:41:12 pm
 tags: 
 ---
 
@@ -13,4 +13,3 @@ Welcome to the Compendium!
 ## [Factions](Factions.md)
 
 ## [NPCs](NPCs/NPCs.md)
-

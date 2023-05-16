@@ -8,10 +8,10 @@ tags: [factions, Doom-Raiders]
 ## Summary
 - An adventuring party not unlike the Trollskull crew
 - After raiding every dungeon they could, they founded a mercenary compamy named the Black Network
-- Eventually, they allied themselves with [Manshoon](Manshoon.md), leading to the Black Network's transformation in to the [Zhentarim](Zhentarim.md)
+- Eventually, they allied themselves with [Manshoon](../NPCs/Manshoon.md), leading to the Black Network's transformation in to the [Zhentarim](Zhentarim.md)
 
 ## Members
-- [[Davil Starsong (Deceased)]] - A human Rogue
+- [[NPCs/Davil Starsong (Deceased)]] - A human Rogue
 - [[NPCs/Ziraj the Hunter]] - A Orc Paladin Archer
 - [[NPCs/Istrid Horn]] - A Dwarven Shield Cleric
 - [[NPCs/Skeemo Weirdbottle]] - A Gnomish Wizard

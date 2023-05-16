@@ -6,7 +6,9 @@ date modified: May 15th 2023, 10:40:12 pm
 tags: 
 ---
 %% Begin Waypoint %%
+- [[Davil Starsong (Deceased)]]
 - [[Istrid Horn]]
+- [[Manshoon]]
 - [[Renear Neverember]]
 - [[Skeemo Weirdbottle]]
 - [[Vajra Safahr]]
