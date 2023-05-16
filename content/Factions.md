@@ -2,11 +2,11 @@
 title: Factions
 enableToc: false
 date created: May 16th 2023, 12:20:35 am
-date modified: May 16th 2023, 12:20:52 pm
+date modified: May 16th 2023, 12:33:39 pm
 tags: [factions]
 ---
 ## [Doom Raiders](Doom%20Raiders.md)
-- An ex-adventuring party turned mercenary group turned gang generals turned unlikely allies to the party
+An ex-adventuring party turned mercenary group turned gang generals turned unlikely allies to the party
 > [!info] Primary Goal
 >
 > Escape the city and [Manshoon](Manshoon.md)'s influence. Don't lose any more friends.

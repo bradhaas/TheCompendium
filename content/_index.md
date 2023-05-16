@@ -9,9 +9,9 @@ tags: [NPCs]
 Welcome to the Compendium!
 Absolute links below
 
-## [Factions](Factions.md)
-
 ## [Session Summaries](Session%20Summaries.md)
 
-relative path image
-![](attachments/Ziraj.png)
+## [Factions](Factions.md)
+
+
+

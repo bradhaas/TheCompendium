@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Manshoon.md",
+                "file": "content/Factions.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Manshoon.md"
+                "file": "content/Factions.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Manshoon.md",
+                "file": "content/Factions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Manshoon.md",
+                "file": "content/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,15 +205,17 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
-    "content/Doom Raiders.md",
-    "content/Manshoon.md",
+    "content/Session Summaries.md",
+    "content/_index.md",
     "content/Factions.md",
+    "content/attachments/waterdeep.jpeg",
+    "content/Manshoon.md",
+    "content/Doom Raiders.md",
     "content/Blackstaff.md",
     "content/Vajra Safahr.md",
     "content/Tashlyn Yafeera.md",
     "content/Skeemo Weirdbottle.md",
     "content/Renear Neverember.md",
-    "content/Session Summaries.md",
     "content/Zhentarim.md",
     "content/attachments/Pasted image 20230516105853.png",
     "content/Ziraj the Hunter.md",
@@ -221,9 +223,7 @@
     "screenshot.png",
     "TheCompendium.md",
     "content/Davil Starsong (Deceased).md",
-    "content/_index.md",
     "content/NPC Summary.md",
-    "content/attachments/waterdeep.jpeg",
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",
     "content/attachments/Skeemo.png",
@@ -247,7 +247,6 @@
     "content/attach.md",
     "content/attachments",
     "content/templates/[[Ziraj.png]].md",
-    "content/templates/post.md",
     "'content/attachments",
     "'content",
     "Session Summaries",

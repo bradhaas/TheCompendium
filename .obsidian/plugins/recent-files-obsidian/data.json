@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "waterdeep",
+      "path": "content/attachments/waterdeep.jpeg"
+    },
+    {
       "basename": "Manshoon",
       "path": "content/Manshoon.md"
     },
     {
       "basename": "Doom Raiders",
       "path": "content/Doom Raiders.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
     },
     {
       "basename": "Blackstaff",
@@ -33,10 +45,6 @@
       "path": "content/Renear Neverember.md"
     },
     {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
-    },
-    {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/Davil Starsong (Deceased).md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Davil",
