@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
       "basename": "Factions",
       "path": "content/Factions.md"
     },
     {
+      "basename": "Skeemo Weirdbottle",
+      "path": "content/Skeemo Weirdbottle.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/Renear Neverember.md"
+    },
+    {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
     },
     {
       "basename": "Ziraj the Hunter",
@@ -79,14 +87,6 @@
     {
       "basename": "Tashlyn Yafeera",
       "path": "content/Tashlyn Yafeera.md"
-    },
-    {
-      "basename": "Skeemo Weirdbottle",
-      "path": "content/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/Renear Neverember.md"
     },
     {
       "basename": "Manshoon",

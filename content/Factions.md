@@ -21,6 +21,7 @@ tags: [factions]
 - The elite group of magical and non-magical scholars and warriors led by the Blackstaff [Vajra Safahr](Vajra%20Safahr.md) and tasked with defending Waterdeep
 - **Primary Goal:** Defend the city by any means necessary.
 > [!success] Primary Goal
+> 
 > Defend the city by any means necessary
 
 ## [Zhentarim](Zhentarim.md)
