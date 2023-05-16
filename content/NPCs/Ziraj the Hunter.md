@@ -2,14 +2,14 @@
 title: Ziraj The Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
-date modified: May 15th 2023, 6:42:34 pm
+date modified: May 15th 2023, 6:47:54 pm
 ---
-![[content/attachments/Pasted image 20230515181857.png]]
+![[content/attachments/Pasted image 20230515181857.png|300]]
 
-![Ziraj](/content/attachments/Pasted image 20230515181857.png)
+## Background
+**Race**: Half Orc
+**Faction**: [[content/Factions/Doom Raiders|Doom Raiders]]
 
-Faction: [[content/Factions/Doom Raiders|Doom Raiders]]
-
-Test: This is the player's view
-
-Player Editing this from the web
+## Party Relationship
+- Party fled from Ziraj's huge arrow bolts through the city as
+- Chad and Ziraj struck up a friendship -
