@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions Summary.md",
+                "file": "content/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions Summary.md"
+                "file": "content/Doom Raiders.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions Summary.md",
+                "file": "content/Doom Raiders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions Summary.md",
+                "file": "content/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,40 +204,40 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
-    "content/Force Gray.md",
-    "content/Factions Summary.md",
-    "content/Manshoon.md",
-    "content/Doom Raiders.md",
     "content/Davil Starsong (Deceased).md",
-    "content/NPCs.md",
-    "content/_index.md",
-    "content/Vajra Safahr.md",
+    "content/attachments/Davil.png",
+    "content/attachments/Istrid.png",
+    "content/attachments/Skeemo.png",
+    "content/attachments/Pasted image 20230515222747 1.png",
+    "content/attachments/Doom Raiders.png",
+    "content/attachments/Manshoon.png",
+    "content/attachments/Zhentarim Banner.png",
+    "content/attachments/Istrid Statblock.png",
+    "content/attachments/Tashlyn.png",
+    "content/attachments/Tashlyn Statblock.png",
     "content/Ziraj the Hunter.md",
-    "content/Istrid Horn.md",
-    "content/templates/NPC Template.md",
     "content/Zhentarim.md",
-    "content/Renear Neverember.md",
-    "content/Session Summaries.md",
+    "content/Vajra Safahr.md",
     "content/Tashlyn Yafeera.md",
     "content/Skeemo Weirdbottle.md",
+    "content/Session Summaries.md",
+    "content/Renear Neverember.md",
+    "content/Manshoon.md",
+    "content/Istrid Horn.md",
+    "content/Force Gray.md",
+    "content/Factions Summary.md",
+    "content/Doom Raiders.md",
+    "content/NPCs.md",
+    "content/_index.md",
+    "content/templates/NPC Template.md",
     "NPCs",
-    "content/attachments/Pasted image 20230516000237.png",
-    "content/attachments/Pasted image 20230515235918.png",
-    "content/attachments/Pasted image 20230515235853.png",
-    "content/attachments/Pasted image 20230515235113.png",
-    "content/attachments/Pasted image 20230515234842.png",
     "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Session Summaries/Session Summaries.md",
     "Factions",
     "content/Session Summaries",
     "NPCs",
     "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
-    "content/attachments/Pasted image 20230515223421.png",
-    "content/attachments/Pasted image 20230515223326.png",
-    "content/attachments/Pasted image 20230515222747.png",
     "TheCompendium.md",
-    "content/attachments/Ziraj.png",
-    "content/attachments/Pasted image 20230515212225.png",
     "content/attachments",
     "config.toml.sb-fdbe754b-5cpBzZ",
     "content/attach.md",

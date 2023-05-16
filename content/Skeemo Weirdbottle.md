@@ -6,7 +6,7 @@ date modified: May 16th 2023, 12:23:10 am
 tags: [NPCs, Doom-Raiders]
 ---
 ## Summary
-- Skeemo became the Master of Magic for the [Zhentarim](content/Zhentarim.md), setting up a cover in the Trades Ward in the form of a cramped little shop called Weirdbottle’s Concoctions.
+- Skeemo became the Master of Magic for the [Zhentarim](Zhentarim.md), setting up a cover in the Trades Ward in the form of a cramped little shop called Weirdbottle’s Concoctions.
 - Most of his potions and elixirs are nonmagical, but he crafts magical ones for his Zhent friends.
-![](attachments/Pasted%20image%2020230515223421.png)
-![](../attachments/Pasted%20image%2020230516000237.png)
+![Pasted image 20230515223421](attachments/Skeemo.png)
+![Pasted image 20230516000237](attachments/Skeemo%20Statblock.png)

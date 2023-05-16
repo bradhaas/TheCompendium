@@ -6,11 +6,11 @@ date modified: May 16th 2023, 8:57:28 am
 tags: 
 ---
 ## Summary
-- Tashlyn is Master of Arms and Mercenaries for the [Zhentarim](content/Zhentarim.md). In this role, she provides armor, weapons, and training to sellswords on the Black Network’s payroll.
-- Founding member of the [Doom Raiders](content/Doom%20Raiders.md)
+- Tashlyn is Master of Arms and Mercenaries for the [Zhentarim](Zhentarim.md). In this role, she provides armor, weapons, and training to sellswords on the Black Network’s payroll.
+- Founding member of the [Doom Raiders](Doom%20Raiders.md)
 
-![](../attachments/Pasted%20image%2020230515235853.png)
-![](../attachments/Pasted%20image%2020230515235918.png)
+![Pasted image 20230515235853](attachments/Tashlyn.png)
+![Pasted image 20230515235918](attachments/Tashlyn%20Statblock.png)
 
 ## Background
 - Tashlyn has established a useful cover by serving as a bodyguard to Vorondar Levelstone, a dwarf magister stationed at the South Gate.
