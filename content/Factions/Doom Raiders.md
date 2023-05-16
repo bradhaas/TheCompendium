@@ -2,7 +2,7 @@
 title: Doom Raiders
 enableToc: false
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 15th 2023, 11:30:46 pm
+date modified: May 15th 2023, 11:36:02 pm
 tags: [factions, Doom-Raiders]
 ---
 ## Summary
@@ -19,7 +19,7 @@ tags: [factions, Doom-Raiders]
 ## Faction History
 - An adventuring party that made a name for themselves cleaning out the lairs of liches (known as "dooms").
 - As they sought more power, they eventually allied themselves with the wizard Manshoon
-	- Together, they formed what became the [[Zhentarim]]
+	- Together, they formed what became the [Zhentarim](Zhentarim.md)
 
 ## What the Party Knows
 ### Goals

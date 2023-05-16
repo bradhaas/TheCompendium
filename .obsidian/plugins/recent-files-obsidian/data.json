@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Doom Raiders",
+      "path": "content/Factions/Doom Raiders.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/NPCs/Renear Neverember.md"
+    },
+    {
+      "basename": "Manshoon",
+      "path": "content/NPCs/Manshoon.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/NPCs/Istrid Horn.md"
+    },
+    {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/NPCs/Davil Starsong (Deceased).md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -21,16 +41,8 @@
       "path": "content/Session Summaries.md"
     },
     {
-      "basename": "Doom Raiders",
-      "path": "content/Factions/Doom Raiders.md"
-    },
-    {
       "basename": "Zhentarim",
       "path": "content/Factions/Zhentarim.md"
-    },
-    {
-      "basename": "Manshoon",
-      "path": "content/NPCs/Manshoon.md"
     },
     {
       "basename": "Skeemo Weirdbottle",
@@ -41,20 +53,8 @@
       "path": "content/Factions/Factions.md"
     },
     {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/NPCs/Davil Starsong (Deceased).md"
-    },
-    {
       "basename": "NPCs",
       "path": "content/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/NPCs/Renear Neverember.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/NPCs/Istrid Horn.md"
     },
     {
       "basename": "Ziraj",
