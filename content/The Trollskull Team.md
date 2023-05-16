@@ -13,10 +13,15 @@ tags: [factions, trollskull-team]
 > - [[Stone of Golorr]], with all 3 eyes, will reveal it's location
 > - [Manshoon](Manshoon.md) and the [Cassalanter Family](Cassalanter%20Family.md) hold the remaining eyes
 
+> [!example] Secondary Goal
+>
+> Prevent the city from being taken over by Manshoon. Restore the "democratically" (*rolls eyes*) elected leaders of Waterdeep, the [[Closed Lords of Waterdeep]]
+> 
 
 > [!example] Secondary Goal
 >
-> Prevent the city from being taken over by Manshoon. Restore the "democratically" (*Rolls Eyes*) elected leaders of Waterdeep, the [[Closed Lords of Waterdeep]]
+> Ensure the new [Open Lord](Closed%20Lords%20of%20Waterdeep.md) of Waterdeep is someone who's goals align with the parties
+> Your good friend 
 > 
 
 ## Members
