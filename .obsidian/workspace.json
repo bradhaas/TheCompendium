@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,14 +219,14 @@
   },
   "active": "082baa2eb81554c5",
   "lastOpenFiles": [
+    "content/2023-05-21 - The Battle of the Closed Lords.md",
+    "content/_index.md",
+    "content/Ziraj the Hunter.md",
     "content/Doom Raiders.md",
+    "content/NPCs.md",
     "content/Renear Neverember.md",
     "content/Zhentarim.md",
-    "content/NPCs.md",
-    "content/Ziraj the Hunter.md",
-    "content/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Session Summaries.md",
-    "content/_index.md",
     "content/Factions.md",
     "content/attachments/Ziraj.png",
     "config.toml.sb-fdbe754b-5cpBzZ",

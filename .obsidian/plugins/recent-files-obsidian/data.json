@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "NPCs",
-      "path": "content/NPCs.md"
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "2023-05-21 - The Battle of the Closed Lords",
+      "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
+    },
+    {
+      "basename": "Ziraj the Hunter",
+      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "Doom Raiders",
       "path": "content/Doom Raiders.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
     },
     {
       "basename": "Renear Neverember",
@@ -17,20 +29,8 @@
       "path": "content/Zhentarim.md"
     },
     {
-      "basename": "Ziraj the Hunter",
-      "path": "content/Ziraj the Hunter.md"
-    },
-    {
-      "basename": "2023-05-21 - The Battle of the Closed Lords",
-      "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
-    },
-    {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Factions",
