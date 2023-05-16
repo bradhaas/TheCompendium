@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Skeemo Wierdbottle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Doom Raiders.md"
+                "file": "content/Skeemo Wierdbottle.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Skeemo Wierdbottle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Skeemo Wierdbottle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,9 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/Doom Raiders.md",
+    "content/Skeemo Wierdbottle.md",
+    "content/attachments/Pasted image 20230515222747.png",
     "content/Factions.md",
     "content/Istrid Horn.md",
     "content/Lead Up to the Battle of the Closed Lords.md",
@@ -215,7 +218,6 @@
     "content/Vajra Safahr.md",
     "content/Zhentarim.md",
     "content/_index.md",
-    "content/Doom Raiders.md",
     "content/Ziraj the Hunter.md",
     "TheCompendium.md",
     "content/2023-05-21 - The Battle of the Closed Lords.md",
@@ -241,7 +243,6 @@
     "D&D/TheCompendium/content/NPCs.md",
     "D&D/TheCompendium/content/Factions.md",
     "D&D/TheCompendium/content/Ziraj the Hunter.md",
-    "D&D/TheCompendium/content/_index.md",
     "D&D/TheCompendium/data/config.yaml.sb-fdbe754b-B8QeHr",
     "D&D/TheCompendium/static/icon.png",
     "D&D/TheCompendium/static",
@@ -250,7 +251,6 @@
     "D&D/TheCompendium/content/notes/images/github-pages.png",
     "D&D/TheCompendium/content/notes/images/google-domains.png",
     "D&D/TheCompendium/content/notes/images/obsidian-settings.png",
-    "D&D/TheCompendium/content/notes/images/fork.png",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]

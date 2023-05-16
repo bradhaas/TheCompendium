@@ -19,6 +19,7 @@
 	- [[NPCs]]
 	- [[Renear Neverember]]
 	- [[Session Summaries]]
+	- [[Skeemo Wierdbottle]]
 	- **templates**
 		- [[NPC Template]]
 		- [[post]]

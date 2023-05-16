@@ -13,8 +13,9 @@ tags: [factions, doom-raiders]
 ## Members
 - [[Ziraj the Hunter]] - A Orc Paladin Archer
 - [[Istrid Horn]] - A Dwarven Shield Cleric
-
-
+- [[Skeemo Wierdbottle]]
+- 
+![](attachments/Pasted%20image%2020230515222747.png)
 ## Faction History
 - An adventuring party that made a name for themselves cleaning out the lairs of liches (known as "dooms").
 - As they sought more power, they eventually allied themselves with the wizard Manshoon

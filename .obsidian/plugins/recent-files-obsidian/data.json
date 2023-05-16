@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Skeemo Wierdbottle",
+      "path": "content/Skeemo Wierdbottle.md"
+    },
+    {
       "basename": "Doom Raiders",
       "path": "content/Doom Raiders.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hobbies",
       "path": "Hobbies/Hobbies.md"
-    },
-    {
-      "basename": "Dogs",
-      "path": "Dogs/Dogs.md"
     }
   ],
   "omittedPaths": [],
