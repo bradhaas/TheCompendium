@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Zhentarim",
+      "path": "content/Zhentarim.md"
+    },
+    {
+      "basename": "Vajra Safahr",
+      "path": "content/Vajra Safahr.md"
+    },
+    {
+      "basename": "Ziraj the Hunter",
+      "path": "content/Ziraj the Hunter.md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
+      "basename": "Ziraj",
+      "path": "content/attachments/Ziraj.png"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
     {
       "basename": "2023-05-21 - The Battle of the Closed Lords",
       "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "Doom Raiders",
@@ -25,24 +41,8 @@
       "path": "content/Renear Neverember.md"
     },
     {
-      "basename": "Zhentarim",
-      "path": "content/Zhentarim.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
-    },
-    {
       "basename": "Factions",
       "path": "content/Factions.md"
-    },
-    {
-      "basename": "Ziraj",
-      "path": "content/attachments/Ziraj.png"
-    },
-    {
-      "basename": "Vajra Safahr",
-      "path": "content/Vajra Safahr.md"
     },
     {
       "basename": "NPC Template",
