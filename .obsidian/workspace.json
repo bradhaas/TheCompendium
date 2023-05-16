@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Lead Up to the Battle of the Closed Lords.md",
+                "file": "content/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Lead Up to the Battle of the Closed Lords.md"
+                "file": "content/Doom Raiders.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Lead Up to the Battle of the Closed Lords.md",
+                "file": "content/Doom Raiders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Lead Up to the Battle of the Closed Lords.md",
+                "file": "content/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,6 +206,8 @@
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
     "content/Ziraj the Hunter.md",
+    "TheCompendium.md",
+    "content/Lead Up to the Battle of the Closed Lords.md",
     "content/Vajra Safahr.md",
     "content/Factions.md",
     "content/2023-05-21 - The Battle of the Closed Lords.md",
@@ -217,7 +219,6 @@
     "content/attachments/Pasted image 20230515212225.png",
     "content/attachments",
     "content/attachments/Pasted image 20230515212419.png",
-    "content/Lead Up to the Battle of the Closed Lords.md",
     "content/Session Summaries.md",
     "content/_index.md",
     "content/Renear Neverember.md",
