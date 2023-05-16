@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions/Doom Raiders.md"
+                "file": "content/NPCs/Ziraj the Hunter.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,6 +219,7 @@
   },
   "active": "ea5ada52a4d9e034",
   "lastOpenFiles": [
+    "content/Factions/Doom Raiders.md",
     "content/NPCs/NPCs.md",
     "content/NPCs/Ziraj the Hunter.md",
     "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
@@ -226,7 +227,6 @@
     "content/Session Summaries",
     "content/attachments/Pasted image 20230515181857.png",
     "content/attachments",
-    "content/Factions/Doom Raiders.md",
     "content/Factions/Factions.md",
     "content/_index.md",
     "content/NPCs.md",
