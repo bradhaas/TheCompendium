@@ -2,9 +2,12 @@
 title: Ziraj The Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
-date modified: May 15th 2023, 6:53:35 pm
+date modified: May 15th 2023, 7:09:01 pm
 ---
+Done the way I'm supposed to
+![Ziraj](/content/attachments/Ziraj.png)
 
+Dragged in
 ![[content/attachments/Ziraj.png]]
 
 ## Background
