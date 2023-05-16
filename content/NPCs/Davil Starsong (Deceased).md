@@ -10,4 +10,4 @@ tags: [NPCs, doom-raiders]
 - Founding member of the [Doom Raiders](content/Factions/Doom%20Raiders.md)
 - Sun Elf Rogue with an affinity for magic
 - Does most of his business in the taproom of the Yawning Portal
-![](attachments/Pasted%20image%2020230515223326.png)
+![Pasted image 20230515223326](content/attachments/Pasted%20image%2020230515223326.png)

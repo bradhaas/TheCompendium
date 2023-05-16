@@ -14,4 +14,4 @@ Absolute links below
 [Session Summaries](content/Session%20Summaries.md)
 
 [Ziraj the Hunter](content/NPCs/Ziraj%20the%20Hunter.md)
-![](content/attachments/Ziraj.png)
+![Ziraj](content/attachments/Ziraj.png)

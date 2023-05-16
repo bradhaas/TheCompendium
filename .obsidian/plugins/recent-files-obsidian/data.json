@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
       "basename": "NPCs",
       "path": "content/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Manshoon",
+      "path": "content/NPCs/Manshoon.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/NPCs/Istrid Horn.md"
+    },
+    {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/NPCs/Davil Starsong (Deceased).md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
     },
     {
       "basename": "Tashlyn Yafeera",
@@ -21,24 +37,8 @@
       "path": "content/NPCs/Ziraj the Hunter.md"
     },
     {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
-    },
-    {
       "basename": "Skeemo Weirdbottle",
       "path": "content/NPCs/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/NPCs/Istrid Horn.md"
-    },
-    {
-      "basename": "Manshoon",
-      "path": "content/NPCs/Manshoon.md"
-    },
-    {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/NPCs/Davil Starsong (Deceased).md"
     },
     {
       "basename": "Doom Raiders",
