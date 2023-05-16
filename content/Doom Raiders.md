@@ -1,11 +1,12 @@
 ---
 title: Doom Raiders
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 15th 2023, 9:17:06 pm
+date modified: May 15th 2023, 9:17:19 pm
 tags: [factions]
 ---
 ## Summary
 An adventuring party that, while seeking [Ziraj the Hunter](Ziraj%20the%20Hunter.md)
+has new image in attachment folder below
 ![](Ziraj.png)
 
 ## Members
