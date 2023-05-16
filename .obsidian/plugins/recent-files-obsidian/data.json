@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Zhentarim",
+      "path": "content/Factions/Zhentarim.md"
+    },
+    {
+      "basename": "Force Gray",
+      "path": "content/Factions/Force Gray.md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/Factions/Doom Raiders.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions/Factions.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/NPCs/Renear Neverember.md"
+    },
+    {
       "basename": "NPCs",
       "path": "content/NPCs/NPCs.md"
     },
@@ -29,32 +49,12 @@
       "path": "content/NPCs/Tashlyn Yafeera.md"
     },
     {
-      "basename": "Factions",
-      "path": "content/Factions/Factions.md"
-    },
-    {
       "basename": "Ziraj the Hunter",
       "path": "content/NPCs/Ziraj the Hunter.md"
     },
     {
       "basename": "Skeemo Weirdbottle",
       "path": "content/NPCs/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Factions/Doom Raiders.md"
-    },
-    {
-      "basename": "Force Gray",
-      "path": "content/Factions/Force Gray.md"
-    },
-    {
-      "basename": "Zhentarim",
-      "path": "content/Factions/Zhentarim.md"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/NPCs/Renear Neverember.md"
     },
     {
       "basename": "Vajra Safahr",

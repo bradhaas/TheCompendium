@@ -17,7 +17,7 @@ tags: [factions, Doom-Raiders]
 - [Istrid Horn](content/NPCs/Istrid%20Horn.md) - A Dwarven Shield Cleric
 - [Skeemo Weirdbottle](content/NPCs/Skeemo%20Weirdbottle.md) - A Gnomish Wizard
 - [Ziraj the Hunter](content/NPCs/Ziraj%20the%20Hunter.md) - A Orc Paladin Archer
-![](attachments/Pasted%20image%2020230515222747.png)
+![Pasted image 20230515222747](content/attachments/Pasted%20image%2020230515222747.png)
 ## Faction History
 - An adventuring party that made a name for themselves cleaning out the lairs of liches (known as "dooms").
 - As they sought more power, they eventually allied themselves with the wizard [Manshoon](content/NPCs/Manshoon.md)
