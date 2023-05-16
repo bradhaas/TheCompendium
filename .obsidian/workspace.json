@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/NPCs/NPCs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions.md"
+                "file": "content/NPCs/NPCs.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/NPCs/NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/NPCs/NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,31 +205,33 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
-    "content/Doom Raiders.md",
-    "content/Factions.md",
-    "content/Davil Starsong (Deceased).md",
-    "content/_index.md",
-    "content/Renear Neverember.md",
-    "content/NPCs/NPCs.md",
-    "content/Skeemo Weirdbottle.md",
-    "content/Manshoon.md",
-    "content/Istrid Horn.md",
+    "content/NPCs/Manshoon.md",
+    "content/NPCs/Davil Starsong (Deceased).md",
+    "content/Factions/Factions.md",
     "content/Session Summaries.md",
+    "content/Factions.md",
+    "content/NPCs/NPCs.md",
+    "content/Factions/Doom Raiders.md",
+    "content/NPCs",
+    "content/Factions/Force Gray.md",
+    "content/Factions/Zhentarim.md",
+    "content/NPCs/Skeemo Weirdbottle.md",
+    "content/NPCs/Renear Neverember.md",
+    "content/_index.md",
+    "content/NPCs/Istrid Horn.md",
     "content/attachments/Pasted image 20230516000237.png",
-    "content/Zhentarim.md",
-    "content/Tashlyn Yafeera.md",
+    "content/NPCs/Tashlyn Yafeera.md",
     "content/attachments/Pasted image 20230515235918.png",
     "content/attachments/Pasted image 20230515235853.png",
-    "content/Vajra Safahr.md",
+    "content/NPCs/Vajra Safahr.md",
     "content/attachments/Pasted image 20230515235113.png",
     "content/attachments/Pasted image 20230515234842.png",
     "content/templates/NPC Template.md",
-    "content/Force Gray.md",
-    "content/Ziraj the Hunter.md",
+    "content/NPCs/Ziraj the Hunter.md",
     "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Session Summaries/Session Summaries.md",
     "content/NPCs.md",
-    "Factions",
+    "content/Factions",
     "content/Session Summaries",
     "content/NPCs",
     "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
@@ -248,7 +250,6 @@
     "'content/attachments",
     "'content",
     "Session Summaries",
-    "content/attachments",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]

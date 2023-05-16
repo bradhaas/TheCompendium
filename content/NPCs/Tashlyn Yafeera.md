@@ -6,8 +6,8 @@ date modified: May 16th 2023, 12:01:16 am
 tags: 
 ---
 ## Summary
-- Tashlyn is Master of Arms and Mercenaries for the [Zhentarim](content/Zhentarim.md). In this role, she provides armor, weapons, and training to sellswords on the Black Network’s payroll.
-- Founding member of the [Doom Raiders](content/Doom%20Raiders.md)
+- Tashlyn is Master of Arms and Mercenaries for the [Zhentarim](content/Factions/Zhentarim.md). In this role, she provides armor, weapons, and training to sellswords on the Black Network’s payroll.
+- Founding member of the [Doom Raiders](content/Factions/Doom%20Raiders.md)
 
 ![](../attachments/Pasted%20image%2020230515235853.png)
 ![](../attachments/Pasted%20image%2020230515235918.png)

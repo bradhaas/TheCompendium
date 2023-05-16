@@ -10,25 +10,14 @@
 	- [[_index]]
 	- **attachments**
 
-	- [[Davil Starsong (Deceased)]]
-	- [[Doom Raiders]]
-	- [[Factions]]
-	- [[Force Gray]]
-	- [[Istrid Horn]]
-	- [[Manshoon]]
-	- [[Renear Neverember]]
+	- **[[Factions]]**
+	- **[[NPCs]]**
 	- [[Session Summaries]]
-	- [[Skeemo Weirdbottle]]
-	- [[Tashlyn Yafeera]]
 	- **templates**
 		- [[NPC Template]]
 		- [[post]]
-	- [[Vajra Safahr]]
-	- [[Zhentarim]]
-	- [[Ziraj the Hunter]]
 - **data**
 
-- **Factions**
 - **i18n**
 
 - **layouts**
