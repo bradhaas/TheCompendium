@@ -5,6 +5,14 @@
       "path": "content/Factions.md"
     },
     {
+      "basename": "Stone of Golorr",
+      "path": "content/Stone of Golorr.md"
+    },
+    {
+      "basename": "Skeemo Weirdbottle",
+      "path": "content/Skeemo Weirdbottle.md"
+    },
+    {
       "basename": "Cassalanter Family",
       "path": "content/Cassalanter Family.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
-    },
-    {
-      "basename": "Skeemo Weirdbottle",
-      "path": "content/Skeemo Weirdbottle.md"
     },
     {
       "basename": "Doom Raiders",
@@ -195,10 +199,6 @@
     {
       "basename": "Date Ideas",
       "path": "Relationship/Date Ideas.md"
-    },
-    {
-      "basename": "2023-05-15",
-      "path": "Periodic Notes/Daily Notes/2023-05-15.md"
     }
   ],
   "omittedPaths": [],
