@@ -9,7 +9,7 @@ tags: [factions]
 - An ex-adventuring party turned mercenary group turned gang generals turned unlikely allies to the party
 > [!info] Primary Goal
 >
-> Escape the city and Manshoon's influence. Don't lose any more friends.
+> Escape the city and [Manshoon](Manshoon.md)'s influence. Don't lose any more friends.
 ### Members
 - [Istrid Horn](Istrid%20Horn.md)
 	- Sought out the party for help after being betrayed by [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md)
@@ -29,4 +29,4 @@ The elite group of magical and non-magical scholars and warriors led by the Blac
 Mercenary company turned gang led by [Manshoon](Manshoon.md), founded and managed by the [Doom Raiders](Doom%20Raiders.md).
 > [!info] Primary Goal
 >
-> Accumulate resources - money, power, and spellcasting components - to fund Manshoon's expensive magical research
+> Accumulate resources - money, power, and spellcasting components - to fund [Manshoon](Manshoon.md)'s expensive magical research
