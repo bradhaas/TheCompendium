@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
+    },
+    {
       "basename": "Vajra Safahr",
       "path": "content/Vajra Safahr.md"
     },
@@ -14,7 +22,7 @@
     },
     {
       "basename": "Ziraj",
-      "path": "content/Ziraj.png"
+      "path": "content/attachments/Ziraj.png"
     },
     {
       "basename": "Manshoon",
@@ -43,14 +51,6 @@
     {
       "basename": "2023-05-21 - The Battle of the Closed Lords",
       "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs.md"
     },
     {
       "basename": "Renear Neverember",
