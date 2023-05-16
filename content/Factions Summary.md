@@ -2,12 +2,19 @@
 title: Factions Summary
 enableToc: false
 date created: May 16th 2023, 12:20:35 am
-date modified: May 16th 2023, 10:30:25 am
+date modified: May 16th 2023, 10:32:50 am
 tags: [factions]
 ---
 ## [Doom Raiders](Doom%20Raiders.md)
 - An ex-adventuring party turned mercenary group turned gang generals turned unlikely allies to the party
 - **Primary Goal:** Escape the Manshoon's influence and settle down safely
+- Members
+	- [Istrid Horn](Istrid%20Horn.md)
+	- [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md)
+		- Betrayed the Doom Raiders, killed [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md) and helped
+	- [Tashlyn Yafeera](Tashlyn%20Yafeera.md)
+	- [Ziraj the Hunter](Ziraj%20the%20Hunter.md)
+	- [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md)
 
 ## [Force Gray](Force%20Gray.md)
 - The elite group of magical and non-magical scholars and warriors led by the Blackstaff [Vajra Safahr](Vajra%20Safahr.md) and tasked with defending Waterdeep

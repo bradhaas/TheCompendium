@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "72f0084324ff93af",
+            "id": "a0642fdaa2204c05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Factions Summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Factions Summary.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Factions Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Factions Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,11 +212,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "72f0084324ff93af",
+  "active": "a0642fdaa2204c05",
   "lastOpenFiles": [
+    "content/NPC Summary.md",
+    "content/Factions Summary.md",
+    "content/_index.md",
     "content/Ziraj the Hunter.md",
     "content/Waterdeep - City of Splendors.md",
-    "content/Factions Summary.md",
     "content/attachments/waterdeep.jpeg",
     "content/Doom Raiders.md",
     "content/Davil Starsong (Deceased).md",
@@ -239,7 +241,6 @@
     "content/Istrid Horn.md",
     "content/Force Gray.md",
     "content/NPCs.md",
-    "content/_index.md",
     "content/templates/NPC Template.md",
     "NPCs",
     "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",

@@ -9,7 +9,8 @@ tags:
 Welcome to the Compendium!
 Absolute links below
 
-## [NPCs](NPCs.md)
+## [[NPC Summary]]
+
 
 ## [Factions Summary](Factions%20Summary.md)
 
