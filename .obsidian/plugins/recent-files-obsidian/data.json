@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Doom Raiders",
+      "path": "content/Factions/Doom Raiders.md"
+    },
+    {
       "basename": "Manshoon",
       "path": "content/NPCs/Manshoon.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Istrid Horn",
       "path": "content/NPCs/Istrid Horn.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Factions/Doom Raiders.md"
     },
     {
       "basename": "Vajra Safahr",
