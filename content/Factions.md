@@ -5,9 +5,8 @@ date created: May 15th 2023, 10:42:17 pm
 date modified: May 15th 2023, 10:42:44 pm
 tags: 
 ---
-%% Begin Waypoint %%
-- [[content/Doom Raiders]]
-- [[content/Force Gray]]
-- [[content/Zhentarim]]
+# [Doom Raiders](content/Doom%20Raiders.md)
 
-%% End Waypoint %%
+# [Zhentarim](content/Zhentarim.md)
+
+# [Force Gray](content/Force%20Gray.md)
