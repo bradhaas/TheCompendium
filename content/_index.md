@@ -2,16 +2,14 @@
 title: _index
 enableToc: false
 date created: May 15th 2023, 5:45:10 pm
-date modified: May 16th 2023, 10:30:25 am
+date modified: May 16th 2023, 10:33:25 am
 tags: 
 ---
 
 Welcome to the Compendium!
 Absolute links below
 
-## [[NPC Summary]]
-
-
+#NPCs 
 ## [Factions Summary](Factions%20Summary.md)
 
 ## [Session Summaries](Session%20Summaries.md)
