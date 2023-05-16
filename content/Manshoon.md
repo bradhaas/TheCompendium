@@ -6,4 +6,5 @@ tags: [NPCs, Zhentarim]
 ---
 ## Summary
 An archwizard
+
 ![](attachments/Pasted%20image%2020230515212419.png)

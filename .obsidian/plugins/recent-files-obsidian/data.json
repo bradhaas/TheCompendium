@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Manshoon",
+      "path": "content/Manshoon.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -33,20 +41,12 @@
       "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
     },
     {
-      "basename": "NPCs",
-      "path": "content/NPCs.md"
-    },
-    {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
     },
     {
       "basename": "Ziraj",
       "path": "content/attachments/Ziraj.png"
-    },
-    {
-      "basename": "Manshoon",
-      "path": "content/Manshoon.md"
     },
     {
       "basename": "Pasted image 20230515212225",
