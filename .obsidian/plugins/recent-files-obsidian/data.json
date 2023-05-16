@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Manshoon",
+      "path": "content/Manshoon.md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
       "basename": "Factions",
       "path": "content/Factions.md"
     },
@@ -27,14 +35,6 @@
     {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
-    },
-    {
-      "basename": "Manshoon",
-      "path": "content/Manshoon.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
     },
     {
       "basename": "Zhentarim",

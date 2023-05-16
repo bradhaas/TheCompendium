@@ -25,4 +25,4 @@ Left to right in the image below:
 - As they sought more power, they eventually allied themselves with the wizard [Manshoon](Manshoon.md)
 	- Together, they formed what became the [Zhentarim](Zhentarim.md)
 	- They acted as the generals of the Mercenary Group
-- Skeemo grew frustrated with their stagnant role as enforcers in a crime family - he made a play with Manshoon to take the city over, stabbing his old friends in the back on the way
+- Skeemo grew frustrated with their stagnant role as enforcers in a crime family - he made a play with [Manshoon](Manshoon.md) to take the city over, stabbing his old friends in the back on the way

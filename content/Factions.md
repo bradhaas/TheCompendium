@@ -14,19 +14,19 @@ tags: [factions]
 - [Istrid Horn](Istrid%20Horn.md)
 	- Sought out the party for help after being betrayed by [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md)
 - [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md)
-	- Betrayed the Doom Raiders, killed [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md) and helped [Manshoon](Manshoon.md) assassinate the Open Lord Larael Silverhand
+	- Betrayed the [Doom Raiders](Doom%20Raiders.md), killed [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md) and helped [Manshoon](Manshoon.md) assassinate the Open Lord Larael Silverhand
 - [Tashlyn Yafeera](Tashlyn%20Yafeera.md)
 - [Ziraj the Hunter](Ziraj%20the%20Hunter.md)
 - [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md)
 
 ## [Force Gray](Force%20Gray.md)
-- The elite group of magical and non-magical scholars and warriors led by the Blackstaff [Vajra Safahr](Vajra%20Safahr.md) and tasked with defending Waterdeep
+The elite group of magical and non-magical scholars and warriors led by the Blackstaff [Vajra Safahr](Vajra%20Safahr.md) and tasked with defending Waterdeep
 > [!info] Primary Goal
 >
 > Defend the city by any means necessary
 
 ## [Manshoon](Manshoon.md) / [Zhentarim](Zhentarim.md)
-- Mercenary company turned gang led by [Manshoon](Manshoon.md), founded and managed by the [Doom Raiders](Doom%20Raiders.md)
+Mercenary company turned gang led by [Manshoon](Manshoon.md), founded and managed by the [Doom Raiders](Doom%20Raiders.md).
 > [!info] Primary Goal
 >
 > Accumulate resources - money, power, and spellcasting components - to fund Manshoon's expensive magical research
