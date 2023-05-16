@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
+      "basename": "Ziraj the Hunter",
+      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "NPCs",
@@ -13,20 +13,24 @@
       "path": "content/_index.md"
     },
     {
-      "basename": "Factions",
-      "path": "content/Factions.md"
+      "basename": "Manshoon",
+      "path": "content/Manshoon.md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
     },
     {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/Davil Starsong (Deceased).md"
     },
     {
-      "basename": "Force Gray",
-      "path": "content/Force Gray.md"
+      "basename": "Factions",
+      "path": "content/Factions.md"
     },
     {
-      "basename": "Manshoon",
-      "path": "content/Manshoon.md"
+      "basename": "Force Gray",
+      "path": "content/Force Gray.md"
     },
     {
       "basename": "Istrid Horn",
@@ -51,10 +55,6 @@
     {
       "basename": "Tashlyn Yafeera",
       "path": "content/Tashlyn Yafeera.md"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "Skeemo Weirdbottle",

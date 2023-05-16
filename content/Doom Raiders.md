@@ -2,7 +2,7 @@
 title: Doom Raiders
 enableToc: false
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 16th 2023, 12:23:17 am
+date modified: May 16th 2023, 9:26:53 am
 tags: [factions, Doom-Raiders]
 ---
 ## Summary
@@ -10,7 +10,7 @@ tags: [factions, Doom-Raiders]
 - After raiding every dungeon they could, they founded a mercenary compamy named the Black Network
 - Eventually, they allied themselves with [Manshoon](content/Manshoon.md) leading to the Black Network's transformation in to the [Zhentarim](content/Zhentarim.md)
 
-## Key Members 
+## Key Members
 Left to right in the image below:
 - [Davil Starsong (Deceased)](content/Davil%20Starsong%20(Deceased).md) A human Rogue
 	- Stabbed in the back by [Skeemo Weirdbottle](content/Skeemo%20Weirdbottle.md) as he betrayed his friends and helped [Manshoon](content/Manshoon.md) assassinate the Open Lord
