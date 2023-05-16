@@ -211,6 +211,9 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "layouts/partials/header.html",
+    "layouts/partials/header.rtf",
+    "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
     "content/Tuferbop Lilli Timbers.md",
     "content/The Trollskull Team.md",
     "content/Matrick Side-Eyes.md",
@@ -246,7 +249,6 @@
     "content/attachments/Manshoon.png",
     "content/attachments/Zhentarim Banner.png",
     "content/NPCs.md",
-    "content/templates/NPC Template.md",
     "NPCs",
     "Factions",
     "content/Session Summaries",
@@ -255,8 +257,6 @@
     "config.toml.sb-fdbe754b-5cpBzZ",
     "content/attachments",
     "'content/attachments",
-    "'content",
-    "Session Summaries",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]
