@@ -3,7 +3,7 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 16th 2023, 1:07:36 pm
+date modified: May 16th 2023, 1:11:50 pm
 tags: [trollskull-team, factions]
 ---
 ## [Matrick](Matrick%20Side-Eyes.md) / [[Matrick Side-Eyes]]
