@@ -11,8 +11,10 @@
             "id": "c385e34f9fba8889",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "static/icon.png"
+              }
             }
           }
         ]
@@ -113,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "static/icon.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "static/icon.png"
+              }
             }
           },
           {
@@ -171,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "static/icon.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +206,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "cfe9d94357a8e123",
+  "active": "c385e34f9fba8889",
   "lastOpenFiles": [
     "static/styles.css.md",
     "layouts/_default/baseof.html",
