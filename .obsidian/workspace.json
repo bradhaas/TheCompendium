@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Closed Lords of Waterdeep.md",
+                "file": "content/Davil Starsong (Deceased).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Closed Lords of Waterdeep.md",
+                "file": "content/Davil Starsong (Deceased).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Closed Lords of Waterdeep.md"
+                "file": "content/Davil Starsong (Deceased).md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Closed Lords of Waterdeep.md",
+                "file": "content/Davil Starsong (Deceased).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,9 +211,12 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/Doom Raiders.md",
+    "content/Cruceus Hieron Auric Disthenes.md",
+    "content/Davil Starsong (Deceased).md",
+    "content/Closed Lords of Waterdeep.md",
     "content/Session Summaries.md",
     "content/_index.md",
-    "content/Closed Lords of Waterdeep.md",
     "content/The Trollskull Team.md",
     "content/Stone of Golorr.md",
     "content/Factions.md",
@@ -227,8 +230,6 @@
     "content/Matrick Side-Eyes.md",
     "content/Tuferbop Lilli Timbers.md",
     "content/Force Gray.md",
-    "content/Davil Starsong (Deceased).md",
-    "content/Cruceus Hieron Auric Disthenes.md",
     "static/icon.png",
     "static/styles.css.md",
     "layouts/_default/baseof.html",
@@ -240,7 +241,6 @@
     "static/styles.css",
     "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
     "content/Istrid Horn.md",
-    "content/Doom Raiders.md",
     "content/Tashlyn Yafeera.md",
     "content/Vajra Safahr.md",
     "content/attachments/Doom Raiders.png",
