@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-21 - The Battle of the Closed Lords",
+      "path": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries/Session Summaries.md"
+    },
+    {
       "basename": "Ziraj the Hunter",
       "path": "content/NPCs/Ziraj the Hunter.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Equipment",
       "path": "Dogs/Equipment.md"
-    },
-    {
-      "basename": "2023-05",
-      "path": "Periodic Notes/Monthly Notes/2023-05.md"
-    },
-    {
-      "basename": "Mid May Madness",
-      "path": "Home Management/Projects/Mid May Madness.md"
     }
   ],
   "omittedPaths": [],

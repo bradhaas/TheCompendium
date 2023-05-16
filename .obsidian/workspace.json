@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/Session Summaries.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea5ada52a4d9e034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md"
+                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md"
               }
             }
           },
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +192,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,8 +217,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2f9a3968c53669c3",
+  "active": "ea5ada52a4d9e034",
   "lastOpenFiles": [
+    "content/Session Summaries/Session Summaries.md",
+    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+    "content/NPCs/Ziraj the Hunter.md",
+    "content/Session Summaries",
     "content/attachments/Pasted image 20230515181857.png",
     "content/attachments",
     "content/Factions/Doom Raiders.md",
@@ -234,7 +253,6 @@
     "D&D/TheCompendium/layouts/partials/toc.html",
     "D&D/TheCompendium/layouts/partials/textprocessing.html",
     "D&D/TheCompendium/layouts/partials/search.html",
-    "D&D/TheCompendium/layouts/partials/recent.html",
     "D&D/TheCompendium/content/notes/images/github-pages.png",
     "D&D/TheCompendium/content/notes/images/google-domains.png",
     "D&D/TheCompendium/content/notes/images/obsidian-settings.png",
@@ -245,11 +263,8 @@
     "D&D/TheCompendium/content/notes/updating.md",
     "D&D/TheCompendium/content/notes/troubleshooting.md",
     "D&D/TheCompendium/content/notes/showcase.md",
-    "D&D/TheCompendium/content/notes/setup.md",
-    "D&D/TheCompendium/content/notes/search.md",
     "D&D/D&D - Campaign 1/Player's Vault/PlayersVault/screenshot.png",
     "D&D/D&D - Campaign 1/TheCompendium/static/icon.png",
-    "D&D/D&D - Campaign 1/TheCompendium/screenshot.png",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]
