@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "e19c7144c5f5a32b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7002422dd3caf8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9a3968c53669c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be8cfbf7257e9b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8bbed5f72839ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dd573882abf551c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d522daaeda9c3b9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3968c660e186cd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "38c1ffec83f3208d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9fb2232d3db763f",
+    "type": "split",
+    "children": [
+      {
+        "id": "66b5fad7e13190bd",
+        "type": "tabs",
+        "dimension": 40.57142857142857,
+        "children": [
+          {
+            "id": "cfe9d94357a8e123",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "836cac9652fb640d",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1b492ce15fe584f",
+        "type": "tabs",
+        "dimension": 59.42857142857143,
+        "children": [
+          {
+            "id": "f1014b8f89aee13b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          },
+          {
+            "id": "471c77f143a8caf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "53fa41179ce6090a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc3c76015f46fd9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78cb672f75305a21",
+            "type": "leaf",
+            "state": {
+              "type": "metatable-sidebar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "39fe97dd38bffeac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-metatable:Metatable": false,
+      "cmdr:Periodic Notes: Open monthly note": false,
+      "cmdr:Periodic Notes: Open weekly note": false
+    }
+  },
+  "active": "2f9a3968c53669c3",
+  "lastOpenFiles": [
+    "content/NPCs.md",
+    "content/Doom Raiders.md",
+    "content/Factions.md",
+    "D&D/TheCompendium/content/NPCs.md",
+    "D&D/TheCompendium/content/Factions.md",
+    "D&D/TheCompendium/content/Ziraj the Hunter.md",
+    "D&D/TheCompendium/content/_index.md",
+    "D&D/TheCompendium/content/Doom Raiders.md",
+    "D&D/TheCompendium/README.md",
+    "D&D/TheCompendium/CODE_OF_CONDUCT.md",
+    "Periodic Notes/Daily Notes/2023-05-08.md",
+    "Relationship/Date Ideas.md",
+    "D&D/TheCompendium/data/config.yaml.sb-fdbe754b-B8QeHr",
+    "Periodic Notes/Daily Notes/2023-05-15.md",
+    "D&D/D&D - Campaign 1/D&D - Campaign 1.md",
+    "D&D/TheCompendium/static/icon.png",
+    "D&D/TheCompendium/static",
+    "D&D/TheCompendium/screenshot.png",
+    "D&D/TheCompendium/layouts/_default/_markup/render-link.html",
+    "D&D/TheCompendium/layouts/_default/_markup/render-image.html",
+    "D&D/TheCompendium/layouts/_default/_markup/render-codeblock-mermaid.html",
+    "D&D/TheCompendium/layouts/partials/toc.html",
+    "D&D/TheCompendium/layouts/partials/textprocessing.html",
+    "D&D/TheCompendium/layouts/partials/search.html",
+    "D&D/TheCompendium/layouts/partials/recent.html",
+    "D&D/TheCompendium/layouts/partials/page-list.html",
+    "D&D/TheCompendium/content/notes/images/github-pages.png",
+    "D&D/TheCompendium/content/notes/images/google-domains.png",
+    "D&D/TheCompendium/content/notes/images/obsidian-settings.png",
+    "D&D/TheCompendium/content/notes/images/fork.png",
+    "D&D/TheCompendium/content/notes/images/github-actions.png",
+    "D&D/TheCompendium/content/templates/post.md",
+    "D&D/TheCompendium/content/private/private-note.md",
+    "D&D/TheCompendium/content/notes/updating.md",
+    "D&D/TheCompendium/content/notes/troubleshooting.md",
+    "D&D/TheCompendium/content/notes/showcase.md",
+    "D&D/TheCompendium/content/notes/setup.md",
+    "D&D/TheCompendium/content/notes/search.md",
+    "D&D/TheCompendium/content/notes/preview changes.md",
+    "D&D/TheCompendium/content/notes/philosophy.md",
+    "D&D/TheCompendium/content/notes/obsidian.md",
+    "D&D/TheCompendium/content/notes/ignore notes.md",
+    "D&D/TheCompendium/content/notes/hosting.md",
+    "D&D/D&D - Campaign 1/Player's Vault/PlayersVault/screenshot.png",
+    "D&D/D&D - Campaign 1/TheCompendium/static/icon.png",
+    "D&D/D&D - Campaign 1/TheCompendium/screenshot.png",
+    "Vacations/2023 Europe/2023 Europe Trip.canvas",
+    "Home Management/Projects/Wood Fired Hot Tub.canvas"
+  ]
+}
