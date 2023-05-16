@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/attachments/Doom Raiders.png"
+    },
+    {
       "basename": "Factions",
       "path": "content/Factions.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Manshoon",
       "path": "content/Manshoon.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
     },
     {
       "basename": "Blackstaff",
@@ -71,10 +75,6 @@
     {
       "basename": "Skeemo",
       "path": "content/attachments/Skeemo.png"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/attachments/Doom Raiders.png"
     },
     {
       "basename": "Manshoon",

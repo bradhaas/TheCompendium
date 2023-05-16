@@ -2,7 +2,7 @@
 title: Doom Raiders
 enableToc: false
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 16th 2023, 12:15:44 pm
+date modified: May 16th 2023, 12:36:38 pm
 tags: [factions, Doom-Raiders]
 ---
 ## Summary
@@ -12,7 +12,7 @@ tags: [factions, Doom-Raiders]
 
 ## Key Members
 Left to right in the image below:
-- [Davil Starsong (Deceased)](content/Davil%20Starsong%20(Deceased).md) A human Rogue
+- [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md) - A Human Rogue
 	- Stabbed in the back by [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md) as he betrayed his friends and helped [Manshoon](Manshoon.md) assassinate the Open Lord
 - [Istrid Horn](Istrid%20Horn.md) - A Dwarven Shield Cleric
 - [Tashlyn Yafeera](Tashlyn%20Yafeera.md) - A Human Fighter
