@@ -3,7 +3,7 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 16th 2023, 1:01:13 pm
+date modified: May 16th 2023, 1:07:04 pm
 tags: [trollskull-team, factions]
 ---
 ## [[Matrick Side-Eyes]]
@@ -19,13 +19,12 @@ tags: [trollskull-team, factions]
 [Character Sheet](https://www.dndbeyond.com/characters/29207223)
 ### Key Abilities
 - **Telekenetic Shove**
-- 
 
 ## [[Tuferbop Lilli Timbers]]
 [Character Sheet](https://www.dndbeyond.com/characters/29269184)
 ### Key Abilities
 - **Stunning Strike**
-- **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](Qisandoral%20Ofandrus.md) can choose a number of creatures equal to 1 + spells level, chosed creatures automatically succeed on saves and take no damage on a successful save
+- **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](Qisandoral%20Ofandrus.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
 - **Arcane Recovery**
 
 ## [Renear Neverember](Renear%20Neverember.md)
