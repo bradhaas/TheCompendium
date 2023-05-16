@@ -3,15 +3,29 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 16th 2023, 1:52:12 pm
+date modified: May 16th 2023, 2:05:57 pm
 tags: [factions, trollskull-team]
 ---
+## Objectives
+> [!info] Primary Goal
+>
+> Recover the treasure [Renear Neverember](Renear%20Neverember.md)'s father Dagult embezzled from the city and hid
+> - [[Stone of Golorr]], with all 3 eyes, will reveal it's location
+> - [Manshoon](Manshoon.md) and the [Cassalanter Family](Cassalanter%20Family.md) hold the remaining eyes
+
+
+> [!example] Secondary Goal
+>
+> Recover the treasure [Renear Neverember](Renear%20Neverember.md)'s father Dagult embezzled from the city and hid
+> - [[Stone of Golorr]], with all 3 eyes, will reveal it's location
+> - [Manshoon](Manshoon.md) and the [Cassalanter Family](Cassalanter%20Family.md) hold the remaining eyes
+
+## Members
 ## [Matrick](Matrick%20Side-Eyes.md) / [[Matrick Side-Eyes]]
 ### [Character Sheet](https://www.dndbeyond.com/characters/47957494)
 ### Key Abilities
 
 ### Key Equipment
-
 
 ## [Chad](Cruceus%20Hieron%20Auric%20Disthenes.md) / [[Cruceus Hieron Auric Disthenes]]
 ### [Character Sheet](https://www.dndbeyond.com/characters/29073151)
@@ -56,4 +70,3 @@ tags: [factions, trollskull-team]
 - **Reliable Talent**: Any d20 roll on an ability check 9 or lower becomes a 10
 ### Key Equipment
 - Closed Lord Robe + Mask (Attuned)
-

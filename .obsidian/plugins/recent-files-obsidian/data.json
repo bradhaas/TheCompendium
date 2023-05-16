@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "The Trollskull Team",
+      "path": "content/The Trollskull Team.md"
+    },
+    {
+      "basename": "Stone of Golorr",
+      "path": "content/Stone of Golorr.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Durnan",
       "path": "content/Durnan.md"
     },
@@ -13,24 +29,12 @@
       "path": "content/Renear Neverember.md"
     },
     {
-      "basename": "Stone of Golorr",
-      "path": "content/Stone of Golorr.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
-    },
-    {
       "basename": "Skeemo Weirdbottle",
       "path": "content/Skeemo Weirdbottle.md"
     },
     {
       "basename": "Cassalanter Family",
       "path": "content/Cassalanter Family.md"
-    },
-    {
-      "basename": "The Trollskull Team",
-      "path": "content/The Trollskull Team.md"
     },
     {
       "basename": "Safvyre Everdreya",
@@ -83,10 +87,6 @@
     {
       "basename": "Doom Raiders",
       "path": "content/attachments/Doom Raiders.png"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "waterdeep",

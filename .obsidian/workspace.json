@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Durnan.md",
+                "file": "content/The Trollskull Team.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Durnan.md",
+                "file": "content/The Trollskull Team.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Durnan.md"
+                "file": "content/The Trollskull Team.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Durnan.md",
+                "file": "content/The Trollskull Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,15 +211,16 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/Stone of Golorr.md",
+    "content/The Trollskull Team.md",
+    "content/Factions.md",
+    "content/_index.md",
+    "content/Durnan.md",
     "content/Qisandoral Ofandrus.md",
     "content/Renear Neverember.md",
-    "content/Stone of Golorr.md",
-    "content/Factions.md",
     "content/Skeemo Weirdbottle.md",
     "content/Cassalanter Family.md",
-    "content/Durnan.md",
     "content/attachments/Pasted image 20230516135552.png",
-    "content/The Trollskull Team.md",
     "content/Safvyre Everdreya.md",
     "content/Matrick Side-Eyes.md",
     "content/Tuferbop Lilli Timbers.md",
@@ -242,7 +243,6 @@
     "content/Tashlyn Yafeera.md",
     "content/Vajra Safahr.md",
     "content/attachments/Doom Raiders.png",
-    "content/_index.md",
     "content/attachments/waterdeep.jpeg",
     "content/Manshoon.md",
     "content/Blackstaff.md",

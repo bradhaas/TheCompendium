@@ -7,14 +7,7 @@ date modified: May 16th 2023, 2:02:32 pm
 tags: [factions]
 ---
 ## [The Trollskull Team](The%20Trollskull%20Team.md)
-> [!info] Primary Goal
->
-> Recover the treasure [Renear Neverember](Renear%20Neverember.md)'s father Dagult embezzled from the city and hid
-> - Stone of Golorr, with all 3 eyes, will reveal it's location
-> - Stone of Golorr : In Possession of the [Party](The%20Trollskull%20Team.md)
-> 	- Eye 1 : In Possession of the [Party](The%20Trollskull%20Team.md)
-> 	- Eye 2 : In [Manshoon](Manshoon.md)'s possession
-> 	- Eye 3 : In the possession of the [[Cassalanter Family]]
+
 
 ## [Doom Raiders](Doom%20Raiders.md)
 An ex-adventuring party turned mercenary group turned gang generals turned unlikely allies to the party
