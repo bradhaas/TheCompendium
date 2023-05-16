@@ -13,6 +13,7 @@ A burly half orc paladin and one of the original members of the Doom Raiders. Lo
 **Race**: Half Orc
 
 **Faction**: [[../Factions/Doom Raiders|Doom Raiders]] - relative style of link
+[[Doom Raiders]] - shortest style of link
 
 ## Party Relationship
 - Party fled from Ziraj's huge arrow bolts through the city as
