@@ -5,6 +5,14 @@
       "path": "content/NPCs/Ziraj the Hunter.md"
     },
     {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries/Session Summaries.md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/Factions/Doom Raiders.md"
+    },
+    {
       "basename": "P",
       "path": "content/attachments/P.md"
     },
@@ -17,10 +25,6 @@
       "path": "content/Factions/Factions.md"
     },
     {
-      "basename": "Doom Raiders",
-      "path": "content/Factions/Doom Raiders.md"
-    },
-    {
       "basename": "Pasted image 20230515181857",
       "path": "content/attachments/Pasted image 20230515181857.png"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "2023-05-21 - The Battle of the Closed Lords",
       "path": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries/Session Summaries.md"
     },
     {
       "basename": "_index",
