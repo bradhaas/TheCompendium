@@ -5,6 +5,18 @@
       "path": "content/Doom Raiders.md"
     },
     {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/Istrid Horn.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
+    },
+    {
       "basename": "NPC Template",
       "path": "content/templates/NPC Template.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "_index",
       "path": "content/_index.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs.md"
     },
     {
       "basename": "Session Summaries",
@@ -37,16 +41,12 @@
       "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
     },
     {
-      "basename": "Istrid Horn",
-      "path": "NPCs/Istrid Horn.md"
-    },
-    {
       "basename": "Ziraj the Hunter",
-      "path": "NPCs/Ziraj the Hunter.md"
+      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "Vajra Safahr",
-      "path": "NPCs/Vajra Safahr.md"
+      "path": "content/Vajra Safahr.md"
     },
     {
       "basename": "Ziraj",
