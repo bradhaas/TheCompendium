@@ -10,5 +10,5 @@ Welcome to the Compendium!
 
 ## Links
 - [[Factions]]
-- [[NPCs]]
+- [[NPCs---]]
 - [[Session Summaries]]
