@@ -16,9 +16,8 @@ tags: [factions, trollskull-team]
 
 > [!example] Secondary Goal
 >
-> Recover the treasure [Renear Neverember](Renear%20Neverember.md)'s father Dagult embezzled from the city and hid
-> - [[Stone of Golorr]], with all 3 eyes, will reveal it's location
-> - [Manshoon](Manshoon.md) and the [Cassalanter Family](Cassalanter%20Family.md) hold the remaining eyes
+> Prevent the city from being taken over by Manshoon. Restore the "democratically" (*Rolls Eyes*) elected leaders of Waterdeep, the [[Closed Lords of Waterdeep]]
+> 
 
 ## Members
 ## [Matrick](Matrick%20Side-Eyes.md) / [[Matrick Side-Eyes]]

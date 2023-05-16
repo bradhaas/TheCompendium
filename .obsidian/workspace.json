@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Closed Lords of Waterdeep.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Closed Lords of Waterdeep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/The Trollskull Team.md"
+                "file": "content/Closed Lords of Waterdeep.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Closed Lords of Waterdeep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,10 +211,12 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
-    "content/Stone of Golorr.md",
-    "content/The Trollskull Team.md",
-    "content/Factions.md",
+    "content/Session Summaries.md",
     "content/_index.md",
+    "content/Closed Lords of Waterdeep.md",
+    "content/The Trollskull Team.md",
+    "content/Stone of Golorr.md",
+    "content/Factions.md",
     "content/Durnan.md",
     "content/Qisandoral Ofandrus.md",
     "content/Renear Neverember.md",
@@ -238,7 +240,6 @@
     "static/styles.css",
     "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
     "content/Istrid Horn.md",
-    "content/Session Summaries.md",
     "content/Doom Raiders.md",
     "content/Tashlyn Yafeera.md",
     "content/Vajra Safahr.md",
@@ -249,7 +250,6 @@
     "content/Zhentarim.md",
     "content/attachments/Pasted image 20230516105853.png",
     "content/Ziraj the Hunter.md",
-    "content/Waterdeep - City of Splendors.md",
     "screenshot.png",
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",
