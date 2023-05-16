@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md"
+                "file": "content/Factions/Doom Raiders.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,15 +219,15 @@
   },
   "active": "ea5ada52a4d9e034",
   "lastOpenFiles": [
-    "content/Session Summaries/Session Summaries.md",
-    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+    "content/NPCs/NPCs.md",
     "content/NPCs/Ziraj the Hunter.md",
+    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+    "content/Session Summaries/Session Summaries.md",
     "content/Session Summaries",
     "content/attachments/Pasted image 20230515181857.png",
     "content/attachments",
     "content/Factions/Doom Raiders.md",
     "content/Factions/Factions.md",
-    "content/NPCs/NPCs.md",
     "content/_index.md",
     "content/NPCs.md",
     "content/Doom Raiders.md",
