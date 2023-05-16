@@ -9,9 +9,9 @@ tags:
 Welcome to the Compendium!
 Absolute links below
 
-[NPCs](content/NPCs/NPCs.md)
-[Factions](content/Factions/Factions.md)
+[NPCs](content/NPCs.md)
+[Factions](content/Factions.md)
 [Session Summaries](content/Session%20Summaries.md)
 
-[Ziraj the Hunter](content/NPCs/Ziraj%20the%20Hunter.md)
+[Ziraj the Hunter](content/Ziraj%20the%20Hunter.md)
 ![Ziraj](content/attachments/Ziraj.png)

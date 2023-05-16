@@ -24,5 +24,6 @@
   "actions-uri",
   "mousewheel-image-zoom",
   "obsidian-git",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "dataview"
 ]

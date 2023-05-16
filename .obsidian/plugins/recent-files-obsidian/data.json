@@ -1,44 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/Davil Starsong (Deceased).md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
+    },
+    {
+      "basename": "NPC Template",
+      "path": "content/templates/NPC Template.md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/Istrid Horn.md"
+    },
+    {
+      "basename": "Manshoon",
+      "path": "content/Manshoon.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
     {
       "basename": "Zhentarim",
-      "path": "content/Factions/Zhentarim.md"
+      "path": "content/Zhentarim.md"
     },
     {
       "basename": "Force Gray",
-      "path": "content/Factions/Force Gray.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Factions/Doom Raiders.md"
+      "path": "content/Force Gray.md"
     },
     {
       "basename": "Factions",
-      "path": "content/Factions/Factions.md"
+      "path": "content/Factions.md"
     },
     {
       "basename": "Renear Neverember",
-      "path": "content/NPCs/Renear Neverember.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Manshoon",
-      "path": "content/NPCs/Manshoon.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/NPCs/Istrid Horn.md"
-    },
-    {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/NPCs/Davil Starsong (Deceased).md"
+      "path": "content/Renear Neverember.md"
     },
     {
       "basename": "Session Summaries",
@@ -46,23 +50,19 @@
     },
     {
       "basename": "Tashlyn Yafeera",
-      "path": "content/NPCs/Tashlyn Yafeera.md"
+      "path": "content/Tashlyn Yafeera.md"
     },
     {
       "basename": "Ziraj the Hunter",
-      "path": "content/NPCs/Ziraj the Hunter.md"
+      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "Skeemo Weirdbottle",
-      "path": "content/NPCs/Skeemo Weirdbottle.md"
+      "path": "content/Skeemo Weirdbottle.md"
     },
     {
       "basename": "Vajra Safahr",
-      "path": "content/NPCs/Vajra Safahr.md"
-    },
-    {
-      "basename": "NPC Template",
-      "path": "content/templates/NPC Template.md"
+      "path": "content/Vajra Safahr.md"
     },
     {
       "basename": "Ziraj",
