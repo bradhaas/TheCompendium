@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md"
+                "file": "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,6 +206,8 @@
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
     "content/Session Summaries/Session Summaries.md",
+    "content/_index.md",
+    "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
     "content/NPCs/Ziraj the Hunter.md",
     "content/Factions/Doom Raiders.md",
     "content/attachments/P.md",
@@ -216,7 +218,6 @@
     "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Session Summaries",
     "content/attachments",
-    "content/_index.md",
     "content/NPCs.md",
     "content/Doom Raiders.md",
     "content/Factions.md",
@@ -248,7 +249,6 @@
     "D&D/TheCompendium/content/notes/images/github-actions.png",
     "D&D/TheCompendium/content/templates/post.md",
     "D&D/TheCompendium/content/private/private-note.md",
-    "D&D/TheCompendium/content/notes/updating.md",
     "D&D/D&D - Campaign 1/Player's Vault/PlayersVault/screenshot.png",
     "D&D/D&D - Campaign 1/TheCompendium/static/icon.png",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
