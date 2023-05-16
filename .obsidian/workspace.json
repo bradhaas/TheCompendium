@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Session Summaries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Session Summaries.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Session Summaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Session Summaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,11 +205,11 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/Session Summaries.md",
     "content/Factions/Factions.md",
     "content/NPCs/NPCs.md",
     "content/NPCs/Skeemo Weirdbottle.md",
-    "content/_index.md",
-    "content/Session Summaries.md",
     "content/NPCs/Istrid Horn.md",
     "content/NPCs/Manshoon.md",
     "content/NPCs/Davil Starsong (Deceased).md",

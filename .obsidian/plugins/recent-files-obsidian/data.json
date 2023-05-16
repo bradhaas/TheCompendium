@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Skeemo Weirdbottle",
       "path": "content/NPCs/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
     },
     {
       "basename": "Istrid Horn",
