@@ -2,20 +2,18 @@
 title: Ziraj The Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
-date modified: May 15th 2023, 7:16:53 pm
+date modified: May 15th 2023, 7:23:09 pm
 tags: 
 ---
 Done the way I'm supposed to
-![Ziraj](/content/attachments/Ziraj.png)
+![](Ziraj.png)
 
 Dragged in
-![[content/attachments/Ziraj.png]]
 
 ## Background
 **Race**: Half Orc
 
-**Faction**: [[content/Factions/Doom Raiders|Doom Raiders]] - absolute path
-[[Doom Raiders]] - shortest
+**Faction**: [Doom Raiders](Doom%20Raiders.md)
 
 ## Party Relationship
 - Party fled from Ziraj's huge arrow bolts through the city as

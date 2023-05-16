@@ -36,5 +36,5 @@
   ],
   "readableLineLength": false,
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": true
 }
