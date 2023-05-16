@@ -23,7 +23,7 @@ tags: [trollskull-team, factions]
 - [Arcane Grimoire](https://www.dndbeyond.com/magic-items/2411946-arcane-grimoire-2)
 - [Robe of Stars](https://www.dndbeyond.com/magic-items/4741-robe-of-stars)
 - Blinded Stone of Golorr with 1
-	- 2 Portent charges per turn
+	- 2 Portent charges
 
 ## [Tuf](Tuferbop%20Lilli%20Timbers.md) / [[Tuferbop Lilli Timbers]]
 [Character Sheet](https://www.dndbeyond.com/characters/29269184)

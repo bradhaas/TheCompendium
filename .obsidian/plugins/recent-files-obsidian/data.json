@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Matrick Side-Eyes",
+      "path": "content/Matrick Side-Eyes.md"
+    },
+    {
       "basename": "The Trollskull Team",
       "path": "content/The Trollskull Team.md"
+    },
+    {
+      "basename": "Tuferbop Lilli Timbers",
+      "path": "content/Tuferbop Lilli Timbers.md"
     },
     {
       "basename": "Factions",
@@ -23,14 +31,6 @@
     {
       "basename": "icon",
       "path": "static/icon.png"
-    },
-    {
-      "basename": "Tuferbop Lilli Timbers",
-      "path": "content/Tuferbop Lilli Timbers.md"
-    },
-    {
-      "basename": "Matrick Side-Eyes",
-      "path": "content/Matrick Side-Eyes.md"
     },
     {
       "basename": "Renear Neverember",
