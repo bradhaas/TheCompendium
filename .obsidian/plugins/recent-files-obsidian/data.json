@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Matrick Side-Eyes",
+      "path": "content/Matrick Side-Eyes.md"
+    },
+    {
+      "basename": "The Trollskull Team",
+      "path": "content/The Trollskull Team.md"
+    },
+    {
       "basename": "Doom Raiders",
       "path": "content/Doom Raiders.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "D&D - Campaign 2",
       "path": "D&D/D&D - Campaign 2/D&D - Campaign 2.md"
-    },
-    {
-      "basename": "2023-W20",
-      "path": "Periodic Notes/Weekly Notes/2023-W20.md"
-    },
-    {
-      "basename": "Activity Tracking",
-      "path": "Hobbies/Activity Tracking.md"
     }
   ],
   "omittedPaths": [],
