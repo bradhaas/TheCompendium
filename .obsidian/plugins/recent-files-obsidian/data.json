@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/NPCs/Davil Starsong (Deceased).md"
+      "basename": "NPC Template",
+      "path": "content/templates/NPC Template.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
     },
     {
       "basename": "Istrid Horn",
       "path": "content/NPCs/Istrid Horn.md"
+    },
+    {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/NPCs/Davil Starsong (Deceased).md"
     },
     {
       "basename": "Manshoon",
@@ -53,20 +61,12 @@
       "path": "content/Factions/Factions.md"
     },
     {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
-    },
-    {
       "basename": "Ziraj",
       "path": "content/attachments/Ziraj.png"
     },
     {
       "basename": "Pasted image 20230515212225",
       "path": "content/attachments/Pasted image 20230515212225.png"
-    },
-    {
-      "basename": "NPC Template",
-      "path": "content/templates/NPC Template.md"
     },
     {
       "basename": "post",
