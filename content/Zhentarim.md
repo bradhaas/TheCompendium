@@ -7,5 +7,5 @@ tags: [factions]
 ## Summary
 - A mercenary company turned gang that the [Doom Raiders](Doom%20Raiders.md) helped [[Manshoon]] found to fund his extremely expen
 
-![](Pasted%20image%2020230515212225.png)
+![](attachments/Pasted%20image%2020230515212225.png)
 

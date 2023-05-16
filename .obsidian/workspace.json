@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Lead Up to the Battle of the Closed Lords.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Doom Raiders.md"
+                "file": "content/Lead Up to the Battle of the Closed Lords.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Lead Up to the Battle of the Closed Lords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Lead Up to the Battle of the Closed Lords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,23 +203,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9dd573882abf551c",
+  "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
-    "content/NPCs.md",
-    "content/Vajra Safahr.md",
     "content/Ziraj the Hunter.md",
+    "content/Vajra Safahr.md",
+    "content/Factions.md",
+    "content/2023-05-21 - The Battle of the Closed Lords.md",
+    "content/Doom Raiders.md",
+    "content/NPCs.md",
     "content/Zhentarim.md",
     "content/attachments/Ziraj.png",
     "content/Manshoon.md",
-    "content/Factions.md",
-    "content/Pasted image 20230515212225.png",
+    "content/attachments/Pasted image 20230515212225.png",
     "content/attachments",
-    "content/Pasted image 20230515212419.png",
+    "content/attachments/Pasted image 20230515212419.png",
     "content/Lead Up to the Battle of the Closed Lords.md",
     "content/Session Summaries.md",
     "content/_index.md",
-    "content/2023-05-21 - The Battle of the Closed Lords.md",
-    "content/Doom Raiders.md",
     "content/Renear Neverember.md",
     "config.toml.sb-fdbe754b-5cpBzZ",
     "content/attach.md",
