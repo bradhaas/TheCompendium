@@ -2,7 +2,7 @@
 title: Ziraj The Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
-date modified: May 15th 2023, 6:33:46 pm
+date modified: May 15th 2023, 6:34:14 pm
 ---
 Normal
 
@@ -12,6 +12,6 @@ asdf
 Markdown link
 ![](content/attachments/Pasted%20image%2020230515181857.png)
 
-Faction: [[Doom Raiders]]
+Faction: [[content/Factions/Doom Raiders|Doom Raiders]]
 
 Test: This is the player's view
