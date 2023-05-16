@@ -17,8 +17,13 @@ tags: [trollskull-team, factions]
 
 ## [Qis](Qisandoral%20Ofandrus.md) / [[Qisandoral Ofandrus]]
 [Character Sheet](https://www.dndbeyond.com/characters/29207223)
-### Key Abilities
+#### Key Abilities
 - **Telekenetic Shove**
+#### Key Equipment
+- [Arcane Grimoire](https://www.dndbeyond.com/magic-items/2411946-arcane-grimoire-2)
+- [Robe of Stars](https://www.dndbeyond.com/magic-items/4741-robe-of-stars)
+- Blinded Stone of Golorr with 1
+	- 2 Portent charges per turn
 
 ## [Tuf](Tuferbop%20Lilli%20Timbers.md) / [[Tuferbop Lilli Timbers]]
 [Character Sheet](https://www.dndbeyond.com/characters/29269184)
@@ -27,6 +32,8 @@ tags: [trollskull-team, factions]
 - **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](Qisandoral%20Ofandrus.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
 - **Arcane Recovery**
 #### Key Equipment
+- [Ring of Truth Telling](https://www.dndbeyond.com/magic-items/254338-ring-of-truth-telling)
+
 - 
 
 ## [Renear Neverember](Renear%20Neverember.md)
