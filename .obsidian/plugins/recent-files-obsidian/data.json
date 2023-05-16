@@ -5,6 +5,10 @@
       "path": "content/Factions/Doom Raiders.md"
     },
     {
+      "basename": "Zhentarim",
+      "path": "content/Factions/Zhentarim.md"
+    },
+    {
       "basename": "Manshoon",
       "path": "content/NPCs/Manshoon.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "2023-05-21 - The Battle of the Closed Lords",
       "path": "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md"
-    },
-    {
-      "basename": "Zhentarim",
-      "path": "content/Factions/Zhentarim.md"
     },
     {
       "basename": "Ziraj",

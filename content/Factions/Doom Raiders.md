@@ -2,13 +2,13 @@
 title: Doom Raiders
 enableToc: false
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 15th 2023, 10:37:03 pm
+date modified: May 15th 2023, 11:29:33 pm
 tags: [factions, Doom-Raiders]
 ---
 ## Summary
 - An adventuring party not unlike the Trollskull crew
 - After raiding every dungeon they could, they founded a mercenary compamy named the Black Network
-- Eventually, they allied themselves with [Manshoon](../NPCs/Manshoon.md), leading to the Black Network's transformation in to the [Zhentarim](Zhentarim.md)
+- Eventually, they allied themselves with [Manshoon](../NPCs/Manshoon.md) leading to the Black Network's transformation in to the [Zhentarim](Zhentarim.md)
 
 ## Members
 - [Davil Starsong (Deceased)](../NPCs/Davil%20Starsong%20(Deceased).md) A human Rogue
