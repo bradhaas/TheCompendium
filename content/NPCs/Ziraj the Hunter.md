@@ -13,7 +13,7 @@ tags: [NPCs, Doom-Raiders]
 
 ## Background
 - **Race**: Half Orc
-- **Faction**: [[../Factions/Doom Raiders]]
+- **Faction**: [Doom Raiders](../Factions/Doom%20Raiders.md)
 - **Abilities**: Arrow Paladin
 
 ## Party Relationship
