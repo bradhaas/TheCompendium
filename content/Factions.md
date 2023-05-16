@@ -3,7 +3,7 @@ title: Factions
 alias: 
 enableToc: false
 date created: May 16th 2023, 12:20:35 am
-date modified: May 16th 2023, 1:58:40 pm
+date modified: May 16th 2023, 2:02:32 pm
 tags: [factions]
 ---
 ## [The Trollskull Team](The%20Trollskull%20Team.md)
@@ -48,4 +48,5 @@ A family of "neuevo riche" - a new family of nobles desperately trying to compet
 >
 > Recover Lord Dagult's treasure. Exact motivations unclear.
 
-In possession of one of the Eyes of Golorr
+In possession of one of the [Eyes of Golorr](Stone%20of%20Golorr.md)
+
