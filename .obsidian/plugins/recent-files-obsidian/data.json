@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Ziraj the Hunter",
       "path": "content/Ziraj the Hunter.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Force Gray",
       "path": "content/Force Gray.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "NPC Template",
