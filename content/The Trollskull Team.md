@@ -6,21 +6,21 @@ date created: May 16th 2023, 12:38:52 pm
 date modified: May 16th 2023, 1:07:36 pm
 tags: [trollskull-team, factions]
 ---
-## [[Matrick Side-Eyes]]
+## [Matrick](Matrick%20Side-Eyes.md) / [[Matrick Side-Eyes]]
 [Character Sheet](https://www.dndbeyond.com/characters/47957494)
 
-## [[Cruceus Hieron Auric Disthenes]]
+## [Chad](Cruceus%20Hieron%20Auric%20Disthenes.md) / [[Cruceus Hieron Auric Disthenes]]
 [Character Sheet](https://www.dndbeyond.com/characters/29073151)
 
-## [[Safvyre Everdreya]]
+## [Saf](Safvyre%20Everdreya.md) / [[Safvyre Everdreya]]
 [Character Sheet](https://www.dndbeyond.com/characters/28905246)
 
-## [[Qisandoral Ofandrus]]
+## [Qis](Qisandoral%20Ofandrus.md) / [[Qisandoral Ofandrus]]
 [Character Sheet](https://www.dndbeyond.com/characters/29207223)
 ### Key Abilities
 - **Telekenetic Shove**
 
-## [[Tuferbop Lilli Timbers]]
+## [Tuf](Tuferbop%20Lilli%20Timbers.md) / [[Tuferbop Lilli Timbers]]
 [Character Sheet](https://www.dndbeyond.com/characters/29269184)
 ### Key Abilities
 - **Stunning Strike**
