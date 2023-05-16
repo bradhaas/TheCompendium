@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Ziraj the Hunter.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,16 +203,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9dd573882abf551c",
+  "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
-    "content/attach.md",
-    "content/Ziraj the Hunter.md",
-    "content/Session Summaries.md",
     "content/Renear Neverember.md",
     "content/NPCs.md",
+    "content/_index.md",
+    "content/2023-05-21 - The Battle of the Closed Lords.md",
+    "content/Ziraj the Hunter.md",
+    "content/attach.md",
+    "content/Session Summaries.md",
     "content/Zhentarim.md",
     "content/attachments",
-    "content/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Factions.md",
     "content/Vajra Safahr.md",
     "content/templates/NPC Template.md",
@@ -220,7 +221,6 @@
     "content/Istrid Horn.md",
     "content/templates/[[Ziraj.png]].md",
     "content/templates/post.md",
-    "content/_index.md",
     "content/Lead Up to the Battle of the Closed Lords.md",
     "content/Ziraj.png",
     "README.md",
