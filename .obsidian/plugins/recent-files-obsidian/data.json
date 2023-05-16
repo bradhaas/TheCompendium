@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Doom Raiders",
+      "path": "content/Factions/Doom Raiders.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions/Factions.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Obsidian Setup",
       "path": "Obsidian/Obsidian Setup.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Obsidian/Obsidian.md"
-    },
-    {
-      "basename": "Sun Shades in Bedroom",
-      "path": "Home Management/Projects/Sun Shades in Bedroom.md"
-    },
-    {
-      "basename": "Bedroom",
-      "path": "Home Management/Areas/Bedroom.md"
     }
   ],
   "omittedPaths": [],

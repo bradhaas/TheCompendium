@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Factions/Doom Raiders.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,14 +196,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "obsidian-metatable:Metatable": false,
       "cmdr:Periodic Notes: Open monthly note": false,
-      "cmdr:Periodic Notes: Open weekly note": false
+      "cmdr:Periodic Notes: Open weekly note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
+    "content/Factions/Factions.md",
+    "content/NPCs/NPCs.md",
+    "content/_index.md",
     "content/NPCs.md",
     "content/Doom Raiders.md",
     "content/Factions.md",
@@ -244,9 +247,6 @@
     "D&D/TheCompendium/content/notes/search.md",
     "D&D/TheCompendium/content/notes/preview changes.md",
     "D&D/TheCompendium/content/notes/philosophy.md",
-    "D&D/TheCompendium/content/notes/obsidian.md",
-    "D&D/TheCompendium/content/notes/ignore notes.md",
-    "D&D/TheCompendium/content/notes/hosting.md",
     "D&D/D&D - Campaign 1/Player's Vault/PlayersVault/screenshot.png",
     "D&D/D&D - Campaign 1/TheCompendium/static/icon.png",
     "D&D/D&D - Campaign 1/TheCompendium/screenshot.png",
