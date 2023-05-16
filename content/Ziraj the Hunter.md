@@ -9,13 +9,13 @@ tags: [NPCs, doom-raiders]
 - A burly half orc paladin and one of the original members of the [[Doom Raiders]]
 - Loyal to anyone who shows him kindness
 - Good Friends with Chad
-![](Ziraj.png)
+![](attachments/Ziraj.png)
 
 ## Background
 - **Race**: Half Orc
 - **Faction**: [[Doom Raiders]]
-- **Abilities**: Arrow Paladin.
+- **Abilities**: Arrow Paladin
 
 ## Party Relationship
-- Party fled from Ziraj's huge arrow bolts through the city as
+- Party fled from Ziraj's huge arrow bolts through the city as they fled Gralhund Villa with the Stone of Golorr
 - Chad and Ziraj struck up a friendship
