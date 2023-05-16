@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Skeemo Weirdbottle",
-      "path": "content/NPCs/Skeemo Weirdbottle.md"
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions/Factions.md"
     },
     {
       "basename": "NPCs",
       "path": "content/NPCs/NPCs.md"
     },
     {
-      "basename": "_index",
-      "path": "content/_index.md"
+      "basename": "Skeemo Weirdbottle",
+      "path": "content/NPCs/Skeemo Weirdbottle.md"
     },
     {
       "basename": "Session Summaries",
@@ -27,10 +31,6 @@
     {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/NPCs/Davil Starsong (Deceased).md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions/Factions.md"
     },
     {
       "basename": "Doom Raiders",
