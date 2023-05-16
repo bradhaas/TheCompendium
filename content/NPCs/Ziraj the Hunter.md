@@ -2,10 +2,10 @@
 title: Ziraj The Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
-date modified: May 15th 2023, 7:58:11 pm
+date modified: May 15th 2023, 8:05:03 pm
 tags: 
 ---
-![[../Ziraj.png]]
+![ziraj](Ziraj.png)
 
 ## Background
 **Race**: Half Orc
