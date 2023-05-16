@@ -1,10 +1,15 @@
 ---
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 15th 2023, 6:16:26 pm
+date modified: May 15th 2023, 6:28:29 pm
 ---
 
-## Goals
-Testing
+## Faction Background
+### Goals
+asdf
+### Ideals
+asd
+### Hangout Spots
+asdf
 
 ## Members
 - [[content/NPCs/Ziraj the Hunter|Ziraj the Hunter]]
