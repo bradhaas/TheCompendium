@@ -24,7 +24,7 @@ An ex-adventuring party turned mercenary group turned gang generals turned unlik
 - [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md)
 
 ## [Force Gray](Force%20Gray.md)
-The elite group of magical and non-magical scholars and warriors led by the Blackstaff [Vajra Safahr](Vajra%20Safahr.md) and tasked with defending Waterdeep
+The elite group of magical and non-magical scholars and warriors led by the [Blackstaff](Blackstaff.md) [Vajra Safahr](Vajra%20Safahr.md) and tasked with defending Waterdeep
 > [!info] Primary Goal
 >
 > Defend the city by any means necessary

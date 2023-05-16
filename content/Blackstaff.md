@@ -1,8 +1,9 @@
 ---
 title: Blackstaff
+alias: 
 enableToc: false
 date created: May 16th 2023, 11:00:36 am
-date modified: May 16th 2023, 12:20:06 pm
+date modified: May 16th 2023, 2:29:08 pm
 tags: [Magic-Item]
 ---
 ## Summary

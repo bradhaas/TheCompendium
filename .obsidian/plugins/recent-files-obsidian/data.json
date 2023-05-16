@@ -5,8 +5,44 @@
       "path": "content/Vajra Safahr.md"
     },
     {
+      "basename": "Cassalanter Family",
+      "path": "content/Cassalanter Family.md"
+    },
+    {
+      "basename": "Cruceus Hieron Auric Disthenes",
+      "path": "content/Cruceus Hieron Auric Disthenes.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/Istrid Horn.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/Renear Neverember.md"
+    },
+    {
       "basename": "Safvyre Everdreya",
       "path": "content/Safvyre Everdreya.md"
+    },
+    {
+      "basename": "Tuferbop Lilli Timbers",
+      "path": "content/Tuferbop Lilli Timbers.md"
+    },
+    {
+      "basename": "Zhentarim",
+      "path": "content/Zhentarim.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
+      "basename": "Force Gray",
+      "path": "content/Force Gray.md"
+    },
+    {
+      "basename": "Blackstaff",
+      "path": "content/Blackstaff.md"
     },
     {
       "basename": "Manshoon",
@@ -25,10 +61,6 @@
       "path": "content/_index.md"
     },
     {
-      "basename": "Renear Neverember",
-      "path": "content/Renear Neverember.md"
-    },
-    {
       "basename": "The Trollskull Team",
       "path": "content/The Trollskull Team.md"
     },
@@ -37,20 +69,12 @@
       "path": "content/Davil Starsong (Deceased).md"
     },
     {
-      "basename": "Cruceus Hieron Auric Disthenes",
-      "path": "content/Cruceus Hieron Auric Disthenes.md"
-    },
-    {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
     },
     {
       "basename": "Stone of Golorr",
       "path": "content/Stone of Golorr.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
     },
     {
       "basename": "Durnan",
@@ -65,28 +89,12 @@
       "path": "content/Skeemo Weirdbottle.md"
     },
     {
-      "basename": "Cassalanter Family",
-      "path": "content/Cassalanter Family.md"
-    },
-    {
       "basename": "Matrick Side-Eyes",
       "path": "content/Matrick Side-Eyes.md"
     },
     {
-      "basename": "Tuferbop Lilli Timbers",
-      "path": "content/Tuferbop Lilli Timbers.md"
-    },
-    {
-      "basename": "Force Gray",
-      "path": "content/Force Gray.md"
-    },
-    {
       "basename": "icon",
       "path": "static/icon.png"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/Istrid Horn.md"
     },
     {
       "basename": "Tashlyn Yafeera",
@@ -99,14 +107,6 @@
     {
       "basename": "waterdeep",
       "path": "content/attachments/waterdeep.jpeg"
-    },
-    {
-      "basename": "Blackstaff",
-      "path": "content/Blackstaff.md"
-    },
-    {
-      "basename": "Zhentarim",
-      "path": "content/Zhentarim.md"
     },
     {
       "basename": "Ziraj the Hunter",
