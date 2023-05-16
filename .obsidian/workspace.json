@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Session Summaries/Session Summaries.md",
+                "file": "content/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Session Summaries/Session Summaries.md"
+                "file": "content/Doom Raiders.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Session Summaries/Session Summaries.md",
+                "file": "content/Doom Raiders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Session Summaries/Session Summaries.md",
+                "file": "content/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,16 +205,16 @@
   },
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
-    "content/Lead Up to the Battle of the Closed Lords.md",
     "content/_index.md",
-    "NPCs/Istrid Horn.md",
-    "content/NPCs.md",
     "content/Factions.md",
-    "NPCs/Ziraj the Hunter.md",
     "content/Doom Raiders.md",
-    "NPCs/Vajra Safahr.md",
+    "content/NPCs.md",
+    "content/Session Summaries.md",
+    "content/Lead Up to the Battle of the Closed Lords.md",
     "content/2023-05-21 - The Battle of the Closed Lords.md",
-    "content/Session Summaries/Session Summaries.md",
+    "NPCs/Istrid Horn.md",
+    "NPCs/Ziraj the Hunter.md",
+    "NPCs/Vajra Safahr.md",
     "content/attachments/Ziraj.png",
     "README.md",
     "screenshot.png",
@@ -223,9 +223,8 @@
     "'content",
     "content/attachments/P.md",
     "content/attachments/Pasted.md",
-    "content/Session Summaries",
+    "Session Summaries",
     "content/attachments",
-    "content/Doom Raiders.md",
     "D&D/TheCompendium/content/NPCs.md",
     "D&D/TheCompendium/content/Factions.md",
     "D&D/TheCompendium/content/Ziraj the Hunter.md",

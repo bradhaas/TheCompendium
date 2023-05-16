@@ -1,12 +1,11 @@
 ---
 title: "NPCs"
 date created: May 15th 2023, 6:15:14 pm
-date modified: May 15th 2023, 8:22:49 pm
-tags: 
+date modified: May 15th 2023, 8:44:26 pm
+tags: [NPCs]
 ---
-%% Begin Waypoint %%
+#NPCs
+## [[Doom Raiders]]
 - [[Istrid Horn]]
 - [[Vajra Safahr]]
 - [[Ziraj the Hunter]]
-
-%% End Waypoint %%

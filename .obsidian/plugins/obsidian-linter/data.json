@@ -25,8 +25,8 @@
       "text-to-insert": "title: \"Example Title\"\ntags: "
     },
     "move-tags-to-yaml": {
-      "enabled": false,
-      "how-to-handle-existing-tags": "Nothing",
+      "enabled": true,
+      "how-to-handle-existing-tags": "Remove whole tag",
       "tags-to-ignore": ""
     },
     "remove-yaml-keys": {
