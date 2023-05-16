@@ -2,7 +2,7 @@
 title: Blackstaff
 enableToc: false
 date created: May 16th 2023, 11:00:36 am
-date modified: May 16th 2023, 12:18:53 pm
+date modified: May 16th 2023, 12:20:06 pm
 tags: [Magic-Item]
 ---
 ## Summary
