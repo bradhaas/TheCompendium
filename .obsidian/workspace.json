@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Session Summaries/Session Summaries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea5ada52a4d9e034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "content/NPCs/Ziraj the Hunter.md",
                 "mode": "source",
                 "backlinks": false,
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,17 +203,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ea5ada52a4d9e034",
+  "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
-    "content/Factions/Doom Raiders.md",
-    "content/NPCs/NPCs.md",
+    "content/attachments/Pasted.md",
     "content/NPCs/Ziraj the Hunter.md",
+    "content/Factions/Factions.md",
+    "content/Factions/Doom Raiders.md",
+    "content/attachments/Pasted image 20230515181857.png",
+    "content/NPCs/NPCs.md",
     "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Session Summaries/Session Summaries.md",
     "content/Session Summaries",
-    "content/attachments/Pasted image 20230515181857.png",
     "content/attachments",
-    "content/Factions/Factions.md",
     "content/_index.md",
     "content/NPCs.md",
     "content/Doom Raiders.md",
@@ -261,8 +248,6 @@
     "D&D/TheCompendium/content/templates/post.md",
     "D&D/TheCompendium/content/private/private-note.md",
     "D&D/TheCompendium/content/notes/updating.md",
-    "D&D/TheCompendium/content/notes/troubleshooting.md",
-    "D&D/TheCompendium/content/notes/showcase.md",
     "D&D/D&D - Campaign 1/Player's Vault/PlayersVault/screenshot.png",
     "D&D/D&D - Campaign 1/TheCompendium/static/icon.png",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
