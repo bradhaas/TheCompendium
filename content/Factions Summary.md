@@ -10,6 +10,6 @@ tags: [factions]
 	- **Primary Goal** Looking to settle down and not lose any more friends
 - [Force Gray](Force%20Gray.md)
 	- The elite group of magical and non-magical scholars and warriors led by the Blackstaff [Vajra Safahr](Vajra%20Safahr.md) and tasked with defending Waterdeep
-	- Reside in Mages tower
+	- **Primary Goal:** Defend the city by any means necessary.
 - [Zhentarim](Zhentarim.md)
 	- Mercenary company turned gang led by [Manshoon](Manshoon.md), founded and managed by the [Doom Raiders](Doom%20Raiders.md)
