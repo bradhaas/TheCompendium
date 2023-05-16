@@ -8,7 +8,7 @@ tags:
 
 Welcome to the Compendium!
 
-- [[content/Factions/Factions|Factions]]
-- [[content/NPCs/NPCs|NPCs]]
+- [[Factions|Factions]]
+- [[NPCs|NPCs]]
 - [[content/Session Summaries/Session Summaries|Session Summaries]]
 

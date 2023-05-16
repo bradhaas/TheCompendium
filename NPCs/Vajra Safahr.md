@@ -12,7 +12,7 @@ A burly half orc paladin and one of the original members of the [[Doom Raiders]]
 ## Background
 **Race**: Half Orc
 
-**Faction**: [[../Factions/Doom Raiders|Doom Raiders]] - relative style of link
+**Faction**: [[Doom Raiders|Doom Raiders]] - relative style of link
 [[Doom Raiders]] - shortest style of link
 
 ## Party Relationship

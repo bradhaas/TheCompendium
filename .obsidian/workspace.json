@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/Session Summaries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md"
+                "file": "content/Session Summaries/Session Summaries.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/Session Summaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/Ziraj the Hunter.md",
+                "file": "content/Session Summaries/Session Summaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,15 +205,15 @@
   },
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
-    "content/Factions/Doom Raiders.md",
-    "content/NPCs/Ziraj the Hunter.md",
-    "content/NPCs/Istrid Horn.md",
-    "content/Factions/Factions.md",
-    "content/NPCs/Vajra Safahr.md",
-    "content/NPCs/NPCs.md",
+    "content/Lead Up to the Battle of the Closed Lords.md",
     "content/_index.md",
-    "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
-    "content/Session Summaries/2023-05-21 - The Battle of the Closed Lords.md",
+    "NPCs/Istrid Horn.md",
+    "content/NPCs.md",
+    "content/Factions.md",
+    "NPCs/Ziraj the Hunter.md",
+    "content/Doom Raiders.md",
+    "NPCs/Vajra Safahr.md",
+    "content/2023-05-21 - The Battle of the Closed Lords.md",
     "content/Session Summaries/Session Summaries.md",
     "content/attachments/Ziraj.png",
     "README.md",
@@ -225,9 +225,7 @@
     "content/attachments/Pasted.md",
     "content/Session Summaries",
     "content/attachments",
-    "content/NPCs.md",
     "content/Doom Raiders.md",
-    "content/Factions.md",
     "D&D/TheCompendium/content/NPCs.md",
     "D&D/TheCompendium/content/Factions.md",
     "D&D/TheCompendium/content/Ziraj the Hunter.md",
