@@ -9,7 +9,7 @@ tags: [NPCs]
 Welcome to the Compendium!
 Absolute links below
 
-## [Faction](Faction.md)
+## [Factions](Factions.md)
 
 ## [Session Summaries](Session%20Summaries.md)
 

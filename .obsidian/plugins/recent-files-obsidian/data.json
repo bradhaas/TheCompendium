@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "_index",
-      "path": "content/_index.md"
+      "basename": "Factions",
+      "path": "content/Factions.md"
     },
     {
-      "basename": "Faction",
-      "path": "content/Faction.md"
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
     },
     {
       "basename": "Ziraj the Hunter",
@@ -79,10 +83,6 @@
     {
       "basename": "Skeemo Weirdbottle",
       "path": "content/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
     },
     {
       "basename": "Renear Neverember",
