@@ -27,7 +27,7 @@ tags: [trollskull-team, factions]
 
 ## [Tuf](Tuferbop%20Lilli%20Timbers.md) / [[Tuferbop Lilli Timbers]]
 [Character Sheet](https://www.dndbeyond.com/characters/29269184)
-#### Key Abilities
+### Key Abilities
 - **Stunning Strike**
 - **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](Qisandoral%20Ofandrus.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
 - **Arcane Recovery**

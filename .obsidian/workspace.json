@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Matrick Side-Eyes.md",
+                "file": "content/The Trollskull Team.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Matrick Side-Eyes.md",
+                "file": "content/The Trollskull Team.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Matrick Side-Eyes.md"
+                "file": "content/The Trollskull Team.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Matrick Side-Eyes.md",
+                "file": "content/The Trollskull Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,6 +211,7 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/Matrick Side-Eyes.md",
     "content/The Trollskull Team.md",
     "content/Tuferbop Lilli Timbers.md",
     "content/Factions.md",
@@ -227,7 +228,6 @@
     "layouts/_default/baseof.rtf",
     "static/styles.css",
     "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
-    "content/Matrick Side-Eyes.md",
     "content/Renear Neverember.md",
     "content/Istrid Horn.md",
     "content/Safvyre Everdreya.md",
