@@ -200,13 +200,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9dd573882abf551c",
+  "active": "cfe9d94357a8e123",
   "lastOpenFiles": [
+    "static/styles.css.md",
     "layouts/_default/baseof.html",
     "layouts/_default/Unconfirmed 607548.crdownload",
     "layouts/partials/header.html",
     "layouts/partials/header.rtf",
-    "static/styles.css.md",
     "layouts/_default/baseof.html.rtf",
     "layouts/_default/baseof.rtf",
     "static/styles.css",
@@ -247,7 +247,6 @@
     "content/attachments/Zhentarim Banner.png",
     "NPCs",
     "Factions",
-    "content/Session Summaries",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]
