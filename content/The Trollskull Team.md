@@ -3,17 +3,27 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 16th 2023, 1:36:37 pm
-tags: [trollskull-team, factions]
+date modified: May 16th 2023, 1:48:45 pm
+tags: [factions, trollskull-team, factions]
 ---
 ## [Matrick](Matrick%20Side-Eyes.md) / [[Matrick Side-Eyes]]
-[Character Sheet](https://www.dndbeyond.com/characters/47957494)
+### [Character Sheet](https://www.dndbeyond.com/characters/47957494)
 
 ## [Chad](Cruceus%20Hieron%20Auric%20Disthenes.md) / [[Cruceus Hieron Auric Disthenes]]
-[Character Sheet](https://www.dndbeyond.com/characters/29073151)
+### [Character Sheet](https://www.dndbeyond.com/characters/29073151)
+### Key Abilities
+- **Smites**: Does a shit ton of damage
+- **Lay on Hands**: Healing
+### Key Equipment
+- [Azuredge](https://www.dndbeyond.com/magic-items/253562-azuredge)
 
 ## [Saf](Safvyre%20Everdreya.md) / [[Safvyre Everdreya]]
-[Character Sheet](https://www.dndbeyond.com/characters/28905246)
+### [Character Sheet](https://www.dndbeyond.com/characters/28905246)
+### Key Abilities
+- **Wild Shape**
+- **Summon Animals**
+### Key Equipment
+- [Staff of the Woodlands](https://www.dndbeyond.com/magic-items/4769-staff-of-the-woodlands)
 
 ## [Qis](Qisandoral%20Ofandrus.md) / [[Qisandoral Ofandrus]]
 ### [Character Sheet](https://www.dndbeyond.com/characters/29207223)
@@ -33,7 +43,6 @@ tags: [trollskull-team, factions]
 - **Stunning Strike**
 ### Key Equipment
 - [Ring of Truth Telling](https://www.dndbeyond.com/magic-items/254338-ring-of-truth-telling)
-- 
 
 ## [Renear Neverember](Renear%20Neverember.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/52716043)
