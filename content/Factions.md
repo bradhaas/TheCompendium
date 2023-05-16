@@ -36,7 +36,7 @@ The elite group of magical and non-magical scholars and warriors led by the Blac
 >
 > Defend the city by any means necessary
 
-## [Manshoon](Manshoon.md) / [Zhentarim](Zhentarim.md)
+## [Zhentarim](Zhentarim.md) ([Manshoon](Manshoon.md))
 Mercenary company turned gang led by [Manshoon](Manshoon.md), founded and managed by the [Doom Raiders](Doom%20Raiders.md).
 > [!info] Primary Goal
 >
