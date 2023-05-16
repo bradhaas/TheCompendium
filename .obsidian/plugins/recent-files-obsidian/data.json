@@ -5,6 +5,18 @@
       "path": "content/Doom Raiders.md"
     },
     {
+      "basename": "Renear Neverember",
+      "path": "content/Renear Neverember.md"
+    },
+    {
+      "basename": "Zhentarim",
+      "path": "content/Zhentarim.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
+    },
+    {
       "basename": "Ziraj the Hunter",
       "path": "content/Ziraj the Hunter.md"
     },
@@ -25,20 +37,8 @@
       "path": "content/Factions.md"
     },
     {
-      "basename": "Zhentarim",
-      "path": "content/Zhentarim.md"
-    },
-    {
       "basename": "Ziraj",
-      "path": "content/Ziraj.png"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/Renear Neverember.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs.md"
+      "path": "content/attachments/Ziraj.png"
     },
     {
       "basename": "Vajra Safahr",
