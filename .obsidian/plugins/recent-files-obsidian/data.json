@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
       "basename": "Istrid Horn",
       "path": "content/NPCs/Istrid Horn.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "Doom Raiders",
       "path": "content/Factions/Doom Raiders.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
     },
     {
       "basename": "_index",

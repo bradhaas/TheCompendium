@@ -11,6 +11,5 @@ tags: [Doom-Raiders, NPCs]
 - Founding member of the [Doom Raiders](../Factions/Doom%20Raiders.md)
 - Open to working with the party
 ![](../attachments/Pasted%20image%2020230515234842.png)
-
 ![](../attachments/Pasted%20image%2020230515235113.png)
 

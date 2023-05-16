@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/Istrid Horn.md",
+                "file": "content/Session Summaries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/Istrid Horn.md"
+                "file": "content/Session Summaries.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/Istrid Horn.md",
+                "file": "content/Session Summaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/Istrid Horn.md",
+                "file": "content/Session Summaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,12 +205,12 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/NPCs/NPCs.md",
+    "content/NPCs/Istrid Horn.md",
     "content/attachments/Pasted image 20230515235113.png",
     "content/attachments/Pasted image 20230515234842.png",
     "content/NPCs/Davil Starsong (Deceased).md",
-    "content/NPCs/Istrid Horn.md",
     "content/Factions/Doom Raiders.md",
-    "content/NPCs/NPCs.md",
     "content/Session Summaries.md",
     "content/_index.md",
     "content/templates/NPC Template.md",
@@ -250,7 +250,6 @@
     "Session Summaries",
     "content/attachments",
     "D&D/TheCompendium/static/icon.png",
-    "D&D/TheCompendium/screenshot.png",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]
