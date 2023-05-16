@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Zhentarim",
+      "path": "content/Factions/Zhentarim.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions/Factions.md"
+    },
+    {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/NPCs/Davil Starsong (Deceased).md"
+    },
+    {
       "basename": "Tashlyn Yafeera",
       "path": "content/NPCs/Tashlyn Yafeera.md"
     },
@@ -37,10 +49,6 @@
       "path": "content/Session Summaries.md"
     },
     {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/NPCs/Davil Starsong (Deceased).md"
-    },
-    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -55,14 +63,6 @@
     {
       "basename": "Ziraj the Hunter",
       "path": "content/NPCs/Ziraj the Hunter.md"
-    },
-    {
-      "basename": "Zhentarim",
-      "path": "content/Factions/Zhentarim.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions/Factions.md"
     },
     {
       "basename": "Ziraj",
