@@ -12,3 +12,7 @@ tags: [Doom-Raiders, NPCs]
 - Open to working with the party
 ![Pasted image 20230515234842](attachments/Istrid.png)
 ![Pasted image 20230515235113](attachments/Istrid%20Statblock.png)
+
+## Party Notes
+- Test
+- Test
