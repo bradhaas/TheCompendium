@@ -5,27 +5,27 @@
 
 	- **styles**
 
-- [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
+- [[CODE_OF_CONDUCT]]
 - **content**
-	- [_index](_index.md)
+	- [[_index]]
 	- **attachments**
 
-	- [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md)
-	- [Doom Raiders](Doom%20Raiders.md)
-	- [Factions](Factions.md)
-	- [Force Gray](Force%20Gray.md)
-	- [Istrid Horn](Istrid%20Horn.md)
-	- [Manshoon](Manshoon.md)
-	- [Renear Neverember](Renear%20Neverember.md)
-	- [Session Summaries](Session%20Summaries.md)
-	- [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md)
-	- [Tashlyn Yafeera](Tashlyn%20Yafeera.md)
+	- [[Davil Starsong (Deceased)]]
+	- [[Doom Raiders]]
+	- [[Factions Summary]]
+	- [[Force Gray]]
+	- [[Istrid Horn]]
+	- [[Manshoon]]
+	- [[Renear Neverember]]
+	- [[Session Summaries]]
+	- [[Skeemo Weirdbottle]]
+	- [[Tashlyn Yafeera]]
 	- **templates**
-		- [NPC Template](NPC%20Template.md)
-		- [post](post.md)
-	- [Vajra Safahr](Vajra%20Safahr.md)
-	- [Zhentarim](Zhentarim.md)
-	- [Ziraj the Hunter](Ziraj%20the%20Hunter.md)
+		- [[NPC Template]]
+		- [[post]]
+	- [[Vajra Safahr]]
+	- [[Zhentarim]]
+	- [[Ziraj the Hunter]]
 - **data**
 
 - **Factions**
@@ -38,7 +38,7 @@
 	- **partials**
 
 - **NPCs**
-- [README](README.md)
+- [[README]]
 - **static**
 
 

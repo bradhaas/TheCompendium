@@ -11,7 +11,7 @@ Absolute links below
 
 ## [NPCs](NPCs.md)
 
-## [Factions](Factions.md)
+## [Factions Summary](Factions%20Summary.md)
 
 ## [Session Summaries](Session%20Summaries.md)
 

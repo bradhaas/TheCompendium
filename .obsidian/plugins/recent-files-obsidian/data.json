@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Factions",
-      "path": "content/Factions.md"
+      "basename": "Factions Summary",
+      "path": "content/Factions Summary.md"
+    },
+    {
+      "basename": "Force Gray",
+      "path": "content/Force Gray.md"
     },
     {
       "basename": "Manshoon",
@@ -27,10 +31,6 @@
     {
       "basename": "Ziraj the Hunter",
       "path": "content/Ziraj the Hunter.md"
-    },
-    {
-      "basename": "Force Gray",
-      "path": "content/Force Gray.md"
     },
     {
       "basename": "Istrid Horn",

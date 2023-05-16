@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Factions Summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions.md"
+                "file": "content/Factions Summary.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Factions Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Factions Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,8 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/Force Gray.md",
+    "content/Factions Summary.md",
     "content/Manshoon.md",
     "content/Doom Raiders.md",
     "content/Davil Starsong (Deceased).md",
@@ -211,8 +213,6 @@
     "content/_index.md",
     "content/Vajra Safahr.md",
     "content/Ziraj the Hunter.md",
-    "content/Factions.md",
-    "content/Force Gray.md",
     "content/Istrid Horn.md",
     "content/templates/NPC Template.md",
     "content/Zhentarim.md",
