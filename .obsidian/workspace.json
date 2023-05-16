@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Faction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Faction.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Faction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Faction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +214,9 @@
   },
   "active": "a0642fdaa2204c05",
   "lastOpenFiles": [
-    "content/Factions Summary.md",
-    "content/NPC Summary.md",
     "content/_index.md",
+    "content/Faction.md",
+    "content/NPC Summary.md",
     "content/Ziraj the Hunter.md",
     "content/Waterdeep - City of Splendors.md",
     "content/attachments/waterdeep.jpeg",

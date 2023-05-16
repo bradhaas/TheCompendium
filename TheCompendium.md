@@ -12,7 +12,7 @@
 
 	- [[Davil Starsong (Deceased)]]
 	- [[Doom Raiders]]
-	- [[Factions Summary]]
+	- [[Faction]]
 	- [[Force Gray]]
 	- [[Istrid Horn]]
 	- [[Manshoon]]
