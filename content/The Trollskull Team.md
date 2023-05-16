@@ -73,4 +73,4 @@ tags: [factions, trollskull-team]
 - **Lucky**: Can reroll with 3 luck points earned / short rest
 - **Reliable Talent**: Any d20 roll on an ability check 9 or lower becomes a 10
 ### Key Equipment
-- Closed Lord Robe + Mask (Attuned)
+- [Closed Lord](Closed%20Lords%20of%20Waterdeep.md) Robe + Mask (Attuned)

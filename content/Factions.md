@@ -18,7 +18,7 @@ An ex-adventuring party turned mercenary group turned gang generals turned unlik
 - [Istrid Horn](Istrid%20Horn.md)
 	- Sought out the party for help after being betrayed by [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md)
 - [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md)
-	- Betrayed the [Doom Raiders](Doom%20Raiders.md), killed [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md) and helped [Manshoon](Manshoon.md) assassinate the Open Lord Larael Silverhand
+	- Betrayed the [Doom Raiders](Doom%20Raiders.md), killed [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md) and helped [Manshoon](Manshoon.md) assassinate the [Open Lord](Closed%20Lords%20of%20Waterdeep.md) Larael Silverhand
 - [Tashlyn Yafeera](Tashlyn%20Yafeera.md)
 - [Ziraj the Hunter](Ziraj%20the%20Hunter.md)
 - [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md)
