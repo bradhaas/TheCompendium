@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/NPCs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Ziraj the Hunter.md"
+                "file": "content/NPCs.md"
               }
             }
           },
@@ -128,8 +129,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
-                "collapseAll": false,
+                "file": "content/NPCs.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,9 +203,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7aa2f798df77a9ef",
+  "active": "471c77f143a8caf4",
   "lastOpenFiles": [
     "content/NPCs.md",
+    "content/NPCs.md",
+    "content/Ziraj the Hunter.md",
     "content/_index.md",
     "content/Manshoon.md",
     "content/Doom Raiders.md",
@@ -218,7 +220,6 @@
     "content/Renear Neverember.md",
     "content/Session Summaries.md",
     "content/Tashlyn Yafeera.md",
-    "content/Ziraj the Hunter.md",
     "content/Skeemo Weirdbottle.md",
     "NPCs",
     "content/attachments/Pasted image 20230516000237.png",
