@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ziraj the Hunter",
+      "path": "content/NPCs/Ziraj the Hunter.md"
+    },
+    {
       "basename": "Factions",
       "path": "content/Factions/Factions.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Istrid Horn",
       "path": "content/NPCs/Istrid Horn.md"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/NPCs/Ziraj the Hunter.md"
     },
     {
       "basename": "Doom Raiders",
