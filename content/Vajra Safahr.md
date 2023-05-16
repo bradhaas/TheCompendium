@@ -11,7 +11,7 @@ The head mage of Waterdeep - the
 ## Background
 **Race**: Half Orc
 
-**Faction**: [Force Gray](../Factions/Force%20Gray.md)
+**Faction**: [Force Gray](content/Force%20Gray.md)
 
 ## Party Relationship
 - Party fled from Ziraj's huge arrow bolts through the city as

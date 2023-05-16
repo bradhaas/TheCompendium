@@ -6,7 +6,7 @@ date modified: May 15th 2023, 11:40:41 pm
 tags: [NPCs, Zhentarim]
 ---
 ## Summary
-- An archwizard who hired the [Doom Raiders](../Factions/Doom%20Raiders.md) in order to found the [Zhentarim](../Factions/Zhentarim.md)
+- An archwizard who hired the [Doom Raiders](content/Doom%20Raiders.md) in order to found the [Zhentarim](content/Zhentarim.md)
 - Like many wizards pushing the boundaries of magical experiments, Manshoon eventually ran in the very non-magical problem of resources. Spellcasting components aren't cheap, particularly when your focuses are 
 
 ![](attachments/Pasted%20image%2020230515212419.png)

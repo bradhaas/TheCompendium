@@ -12,6 +12,6 @@ Welcome to the Compendium!
 
 ## [NPCs](NPCs/NPCs.md)
 
-## [Factions](Factions/Factions.md)
+## [Factions](content/Factions.md)
 
 

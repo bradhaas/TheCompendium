@@ -6,14 +6,14 @@ date modified: May 15th 2023, 11:28:28 pm
 tags: [NPCs, Doom-Raiders]
 ---
 ## Summary
-- A burly half orc paladin and one of the original members of the [Doom Raiders](../Factions/Doom%20Raiders.md)
+- A burly half orc paladin and one of the original members of the [Doom Raiders](content/Doom%20Raiders.md)
 - Loyal to anyone who shows him kindness
 - Good Friends with Chad
 ![](attachments/Ziraj.png)
 
 ## Background
 - **Race**: Half Orc
-- **Faction**: [Doom Raiders](../Factions/Doom%20Raiders.md)
+- **Faction**: [Doom Raiders](content/Doom%20Raiders.md)
 - **Abilities**: Arrow Paladin
 
 ## Party Relationship
