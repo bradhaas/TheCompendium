@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions.md"
+    },
+    {
+      "basename": "Ziraj the Hunter",
+      "path": "content/Ziraj the Hunter.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
     {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "Ziraj",
@@ -33,20 +41,12 @@
       "path": "content/Session Summaries.md"
     },
     {
-      "basename": "Factions",
-      "path": "content/Factions.md"
-    },
-    {
       "basename": "Vajra Safahr",
       "path": "content/Vajra Safahr.md"
     },
     {
       "basename": "NPC Template",
       "path": "content/templates/NPC Template.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
     },
     {
       "basename": "Istrid Horn",
