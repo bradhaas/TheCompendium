@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Ziraj the Hunter",
+      "path": "content/NPCs/Ziraj the Hunter.md"
+    },
+    {
+      "basename": "Vajra Safahr",
+      "path": "content/NPCs/Vajra Safahr.md"
+    },
+    {
       "basename": "Skeemo Weirdbottle",
-      "path": "content/Skeemo Weirdbottle.md"
+      "path": "content/NPCs/Skeemo Weirdbottle.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/NPCs/Renear Neverember.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/NPCs/Istrid Horn.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Manshoon",
+      "path": "content/Manshoon.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
+    },
+    {
+      "basename": "Lead Up to the Battle of the Closed Lords",
+      "path": "content/Lead Up to the Battle of the Closed Lords.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions.md"
     },
     {
       "basename": "Doom Raiders",
@@ -13,48 +49,20 @@
       "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
     },
     {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/Davil Starsong (Deceased).md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
-    },
-    {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/Renear Neverember.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/Istrid Horn.md"
-    },
-    {
-      "basename": "Lead Up to the Battle of the Closed Lords",
-      "path": "content/Lead Up to the Battle of the Closed Lords.md"
-    },
-    {
-      "basename": "Manshoon",
-      "path": "content/Manshoon.md"
-    },
-    {
-      "basename": "Vajra Safahr",
-      "path": "content/Vajra Safahr.md"
     },
     {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
     },
     {
-      "basename": "_index",
-      "path": "content/_index.md"
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/Davil Starsong (Deceased).md"
     },
     {
-      "basename": "Ziraj the Hunter",
-      "path": "content/Ziraj the Hunter.md"
+      "basename": "_index",
+      "path": "content/_index.md"
     },
     {
       "basename": "Ziraj",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-05-11",
       "path": "Periodic Notes/Daily Notes/2023-05-11.md"
-    },
-    {
-      "basename": "2023-05-09",
-      "path": "Periodic Notes/Daily Notes/2023-05-09.md"
-    },
-    {
-      "basename": "Hobbies",
-      "path": "Hobbies/Hobbies.md"
     }
   ],
   "omittedPaths": [],

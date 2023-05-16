@@ -3,7 +3,7 @@ title: Ziraj the Hunter
 enableToc: false
 date created: May 15th 2023, 5:48:00 pm
 date modified: May 15th 2023, 9:17:56 pm
-tags: [NPCs, doom-raiders]
+tags: [NPCs, Doom-Raiders]
 ---
 ## Summary
 - A burly half orc paladin and one of the original members of the [[Doom Raiders]]

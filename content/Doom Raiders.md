@@ -2,8 +2,8 @@
 title: Doom Raiders
 enableToc: false
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 15th 2023, 10:33:56 pm
-tags: [factions, doom-raiders]
+date modified: May 15th 2023, 10:37:03 pm
+tags: [factions, Doom-Raiders]
 ---
 ## Summary
 - An adventuring party not unlike the Trollskull crew
@@ -12,9 +12,9 @@ tags: [factions, doom-raiders]
 
 ## Members
 - [[Davil Starsong (Deceased)]] - A human Rogue
-- [[Ziraj the Hunter]] - A Orc Paladin Archer
-- [[Istrid Horn]] - A Dwarven Shield Cleric
-- [[Skeemo Weirdbottle]] - A Gnomish Wizard
+- [[NPCs/Ziraj the Hunter]] - A Orc Paladin Archer
+- [[NPCs/Istrid Horn]] - A Dwarven Shield Cleric
+- [[NPCs/Skeemo Weirdbottle]] - A Gnomish Wizard
   Image below
 ![](attachments/Pasted%20image%2020230515222747.png)
 ## Faction History

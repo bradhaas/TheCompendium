@@ -14,18 +14,15 @@
 	- [[Davil Starsong (Deceased)]]
 	- [[Doom Raiders]]
 	- [[Factions]]
-	- [[Istrid Horn]]
 	- [[Lead Up to the Battle of the Closed Lords]]
 	- [[Manshoon]]
-	- [[Renear Neverember]]
+	- **[[NPCs]]**
+	- [[NPCs]]
 	- [[Session Summaries]]
-	- [[Skeemo Weirdbottle]]
 	- **templates**
 		- [[NPC Template]]
 		- [[post]]
-	- [[Vajra Safahr]]
 	- [[Zhentarim]]
-	- [[Ziraj the Hunter]]
 - **data**
 
 - **i18n**

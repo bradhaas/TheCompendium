@@ -4,4 +4,4 @@ date created: May 15th 2023, 6:20:08 pm
 date modified: May 15th 2023, 9:18:17 pm
 tags: [session-summary]
 ---
-[[Ziraj the Hunter]]
+[[NPCs/Ziraj the Hunter]]
