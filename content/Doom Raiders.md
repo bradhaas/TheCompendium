@@ -2,7 +2,7 @@
 title: Doom Raiders
 enableToc: false
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 15th 2023, 10:26:38 pm
+date modified: May 15th 2023, 10:32:56 pm
 tags: [factions, doom-raiders]
 ---
 ## Summary
@@ -11,11 +11,11 @@ tags: [factions, doom-raiders]
 - Eventually, they allied themselves with [Manshoon](Manshoon.md), leading to the Black Network's transformation in to the [Zhentarim](Zhentarim.md)
 
 ## Members
-- [[Davil Starsong (Deceased)]] - 
+- [[Davil Starsong (Deceased)]] - A human Rogue
 - [[Ziraj the Hunter]] - A Orc Paladin Archer
 - [[Istrid Horn]] - A Dwarven Shield Cleric
-- [[Skeemo Weirdbottle]]
-  Image bel
+- [[Skeemo Weirdbottle]] - A Gnomish Wizard
+  Image below
 ![](attachments/Pasted%20image%2020230515222747.png)
 ## Faction History
 - An adventuring party that made a name for themselves cleaning out the lairs of liches (known as "dooms").
@@ -29,4 +29,3 @@ Unknown.
 asd
 ### Hangout Spots
 asdf
-
