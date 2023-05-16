@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "static/styles.css.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "static/styles.css.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/The Trollskull Team.md"
+                "file": "static/styles.css.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "static/styles.css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,11 +211,12 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/The Trollskull Team.md",
+    "static/styles.css.md",
     "layouts/partials/header.html",
     "layouts/partials/header.rtf",
     "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
     "content/Tuferbop Lilli Timbers.md",
-    "content/The Trollskull Team.md",
     "content/Matrick Side-Eyes.md",
     "content/Renear Neverember.md",
     "content/Factions.md",
@@ -256,7 +257,6 @@
     "content/attachments",
     "config.toml.sb-fdbe754b-5cpBzZ",
     "content/attachments",
-    "'content/attachments",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]
