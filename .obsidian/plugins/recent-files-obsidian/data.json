@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
+    },
+    {
       "basename": "Doom Raiders",
       "path": "content/Doom Raiders.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs.md"
     },
     {
       "basename": "Ziraj the Hunter",
