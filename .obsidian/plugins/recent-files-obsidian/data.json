@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
+      "basename": "Zhentarim",
+      "path": "content/Zhentarim.md"
+    },
+    {
+      "basename": "Vajra Safahr",
+      "path": "content/Vajra Safahr.md"
+    },
+    {
+      "basename": "Blackstaff",
+      "path": "content/Blackstaff.md"
+    },
+    {
       "basename": "Ziraj the Hunter",
       "path": "content/Ziraj the Hunter.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/Davil Starsong (Deceased).md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
     },
     {
       "basename": "Factions",
@@ -75,14 +87,6 @@
     {
       "basename": "Skeemo Statblock",
       "path": "content/attachments/Skeemo Statblock.png"
-    },
-    {
-      "basename": "Zhentarim",
-      "path": "content/Zhentarim.md"
-    },
-    {
-      "basename": "Vajra Safahr",
-      "path": "content/Vajra Safahr.md"
     },
     {
       "basename": "Tashlyn Yafeera",

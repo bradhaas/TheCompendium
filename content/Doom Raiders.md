@@ -14,8 +14,8 @@ tags: [factions, Doom-Raiders]
 Left to right in the image below:
 - [Davil Starsong (Deceased)](content/Davil%20Starsong%20(Deceased).md) A human Rogue
 	- Stabbed in the back by [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md) as he betrayed his friends and helped [Manshoon](Manshoon.md) assassinate the Open Lord
-- [Tashlyn Yafeera](Tashlyn%20Yafeera.md) -
 - [Istrid Horn](Istrid%20Horn.md) - A Dwarven Shield Cleric
+-  [Tashlyn Yafeera](Tashlyn%20Yafeera.md) - A Human Fighter
 - [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md) - A Gnomish Wizard
 - [Ziraj the Hunter](Ziraj%20the%20Hunter.md) - A Orc Paladin Archer
 ![Doom Raiders](Doom%20Raiders.png)
@@ -25,13 +25,8 @@ Left to right in the image below:
 - As they sought more power, they eventually allied themselves with the wizard [Manshoon](Manshoon.md)
 	- Together, they formed what became the [Zhentarim](Zhentarim.md)
 	- They acted as the generals of the Mercenary Group
-- Skeemo grew frustrated with their stagnant
+- Skeemo grew frustrated with their stagnant role as enforcers in a crime family - he made a play with Manshoon to take the city over, stabbing his old friends in the back on the way
 
-## All Members
-```dataview
-LIST
-FROM #Doom-Raiders 
-```
 
 ## What the Party Knows
 ### Goals

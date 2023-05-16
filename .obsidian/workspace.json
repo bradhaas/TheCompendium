@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Ziraj the Hunter.md"
+                "file": "content/Doom Raiders.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/Doom Raiders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,11 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/Zhentarim.md",
+    "content/Vajra Safahr.md",
+    "content/Blackstaff.md",
+    "content/attachments/Pasted image 20230516105853.png",
+    "content/Ziraj the Hunter.md",
     "content/Waterdeep - City of Splendors.md",
     "screenshot.png",
     "TheCompendium.md",
@@ -216,7 +221,6 @@
     "content/Session Summaries.md",
     "content/_index.md",
     "content/NPC Summary.md",
-    "content/Ziraj the Hunter.md",
     "content/attachments/waterdeep.jpeg",
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",
@@ -225,9 +229,6 @@
     "content/attachments/Doom Raiders.png",
     "content/attachments/Manshoon.png",
     "content/attachments/Zhentarim Banner.png",
-    "content/attachments/Istrid Statblock.png",
-    "content/Zhentarim.md",
-    "content/Vajra Safahr.md",
     "content/Tashlyn Yafeera.md",
     "content/Manshoon.md",
     "content/Istrid Horn.md",
