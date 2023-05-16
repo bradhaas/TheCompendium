@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Doom Raiders",
-      "path": "content/Factions/Doom Raiders.md"
-    },
-    {
       "basename": "Manshoon",
       "path": "content/NPCs/Manshoon.md"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/NPCs/Renear Neverember.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Istrid Horn",
@@ -23,6 +11,18 @@
     {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/NPCs/Davil Starsong (Deceased).md"
+    },
+    {
+      "basename": "Doom Raiders",
+      "path": "content/Factions/Doom Raiders.md"
+    },
+    {
+      "basename": "Renear Neverember",
+      "path": "content/NPCs/Renear Neverember.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
     },
     {
       "basename": "Vajra Safahr",

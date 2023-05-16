@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Manshoon.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions/Doom Raiders.md"
+                "file": "content/NPCs/Manshoon.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Manshoon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Manshoon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,12 +205,12 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
-    "content/NPCs/Manshoon.md",
-    "content/NPCs/Renear Neverember.md",
-    "content/_index.md",
-    "content/Factions/Doom Raiders.md",
     "content/NPCs/Istrid Horn.md",
     "content/NPCs/Davil Starsong (Deceased).md",
+    "content/Factions/Doom Raiders.md",
+    "content/NPCs/Renear Neverember.md",
+    "content/NPCs/Manshoon.md",
+    "content/_index.md",
     "content/NPCs/Vajra Safahr.md",
     "content/Factions/Force Gray.md",
     "content/NPCs/Ziraj the Hunter.md",
