@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Factions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Doom Raiders.md"
+                "file": "content/Factions.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Factions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Doom Raiders.md",
+                "file": "content/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,7 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
+    "content/Doom Raiders.md",
     "content/Zhentarim.md",
     "content/Vajra Safahr.md",
     "content/Blackstaff.md",
@@ -214,7 +215,6 @@
     "screenshot.png",
     "TheCompendium.md",
     "content/Davil Starsong (Deceased).md",
-    "content/Doom Raiders.md",
     "content/Factions.md",
     "content/Skeemo Weirdbottle.md",
     "content/Renear Neverember.md",

@@ -7,7 +7,9 @@ tags: [factions]
 ---
 ## [Doom Raiders](Doom%20Raiders.md)
 - An ex-adventuring party turned mercenary group turned gang generals turned unlikely allies to the party
-- **Primary Goal:** Escape the Manshoon's influence and settle down safely
+> [!info] Primary Goal
+>
+> Escape the city and kee
 - Members
 	- [Istrid Horn](Istrid%20Horn.md)
 		- Sought out the party for help after being betrayed by [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md)
