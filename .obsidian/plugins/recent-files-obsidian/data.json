@@ -5,16 +5,24 @@
       "path": "content/Doom Raiders.md"
     },
     {
-      "basename": "Factions",
-      "path": "content/Factions.md"
-    },
-    {
       "basename": "Ziraj the Hunter",
       "path": "content/Ziraj the Hunter.md"
     },
     {
+      "basename": "2023-05-21 - The Battle of the Closed Lords",
+      "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions.md"
     },
     {
       "basename": "Zhentarim",
@@ -31,14 +39,6 @@
     {
       "basename": "NPCs",
       "path": "content/NPCs.md"
-    },
-    {
-      "basename": "2023-05-21 - The Battle of the Closed Lords",
-      "path": "content/2023-05-21 - The Battle of the Closed Lords.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
     },
     {
       "basename": "Vajra Safahr",
