@@ -15,3 +15,5 @@ asdf
 
 ## Members
 - [[../NPCs/Ziraj the Hunter|Ziraj the Hunter]]
+- [[../NPCs/Istrid Horn|Istrid Horn]]
+- 

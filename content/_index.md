@@ -12,4 +12,3 @@ Welcome to the Compendium!
 - [[content/NPCs/NPCs|NPCs]]
 - [[content/Session Summaries/Session Summaries|Session Summaries]]
 
-![ziraj](attachments/Ziraj.png)

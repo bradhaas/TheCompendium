@@ -5,6 +5,8 @@ date modified: May 15th 2023, 8:22:49 pm
 tags: 
 ---
 %% Begin Waypoint %%
+- [[Istrid Horn]]
+- [[Vajra Safyr]]
 - [[Ziraj the Hunter]]
 
 %% End Waypoint %%
