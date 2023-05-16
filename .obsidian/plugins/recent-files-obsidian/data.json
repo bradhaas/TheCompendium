@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "NPCs",
-      "path": "content/NPCs.md"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/Ziraj the Hunter.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
       "basename": "Manshoon",
       "path": "content/Manshoon.md"
     },
@@ -23,6 +11,18 @@
     {
       "basename": "Davil Starsong (Deceased)",
       "path": "content/Davil Starsong (Deceased).md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "Vajra Safahr",
+      "path": "content/Vajra Safahr.md"
+    },
+    {
+      "basename": "Ziraj the Hunter",
+      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "Factions",
@@ -59,10 +59,6 @@
     {
       "basename": "Skeemo Weirdbottle",
       "path": "content/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Vajra Safahr",
-      "path": "content/Vajra Safahr.md"
     },
     {
       "basename": "Ziraj",
