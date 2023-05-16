@@ -205,8 +205,8 @@
       "obsidian-metatable:Metatable": false,
       "cmdr:Periodic Notes: Open monthly note": false,
       "cmdr:Periodic Notes: Open weekly note": false,
-      "periodic-notes:Open today": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "c385e34f9fba8889",
