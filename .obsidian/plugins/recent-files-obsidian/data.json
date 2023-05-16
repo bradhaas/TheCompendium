@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ziraj the Hunter",
+      "path": "content/NPCs/Ziraj the Hunter.md"
+    },
+    {
       "basename": "Doom Raiders",
       "path": "content/Factions/Doom Raiders.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mid May Madness",
       "path": "Home Management/Projects/Mid May Madness.md"
-    },
-    {
-      "basename": "Obsidian Setup",
-      "path": "Obsidian/Obsidian Setup.md"
     }
   ],
   "omittedPaths": [],

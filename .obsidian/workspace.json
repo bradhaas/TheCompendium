@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions/Doom Raiders.md"
+                "file": "content/NPCs/Ziraj the Hunter.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions/Doom Raiders.md",
+                "file": "content/NPCs/Ziraj the Hunter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,9 @@
   },
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
+    "content/attachments/Pasted image 20230515181857.png",
+    "content/attachments",
+    "content/Factions/Doom Raiders.md",
     "content/Factions/Factions.md",
     "content/NPCs/NPCs.md",
     "content/_index.md",
@@ -232,7 +235,6 @@
     "D&D/TheCompendium/layouts/partials/textprocessing.html",
     "D&D/TheCompendium/layouts/partials/search.html",
     "D&D/TheCompendium/layouts/partials/recent.html",
-    "D&D/TheCompendium/layouts/partials/page-list.html",
     "D&D/TheCompendium/content/notes/images/github-pages.png",
     "D&D/TheCompendium/content/notes/images/google-domains.png",
     "D&D/TheCompendium/content/notes/images/obsidian-settings.png",
@@ -245,8 +247,6 @@
     "D&D/TheCompendium/content/notes/showcase.md",
     "D&D/TheCompendium/content/notes/setup.md",
     "D&D/TheCompendium/content/notes/search.md",
-    "D&D/TheCompendium/content/notes/preview changes.md",
-    "D&D/TheCompendium/content/notes/philosophy.md",
     "D&D/D&D - Campaign 1/Player's Vault/PlayersVault/screenshot.png",
     "D&D/D&D - Campaign 1/TheCompendium/static/icon.png",
     "D&D/D&D - Campaign 1/TheCompendium/screenshot.png",

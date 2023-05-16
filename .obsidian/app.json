@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "Obsidian/Attachments",
+  "attachmentFolderPath": "content/attachments",
   "newFileLocation": "current",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
