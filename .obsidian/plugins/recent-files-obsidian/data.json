@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NPCs",
+      "path": "content/NPCs.md"
+    },
+    {
       "basename": "Factions",
       "path": "content/Factions.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Istrid Horn",
       "path": "content/Istrid Horn.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs.md"
     },
     {
       "basename": "_index",
