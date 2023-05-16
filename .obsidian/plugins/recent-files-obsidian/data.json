@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
+    },
+    {
       "basename": "Renear Neverember",
       "path": "content/Renear Neverember.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "_index",
       "path": "content/_index.md"
-    },
-    {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
     },
     {
       "basename": "Lead Up to the Battle of the Closed Lords",
