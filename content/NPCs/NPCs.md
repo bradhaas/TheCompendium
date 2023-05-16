@@ -6,7 +6,7 @@ tags:
 ---
 %% Begin Waypoint %%
 - [[Istrid Horn]]
-- [[Vajra Safyr]]
+- [[Vajra Safahr]]
 - [[Ziraj the Hunter]]
 
 %% End Waypoint %%
