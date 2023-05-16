@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Davil Starsong (Deceased).md",
+                "file": "content/Force Gray.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Davil Starsong (Deceased).md"
+                "file": "content/Force Gray.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Davil Starsong (Deceased).md",
+                "file": "content/Force Gray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Davil Starsong (Deceased).md",
+                "file": "content/Force Gray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,22 +205,21 @@
   },
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
+    "content/Factions.md",
     "content/NPCs.md",
+    "content/_index.md",
     "content/Davil Starsong (Deceased).md",
     "content/templates/NPC Template.md",
     "content/Doom Raiders.md",
     "content/Istrid Horn.md",
     "content/Manshoon.md",
-    "content/_index.md",
     "content/Zhentarim.md",
     "content/Force Gray.md",
-    "content/Factions.md",
     "content/Renear Neverember.md",
     "content/Session Summaries.md",
     "content/Tashlyn Yafeera.md",
     "content/Ziraj the Hunter.md",
     "content/Skeemo Weirdbottle.md",
-    "content/Factions.md",
     "NPCs",
     "content/attachments/Pasted image 20230516000237.png",
     "content/attachments/Pasted image 20230515235918.png",

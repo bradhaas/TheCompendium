@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Davil Starsong (Deceased)",
-      "path": "content/Davil Starsong (Deceased).md"
+      "basename": "Force Gray",
+      "path": "content/Force Gray.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "content/Factions.md"
     },
     {
       "basename": "NPCs",
       "path": "content/NPCs.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "Davil Starsong (Deceased)",
+      "path": "content/Davil Starsong (Deceased).md"
     },
     {
       "basename": "NPC Template",
@@ -25,20 +37,8 @@
       "path": "content/Manshoon.md"
     },
     {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
       "basename": "Zhentarim",
       "path": "content/Zhentarim.md"
-    },
-    {
-      "basename": "Force Gray",
-      "path": "content/Force Gray.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions.md"
     },
     {
       "basename": "Renear Neverember",
