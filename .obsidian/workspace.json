@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Ziraj the Hunter.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Ziraj the Hunter.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,11 +206,12 @@
   "active": "2f9a3968c53669c3",
   "lastOpenFiles": [
     "content/Doom Raiders.md",
+    "content/Factions.md",
+    "content/Istrid Horn.md",
     "content/Ziraj the Hunter.md",
     "TheCompendium.md",
     "content/Lead Up to the Battle of the Closed Lords.md",
     "content/Vajra Safahr.md",
-    "content/Factions.md",
     "content/2023-05-21 - The Battle of the Closed Lords.md",
     "content/NPCs.md",
     "content/Zhentarim.md",
@@ -226,7 +227,6 @@
     "content/attach.md",
     "content/attachments",
     "content/templates/NPC Template.md",
-    "content/Istrid Horn.md",
     "content/templates/[[Ziraj.png]].md",
     "content/templates/post.md",
     "README.md",

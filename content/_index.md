@@ -8,7 +8,8 @@ tags:
 
 Welcome to the Compendium!
 
-## Links
-- [[Factions]]
-- [[NPCs]]
-- [[Session Summaries]]
+## [Session Summaries](Session%20Summaries.md)
+
+## [Factions](Factions.md)
+
+## [NPCs](NPCs.md)
