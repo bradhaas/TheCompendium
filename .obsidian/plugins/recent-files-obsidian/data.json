@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Doom Raiders",
+      "path": "content/Factions/Doom Raiders.md"
+    },
+    {
       "basename": "Ziraj the Hunter",
       "path": "content/NPCs/Ziraj the Hunter.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Lead Up to the Battle of the Closed Lords",
       "path": "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Factions/Doom Raiders.md"
     },
     {
       "basename": "_index",
