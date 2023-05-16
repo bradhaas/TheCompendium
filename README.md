@@ -1,4 +1,8 @@
-# Quartz
+---
+date created: May 15th 2023, 5:45:10 pm
+date modified: May 15th 2023, 6:02:29 pm
+---
+## Quartz
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
