@@ -11,7 +11,8 @@ The head mage of Waterdeep - the
 ## Background
 **Race**: Half Orc
 
-**Faction**: 
+**Faction**: [Force Gray](../Factions/Force%20Gray.md)
+
 
 
 ## Party Relationship
