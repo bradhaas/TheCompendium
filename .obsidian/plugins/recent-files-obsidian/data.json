@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Zhentarim",
       "path": "content/Factions/Zhentarim.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Tashlyn Yafeera",
