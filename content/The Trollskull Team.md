@@ -18,4 +18,4 @@ tags:
 [Character App](https://www.dndbeyond.com/characters/29207223)
 
 ## [[Tuferbop Lilli Timbers]]
-[Fetching Title#j4lh](https://www.dndbeyond.com/characters/29269184)
+[Character App](https://www.dndbeyond.com/characters/29269184)
