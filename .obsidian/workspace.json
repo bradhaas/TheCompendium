@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Matrick Side-Eyes.md",
+                "file": "content/The Trollskull Team.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
       {
         "id": "66b5fad7e13190bd",
         "type": "tabs",
-        "dimension": 40.57142857142857,
+        "dimension": 66.07773851590106,
         "children": [
           {
             "id": "cfe9d94357a8e123",
@@ -110,7 +110,7 @@
       {
         "id": "f1b492ce15fe584f",
         "type": "tabs",
-        "dimension": 59.42857142857143,
+        "dimension": 33.92226148409894,
         "children": [
           {
             "id": "f1014b8f89aee13b",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Matrick Side-Eyes.md"
+                "file": "content/The Trollskull Team.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Matrick Side-Eyes.md",
+                "file": "content/The Trollskull Team.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Matrick Side-Eyes.md",
+                "file": "content/The Trollskull Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +205,9 @@
   },
   "active": "c385e34f9fba8889",
   "lastOpenFiles": [
-    "content/The Trollskull Team.md",
     "content/Matrick Side-Eyes.md",
+    "content/The Trollskull Team.md",
+    "content/Cruceus Hieron Auric Disthenes.md",
     "content/Doom Raiders.md",
     "content/attachments/Doom Raiders.png",
     "content/Factions.md",
@@ -246,7 +247,6 @@
     "content/Session Summaries/Lead Up to the Battle of the Closed Lords.md",
     "content/attachments",
     "config.toml.sb-fdbe754b-5cpBzZ",
-    "content/attach.md",
     "content/attachments",
     "'content/attachments",
     "'content",
