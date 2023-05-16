@@ -35,7 +35,7 @@
     "insert-current-time"
   ],
   "readableLineLength": false,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "spellcheck": false
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/Tashlyn Yafeera.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/Tashlyn Yafeera.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/Tashlyn Yafeera.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/Tashlyn Yafeera.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,6 +206,7 @@
   "active": "7aa2f798df77a9ef",
   "lastOpenFiles": [
     "content/NPCs/NPCs.md",
+    "content/NPCs/Tashlyn Yafeera.md",
     "content/_index.md",
     "content/Factions/Factions.md",
     "content/NPCs/Ziraj the Hunter.md",
@@ -221,7 +222,6 @@
     "content/Factions/Zhentarim.md",
     "content/NPCs/Renear Neverember.md",
     "content/attachments/Pasted image 20230516000237.png",
-    "content/NPCs/Tashlyn Yafeera.md",
     "content/attachments/Pasted image 20230515235918.png",
     "content/attachments/Pasted image 20230515235853.png",
     "content/NPCs/Vajra Safahr.md",
