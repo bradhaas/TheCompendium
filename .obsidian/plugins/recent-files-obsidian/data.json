@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ziraj the Hunter",
+      "path": "content/Ziraj the Hunter.md"
+    },
+    {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "NPCs",
       "path": "content/NPCs.md"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/Ziraj the Hunter.md"
     },
     {
       "basename": "Zhentarim",
@@ -58,7 +58,7 @@
     },
     {
       "basename": "Ziraj",
-      "path": "content/attachments/Ziraj.png"
+      "path": "content/Ziraj.png"
     },
     {
       "basename": "README",
@@ -195,10 +195,6 @@
     {
       "basename": "AKC Fit Dog",
       "path": "Dogs/Competition/AKC Fit Dog.md"
-    },
-    {
-      "basename": "Forge",
-      "path": "Dogs/Forge.md"
     }
   ],
   "omittedPaths": [],

@@ -9,8 +9,7 @@ tags:
 - A burly half orc paladin and one of the original members of the [[Doom Raiders|Doom Raiders]].
 - Loyal to anyone who shows him kindness.
 - Good Friends with Chad
-
-![](attach)
+![[Ziraj.png]]
 
 ## Background
 **Race**: Half Orc
