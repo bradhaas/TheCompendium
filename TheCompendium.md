@@ -11,15 +11,15 @@
 	- [[2023-05-21 - The Battle of the Closed Lords]]
 	- **attachments**
 
+	- [[Davil Starsong (Deceased)]]
 	- [[Doom Raiders]]
 	- [[Factions]]
 	- [[Istrid Horn]]
 	- [[Lead Up to the Battle of the Closed Lords]]
 	- [[Manshoon]]
-	- [[NPCs]]
 	- [[Renear Neverember]]
 	- [[Session Summaries]]
-	- [[Skeemo Wierdbottle]]
+	- [[Skeemo Weirdbottle]]
 	- **templates**
 		- [[NPC Template]]
 		- [[post]]

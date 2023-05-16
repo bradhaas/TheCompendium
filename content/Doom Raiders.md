@@ -11,10 +11,11 @@ tags: [factions, doom-raiders]
 - Eventually, they allied themselves with [Manshoon](Manshoon.md), leading to the Black Network's transformation in to the [Zhentarim](Zhentarim.md)
 
 ## Members
+- [[Davil Starsong (Deceased)]] - 
 - [[Ziraj the Hunter]] - A Orc Paladin Archer
 - [[Istrid Horn]] - A Dwarven Shield Cleric
-- [[Skeemo Wierdbottle]]
-- 
+- [[Skeemo Weirdbottle]]
+  Image bel
 ![](attachments/Pasted%20image%2020230515222747.png)
 ## Faction History
 - An adventuring party that made a name for themselves cleaning out the lairs of liches (known as "dooms").
