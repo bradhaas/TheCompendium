@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Session Summaries",
-      "path": "content/Session Summaries.md"
-    },
-    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -15,6 +11,14 @@
     {
       "basename": "NPCs",
       "path": "content/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Ziraj the Hunter",
+      "path": "content/NPCs/Ziraj the Hunter.md"
+    },
+    {
+      "basename": "Session Summaries",
+      "path": "content/Session Summaries.md"
     },
     {
       "basename": "Skeemo Weirdbottle",
@@ -59,10 +63,6 @@
     {
       "basename": "NPC Template",
       "path": "content/templates/NPC Template.md"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/NPCs/Ziraj the Hunter.md"
     },
     {
       "basename": "Ziraj",
