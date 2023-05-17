@@ -21,7 +21,7 @@ tags: [factions, trollskull-team]
 > [!example] Secondary Goal
 >
 > Ensure the new [Open Lord](Closed%20Lords%20of%20Waterdeep.md) of Waterdeep is someone who's goals align with the parties
-> Your good friend
+> Your good friend Renear is wrestling with some of his own daddy issues but he would be a great candidate for the job.
 >
 
 ## Members

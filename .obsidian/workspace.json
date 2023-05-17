@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/The Trollskull Team.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/The Trollskull Team.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/The Trollskull Team.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/The Trollskull Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,6 +211,7 @@
   },
   "active": "4d46a5a2463d1ec0",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/The Trollskull Team.md",
     "content/Chad.md",
     "content/Matrick.md",
@@ -219,7 +220,6 @@
     "content/Saf.md",
     "content/Tuf.md",
     "content/Stone of Golorr.md",
-    "content/_index.md",
     "content/Vajra Safahr.md",
     "content/Cassalanter Family.md",
     "content/Istrid Horn.md",
