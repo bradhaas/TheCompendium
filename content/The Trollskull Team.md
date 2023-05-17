@@ -3,7 +3,7 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 17th 2023, 3:18:11 pm
+date modified: May 17th 2023, 3:23:33 pm
 tags: [factions, trollskull-team]
 ---
 ## Objectives
@@ -26,34 +26,33 @@ tags: [factions, trollskull-team]
 
 ## Members
 ## [Matrick](Matrick.md) / [Matrick Side-Eyes](Matrick.md)
-### [Character Sheet](https://www.dndbeyond.com/characters/47957494)
-### Key Abilities
+### [Character Sheet](https://www.dndbeyond.com/characters/47957494) - Level 11 Warlock
+Key Abilities:
 
-### Key Equipment
+Key Equipment:
 
 ## [Chad](Chad.md) / [[Chad]]
-### [Character Sheet](https://www.dndbeyond.com/characters/29073151)
-
+### [Character Sheet](https://www.dndbeyond.com/characters/29073151) - Level 10 Paladin
+Key Abilities:
 - **Smites**: Does a shit ton of damage
 - **Lay on Hands**: Healing
-### Key Equipment
+Key Equipment
 - [Azuredge](https://www.dndbeyond.com/magic-items/253562-azuredge)
 
 ## [Saf](Saf.md) / [Safvyre Everdreya](Saf.md)
-### [Character Sheet](https://www.dndbeyond.com/characters/28905246)
-### Key Abilities
-- **Wild Shape**
-- **Summon Animals**
-### Key Equipment
+### [Character Sheet](https://www.dndbeyond.com/characters/28905246) - Level 11 Druid
+Key Abilities:
+- **Wild Shape**: Turn into an animal
+- **Summon Animals**: Summon a bunch of spiritual animals
+Key Equipment:
 - [Staff of the Woodlands](https://www.dndbeyond.com/magic-items/4769-staff-of-the-woodlands)
 
 ## [Qis](Qis.md) / [Qisandoral Ofandrus](Qis.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/29207223)
-### Key Abilities
-- **Telekenetic Shove**
+Key Abilities:
 - **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](Qis.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
 - **Arcane Recovery**
-### Key Equipment
+Key Equipment:
 - [Arcane Grimoire](https://www.dndbeyond.com/magic-items/2411946-arcane-grimoire-2)
 - [Robe of Stars](https://www.dndbeyond.com/magic-items/4741-robe-of-stars)
 - Blinded Stone of Golorr with 1
