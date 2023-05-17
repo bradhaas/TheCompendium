@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "The Trollskull Team",
       "path": "content/The Trollskull Team.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Stone of Golorr",
       "path": "content/Stone of Golorr.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/_index.md"
     },
     {
       "basename": "Vajra Safahr",

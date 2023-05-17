@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/_index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/The Trollskull Team.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +211,8 @@
   },
   "active": "4d46a5a2463d1ec0",
   "lastOpenFiles": [
-    "content/Chad.md",
     "content/The Trollskull Team.md",
+    "content/Chad.md",
     "content/Matrick.md",
     "content/Qis.md",
     "content/Renear.md",
