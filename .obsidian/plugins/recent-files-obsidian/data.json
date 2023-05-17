@@ -5,6 +5,10 @@
       "path": "content/The Trollskull Team.md"
     },
     {
+      "basename": "Doom Raiders",
+      "path": "content/Doom Raiders.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Closed Lords of Waterdeep",
       "path": "content/Closed Lords of Waterdeep.md"
-    },
-    {
-      "basename": "Doom Raiders",
-      "path": "content/Doom Raiders.md"
     },
     {
       "basename": "Davil Starsong (Deceased)",
