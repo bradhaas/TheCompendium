@@ -1,9 +1,9 @@
 ---
-title: Renear Neverember
-alias: Renear
+title: Renear
+alias: Renear Neverember
 enableToc: false
 date created: May 15th 2023, 8:56:31 pm
-date modified: May 16th 2023, 2:26:04 pm
+date modified: May 16th 2023, 2:33:31 pm
 tags: [NPCs, trollskull-team]
 ---
 Member of the [The Trollskull Team](The%20Trollskull%20Team.md)

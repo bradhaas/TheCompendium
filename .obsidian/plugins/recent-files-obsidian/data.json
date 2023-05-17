@@ -5,6 +5,34 @@
       "path": "content/The Trollskull Team.md"
     },
     {
+      "basename": "Chad",
+      "path": "content/Chad.md"
+    },
+    {
+      "basename": "Matrick",
+      "path": "content/Matrick.md"
+    },
+    {
+      "basename": "Qis",
+      "path": "content/Qis.md"
+    },
+    {
+      "basename": "Renear",
+      "path": "content/Renear.md"
+    },
+    {
+      "basename": "Saf",
+      "path": "content/Saf.md"
+    },
+    {
+      "basename": "Tuf",
+      "path": "content/Tuf.md"
+    },
+    {
+      "basename": "Stone of Golorr",
+      "path": "content/Stone of Golorr.md"
+    },
+    {
       "basename": "_index",
       "path": "content/_index.md"
     },
@@ -17,24 +45,8 @@
       "path": "content/Cassalanter Family.md"
     },
     {
-      "basename": "Cruceus Hieron Auric Disthenes",
-      "path": "content/Cruceus Hieron Auric Disthenes.md"
-    },
-    {
       "basename": "Istrid Horn",
       "path": "content/Istrid Horn.md"
-    },
-    {
-      "basename": "Renear Neverember",
-      "path": "content/Renear Neverember.md"
-    },
-    {
-      "basename": "Safvyre Everdreya",
-      "path": "content/Safvyre Everdreya.md"
-    },
-    {
-      "basename": "Tuferbop Lilli Timbers",
-      "path": "content/Tuferbop Lilli Timbers.md"
     },
     {
       "basename": "Zhentarim",
@@ -73,24 +85,12 @@
       "path": "content/Session Summaries.md"
     },
     {
-      "basename": "Stone of Golorr",
-      "path": "content/Stone of Golorr.md"
-    },
-    {
       "basename": "Durnan",
       "path": "content/Durnan.md"
     },
     {
-      "basename": "Qisandoral Ofandrus",
-      "path": "content/Qisandoral Ofandrus.md"
-    },
-    {
       "basename": "Skeemo Weirdbottle",
       "path": "content/Skeemo Weirdbottle.md"
-    },
-    {
-      "basename": "Matrick Side-Eyes",
-      "path": "content/Matrick Side-Eyes.md"
     },
     {
       "basename": "icon",

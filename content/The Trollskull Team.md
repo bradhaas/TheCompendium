@@ -3,35 +3,35 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 16th 2023, 2:05:57 pm
+date modified: May 16th 2023, 2:32:07 pm
 tags: [factions, trollskull-team]
 ---
 ## Objectives
 > [!info] Primary Goal
 >
-> Recover the treasure [Renear Neverember](Renear%20Neverember.md)'s father Dagult embezzled from the city and hid
+> Recover the treasure [Renear](Renear.md)'s father Dagult embezzled from the city and hid
 > - [[Stone of Golorr]], with all 3 eyes, will reveal it's location
 > - [Manshoon](Manshoon.md) and the [Cassalanter Family](Cassalanter%20Family.md) hold the remaining eyes
 
 > [!example] Secondary Goal
 >
 > Prevent the city from being taken over by Manshoon. Restore the "democratically" (*rolls eyes*) elected leaders of Waterdeep, the [[Closed Lords of Waterdeep]]
-> 
+>
 
 > [!example] Secondary Goal
 >
 > Ensure the new [Open Lord](Closed%20Lords%20of%20Waterdeep.md) of Waterdeep is someone who's goals align with the parties
-> Your good friend 
-> 
+> Your good friend
+>
 
 ## Members
-## [Matrick](Matrick%20Side-Eyes.md) / [[Matrick Side-Eyes]]
+## [Matrick](Matrick.md) / [Matrick Side-Eyes](Matrick.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/47957494)
 ### Key Abilities
 
 ### Key Equipment
 
-## [Chad](Cruceus%20Hieron%20Auric%20Disthenes.md) / [[Cruceus Hieron Auric Disthenes]]
+## [Chad](Chad.md) / [[Chad]]
 ### [Character Sheet](https://www.dndbeyond.com/characters/29073151)
 ### Key Abilities
 - **Smites**: Does a shit ton of damage
@@ -39,7 +39,7 @@ tags: [factions, trollskull-team]
 ### Key Equipment
 - [Azuredge](https://www.dndbeyond.com/magic-items/253562-azuredge)
 
-## [Saf](Safvyre%20Everdreya.md) / [[Safvyre Everdreya]]
+## [Saf](Saf.md) / [Safvyre Everdreya](Saf.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/28905246)
 ### Key Abilities
 - **Wild Shape**
@@ -47,11 +47,11 @@ tags: [factions, trollskull-team]
 ### Key Equipment
 - [Staff of the Woodlands](https://www.dndbeyond.com/magic-items/4769-staff-of-the-woodlands)
 
-## [Qis](Qisandoral%20Ofandrus.md) / [[Qisandoral Ofandrus]]
+## [Qis](Qis.md) / [Qisandoral Ofandrus](Qis.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/29207223)
 ### Key Abilities
 - **Telekenetic Shove**
-- **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](Qisandoral%20Ofandrus.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
+- **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](Qis.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
 - **Arcane Recovery**
 ### Key Equipment
 - [Arcane Grimoire](https://www.dndbeyond.com/magic-items/2411946-arcane-grimoire-2)
@@ -59,14 +59,14 @@ tags: [factions, trollskull-team]
 - Blinded Stone of Golorr with 1
 	- 2 Portent charges
 
-## [Tuf](Tuferbop%20Lilli%20Timbers.md) / [[Tuferbop Lilli Timbers]]
+## [Tuf](Tuf.md) / [Tuferbop Lilli Timbers](Tuf.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/29269184)
 ### Key Abilities
 - **Stunning Strike**
 ### Key Equipment
 - [Ring of Truth Telling](https://www.dndbeyond.com/magic-items/254338-ring-of-truth-telling)
 
-## [Renear Neverember](Renear%20Neverember.md)
+## [Renear Neverember](Renear.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/52716043)
 ### Key Abilities
 - **Sneak Attack**: Sneak attack for huge damage
