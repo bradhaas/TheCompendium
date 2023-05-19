@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/Vajra Safahr.md",
+                "file": "content/Factions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/Vajra Safahr.md",
+                "file": "content/Factions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/Vajra Safahr.md"
+                "file": "content/Factions.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/Vajra Safahr.md",
+                "file": "content/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,35 +209,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4d46a5a2463d1ec0",
+  "active": "9dd573882abf551c",
   "lastOpenFiles": [
+    "content/Factions/Factions.md",
+    "content/PCs",
+    "content/Factions.md",
     "content/NPCs/NPCs.md",
+    "content/Factions",
+    "content/NPCs/Vajra Safahr.md",
     "content/Tuf.md",
     "content/Force Gray.md",
     "content/NPCs",
     "content/Istrid Horn.md",
-    "content/Belle.md",
+    "content/NPCs/Belle.md",
     "content/Blackstaff.md",
     "TheCompendium.md",
-    "content/The Trollskull Team.md",
-    "content/Doom Raiders.md",
+    "content/Factions/The Trollskull Team.md",
+    "content/Factions/Doom Raiders.md",
     "content/_index.md",
-    "content/Chad.md",
+    "content/PCs/Chad.md",
     "content/Matrick.md",
     "content/Qis.md",
     "content/Renear.md",
     "content/Saf.md",
     "content/Stone of Golorr.md",
-    "content/NPCs/Vajra Safahr.md",
     "content/NPCs/Cassalanter Family.md",
     "content/Zhentarim.md",
-    "content/Factions.md",
     "content/Manshoon.md",
-    "content/Closed Lords of Waterdeep.md",
-    "content/Davil Starsong (Deceased).md",
+    "content/Factions/Closed Lords of Waterdeep.md",
+    "content/NPCs/Davil Starsong (Deceased).md",
     "content/Session Summaries.md",
-    "content/Durnan.md",
-    "content/Skeemo Weirdbottle.md",
     "content/attachments/Pasted image 20230516135552.png",
     "static/icon.png",
     "layouts/_default/baseof.html",
@@ -247,7 +248,6 @@
     "layouts/_default/baseof.html.rtf",
     "layouts/_default/baseof.rtf",
     "static/styles.css",
-    "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
     "content/attachments/Doom Raiders.png",
     "content/attachments/waterdeep.jpeg",
     "content/attachments/Pasted image 20230516105853.png",
@@ -256,7 +256,6 @@
     "content/attachments/Istrid.png",
     "content/attachments/Skeemo.png",
     "content/attachments/Pasted image 20230515222747 1.png",
-    "NPCs",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]

@@ -7,7 +7,11 @@ date modified: May 19th 2023, 11:40:30 am
 tags: 
 ---
 %% Begin Waypoint %%
+- [Belle](./Belle.md)
 - [Cassalanter Family](./Cassalanter%20Family.md)
+- [Davil Starsong (Deceased)](./Davil%20Starsong%20(Deceased).md)
+- [Durnan](./Durnan.md)
+- [Skeemo Weirdbottle](./Skeemo%20Weirdbottle.md)
 - [Vajra Safahr](./Vajra%20Safahr.md)
 
 %% End Waypoint %%

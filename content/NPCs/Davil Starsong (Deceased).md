@@ -8,7 +8,7 @@ tags: [NPCs, Doom-Raiders]
 ---
 ## Summary
 - Master of Opportunities and Negotiations of the [Zhentarim](Zhentarim.md)
-- Founding member of the [Doom Raiders](Doom%20Raiders.md)
+- Founding member of the [Doom Raiders](../Factions/Doom%20Raiders.md)
 - Sun Elf Rogue with an affinity for magic
 - Does most of his business in the taproom of the Yawning Portal
 ![Davil](Davil.png)

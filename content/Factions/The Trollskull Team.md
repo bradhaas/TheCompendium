@@ -31,7 +31,7 @@ Key Abilities:
 
 Key Equipment:
 
-## [Chad](Chad.md) / [[Chad]]
+## [Chad](../PCs/Chad.md) / [[../PCs/Chad]]
 ### [Character Sheet](https://www.dndbeyond.com/characters/29073151) - Level 10 Paladin
 Key Abilities:
 - **Smites**: Does a shit ton of damage

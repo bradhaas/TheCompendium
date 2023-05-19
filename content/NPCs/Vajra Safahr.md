@@ -31,4 +31,4 @@ As the High Wizard of Waterdeep, she is charged with using all the magic and res
 - Vajra is always looking for new adventurers to fill the ranks of Force Grey, and she is particularly interested in those who can bring unique skills, abilities, or spells to the mix.
 
 - Several of the older and more seasoned wizards in Waterdeep consider Vajra an upstart, but they are smart enough not to challenge her.
-	- Only the [Open Lord](Closed%20Lords%20of%20Waterdeep.md), currently Laeral Silverhand, can strip Vajra of her title.
+	- Only the [Open Lord](../Factions/Closed%20Lords%20of%20Waterdeep.md), currently Laeral Silverhand, can strip Vajra of her title.

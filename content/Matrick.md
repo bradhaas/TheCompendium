@@ -8,6 +8,6 @@ tags: [PCs, trollskull-team]
 ---
 ## [Character Sheet](https://www.dndbeyond.com/characters/47957494)
 
-## [The Trollskull Team](The%20Trollskull%20Team.md)
+## [The Trollskull Team](Factions/The%20Trollskull%20Team.md)
 
 ## Notes

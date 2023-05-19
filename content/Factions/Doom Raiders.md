@@ -12,11 +12,11 @@ tags: [factions, Doom-Raiders]
 
 ## Key Members
 Left to right in the image below:
-- [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md) - A Human Rogue
-	- Stabbed in the back by [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md) as he betrayed his friends and helped [Manshoon](Manshoon.md) assassinate the [Open Lord](Closed%20Lords%20of%20Waterdeep.md)
+- [Davil Starsong (Deceased)](NPCs/Davil%20Starsong%20(Deceased).md) - A Human Rogue
+	- Stabbed in the back by [Skeemo Weirdbottle](NPCs/Skeemo%20Weirdbottle.md) as he betrayed his friends and helped [Manshoon](Manshoon.md) assassinate the [Open Lord](Factions/Closed%20Lords%20of%20Waterdeep.md)
 - [Istrid Horn](Istrid%20Horn.md) - A Dwarven Shield Cleric
 - [Tashlyn Yafeera](Tashlyn%20Yafeera.md) - A Human Fighter
-- [Skeemo Weirdbottle](Skeemo%20Weirdbottle.md) - A Gnomish Wizard
+- [Skeemo Weirdbottle](NPCs/Skeemo%20Weirdbottle.md) - A Gnomish Wizard
 - [Ziraj the Hunter](Ziraj%20the%20Hunter.md) - A Orc Paladin Archer
 ![](attachments/Doom%20Raiders.png)
 
