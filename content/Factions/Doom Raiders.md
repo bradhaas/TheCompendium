@@ -1,8 +1,9 @@
 ---
 title: Doom Raiders
+alias: 
 enableToc: false
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 16th 2023, 12:36:38 pm
+date modified: May 19th 2023, 11:54:00 am
 tags: [factions, Doom-Raiders]
 ---
 ## Summary
@@ -27,4 +28,3 @@ Left to right in the image below:
 	- Together, they formed what became the [Zhentarim](content/Factions/Zhentarim.md)
 	- They acted as the generals of the Mercenary Group
 - Skeemo grew frustrated with their stagnant role as enforcers in a crime family - he made a play with [Manshoon](content/NPCs/Manshoon.md) to take the city over, stabbing his old friends in the back on the way
-
