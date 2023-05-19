@@ -1,92 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Factions",
-      "path": "content/Factions.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "content/Factions/Factions.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "content/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Vajra Safahr",
-      "path": "content/NPCs/Vajra Safahr.md"
-    },
-    {
-      "basename": "Tuf",
-      "path": "content/Tuf.md"
-    },
-    {
-      "basename": "Force Gray",
-      "path": "content/Force Gray.md"
-    },
-    {
-      "basename": "Istrid Horn",
-      "path": "content/Istrid Horn.md"
-    },
-    {
-      "basename": "Belle",
-      "path": "content/NPCs/Belle.md"
-    },
-    {
-      "basename": "Blackstaff",
-      "path": "content/Blackstaff.md"
-    },
-    {
-      "basename": "TheCompendium",
-      "path": "TheCompendium.md"
-    },
-    {
-      "basename": "The Trollskull Team",
-      "path": "content/Factions/The Trollskull Team.md"
-    },
-    {
       "basename": "Doom Raiders",
       "path": "content/Factions/Doom Raiders.md"
     },
     {
-      "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
-      "basename": "Chad",
-      "path": "content/PCs/Chad.md"
-    },
-    {
-      "basename": "Matrick",
-      "path": "content/Matrick.md"
-    },
-    {
-      "basename": "Qis",
-      "path": "content/Qis.md"
-    },
-    {
-      "basename": "Renear",
-      "path": "content/Renear.md"
-    },
-    {
-      "basename": "Saf",
-      "path": "content/Saf.md"
-    },
-    {
-      "basename": "Stone of Golorr",
-      "path": "content/Stone of Golorr.md"
-    },
-    {
-      "basename": "Cassalanter Family",
-      "path": "content/NPCs/Cassalanter Family.md"
-    },
-    {
       "basename": "Zhentarim",
-      "path": "content/Zhentarim.md"
+      "path": "content/Factions/Zhentarim.md"
     },
     {
-      "basename": "Manshoon",
-      "path": "content/Manshoon.md"
+      "basename": "Factions",
+      "path": "content/Factions/Factions.md"
     },
     {
       "basename": "Closed Lords of Waterdeep",
@@ -97,24 +21,104 @@
       "path": "content/NPCs/Davil Starsong (Deceased).md"
     },
     {
+      "basename": "Durnan",
+      "path": "content/NPCs/Durnan.md"
+    },
+    {
+      "basename": "Cassalanter Family",
+      "path": "content/NPCs/Cassalanter Family.md"
+    },
+    {
+      "basename": "Belle",
+      "path": "content/NPCs/Belle.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
       "basename": "Session Summaries",
       "path": "content/Session Summaries.md"
     },
     {
-      "basename": "Durnan",
-      "path": "content/NPCs/Durnan.md"
+      "basename": "Waterdeep - City of Splendors",
+      "path": "content/Settings/Waterdeep - City of Splendors.md"
+    },
+    {
+      "basename": "Istrid Horn",
+      "path": "content/NPCs/Istrid Horn.md"
+    },
+    {
+      "basename": "Ziraj the Hunter",
+      "path": "content/NPCs/Ziraj the Hunter.md"
+    },
+    {
+      "basename": "Vajra Safahr",
+      "path": "content/NPCs/Vajra Safahr.md"
+    },
+    {
+      "basename": "Tashlyn Yafeera",
+      "path": "content/NPCs/Tashlyn Yafeera.md"
     },
     {
       "basename": "Skeemo Weirdbottle",
       "path": "content/NPCs/Skeemo Weirdbottle.md"
     },
     {
-      "basename": "icon",
-      "path": "static/icon.png"
+      "basename": "Renear",
+      "path": "content/NPCs/Renear.md"
     },
     {
-      "basename": "Tashlyn Yafeera",
-      "path": "content/Tashlyn Yafeera.md"
+      "basename": "Force Gray",
+      "path": "content/Factions/Force Gray.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Tuf",
+      "path": "content/PCs/Tuf.md"
+    },
+    {
+      "basename": "Blackstaff",
+      "path": "content/Items of Note/Blackstaff.md"
+    },
+    {
+      "basename": "TheCompendium",
+      "path": "TheCompendium.md"
+    },
+    {
+      "basename": "The Trollskull Team",
+      "path": "content/Factions/The Trollskull Team.md"
+    },
+    {
+      "basename": "Chad",
+      "path": "content/PCs/Chad.md"
+    },
+    {
+      "basename": "Matrick",
+      "path": "content/PCs/Matrick.md"
+    },
+    {
+      "basename": "Qis",
+      "path": "content/PCs/Qis.md"
+    },
+    {
+      "basename": "Saf",
+      "path": "content/PCs/Saf.md"
+    },
+    {
+      "basename": "Stone of Golorr",
+      "path": "content/Items of Note/Stone of Golorr.md"
+    },
+    {
+      "basename": "Manshoon",
+      "path": "content/NPCs/Manshoon.md"
+    },
+    {
+      "basename": "icon",
+      "path": "static/icon.png"
     },
     {
       "basename": "Doom Raiders",
@@ -123,14 +127,6 @@
     {
       "basename": "waterdeep",
       "path": "content/attachments/waterdeep.jpeg"
-    },
-    {
-      "basename": "Ziraj the Hunter",
-      "path": "content/Ziraj the Hunter.md"
-    },
-    {
-      "basename": "Waterdeep - City of Splendors",
-      "path": "content/Waterdeep - City of Splendors.md"
     },
     {
       "basename": "Davil",

@@ -8,10 +8,9 @@ tags:
 ---
 
 Welcome to the Compendium!
-## [The Trollskull Team](Factions/The%20Trollskull%20Team.md)
-- [Objectives](Factions/The%20Trollskull%20Team.md#Objectives)
-- [Members](Factions/The%20Trollskull%20Team.md#Members)
+## [The Trollskull Team](content/Factions/The%20Trollskull%20Team.md)
 
-## [Session Summaries](Session%20Summaries.md)
 
-## [Factions](Factions.md)
+## [Session Summaries](content/Session%20Summaries.md)
+
+## [Factions](content/Factions/Factions.md)

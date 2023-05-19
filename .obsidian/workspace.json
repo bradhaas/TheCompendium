@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Factions.md"
+                "file": "content/Factions/Doom Raiders.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Factions.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,36 +209,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9dd573882abf551c",
+  "active": "4d46a5a2463d1ec0",
   "lastOpenFiles": [
-    "content/Factions/Factions.md",
-    "content/PCs",
-    "content/Factions.md",
-    "content/NPCs/NPCs.md",
-    "content/Factions",
-    "content/NPCs/Vajra Safahr.md",
-    "content/Tuf.md",
-    "content/Force Gray.md",
-    "content/NPCs",
-    "content/Istrid Horn.md",
-    "content/NPCs/Belle.md",
-    "content/Blackstaff.md",
-    "TheCompendium.md",
-    "content/Factions/The Trollskull Team.md",
+    "content/Factions/Zhentarim.md",
     "content/Factions/Doom Raiders.md",
-    "content/_index.md",
-    "content/PCs/Chad.md",
-    "content/Matrick.md",
-    "content/Qis.md",
-    "content/Renear.md",
-    "content/Saf.md",
-    "content/Stone of Golorr.md",
-    "content/NPCs/Cassalanter Family.md",
-    "content/Zhentarim.md",
-    "content/Manshoon.md",
+    "content/Factions/Factions.md",
     "content/Factions/Closed Lords of Waterdeep.md",
     "content/NPCs/Davil Starsong (Deceased).md",
+    "content/NPCs/Durnan.md",
+    "content/NPCs/Cassalanter Family.md",
+    "content/NPCs/Belle.md",
+    "content/_index.md",
     "content/Session Summaries.md",
+    "content/Settings",
+    "content/Settings/Waterdeep - City of Splendors.md",
+    "content/NPCs/Istrid Horn.md",
+    "content/Items of Note",
+    "content/NPCs/Ziraj the Hunter.md",
+    "content/NPCs/Vajra Safahr.md",
+    "content/NPCs/Tashlyn Yafeera.md",
+    "content/NPCs/Skeemo Weirdbottle.md",
+    "content/NPCs/Renear.md",
+    "content/Factions/Force Gray.md",
+    "content/Factions.md",
+    "content/PCs",
+    "content/NPCs/NPCs.md",
+    "content/Factions",
+    "content/PCs/Tuf.md",
+    "content/NPCs",
+    "content/Items of Note/Blackstaff.md",
+    "TheCompendium.md",
+    "content/Factions/The Trollskull Team.md",
+    "content/PCs/Chad.md",
+    "content/PCs/Matrick.md",
     "content/attachments/Pasted image 20230516135552.png",
     "static/icon.png",
     "layouts/_default/baseof.html",
@@ -246,8 +249,6 @@
     "layouts/partials/header.html",
     "layouts/partials/header.rtf",
     "layouts/_default/baseof.html.rtf",
-    "layouts/_default/baseof.rtf",
-    "static/styles.css",
     "content/attachments/Doom Raiders.png",
     "content/attachments/waterdeep.jpeg",
     "content/attachments/Pasted image 20230516105853.png",

@@ -7,4 +7,4 @@ tags: [factions]
 ---
 
 ## Summary
-- Led by [Vajra Safahr](NPCs/Vajra%20Safahr.md) - the [[Blackstaff]] and head mage in Waterdeep
+- Led by [Vajra Safahr](content/NPCs/Vajra%20Safahr.md) - the [Blackstaff](content/Items%20of%20Note/Blackstaff.md) and head mage in Waterdeep
