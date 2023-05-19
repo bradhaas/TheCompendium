@@ -7,4 +7,4 @@ date modified:
 tags:
 ---
 
-Want this to 
+This template should be a clone of the Personal Vault one, just not include any of the 
