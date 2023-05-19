@@ -6,7 +6,7 @@ date modified: May 16th 2023, 10:30:25 am
 tags: [Doom-Raiders, NPCs]
 ---
 ## Summary
-- Master of Trade and Coin of the [Zhentarim](../Factions/Zhentarim.md)
+- Master of Trade and Coin of the [Zhentarim](Factions/Zhentarim.md)
 	- Operates an illegal lending operation out of a heavily guarded warehouse in the Dock Ward
 - Founding member of the [Doom Raiders](Factions/Doom%20Raiders.md)
 - Open to working with the party

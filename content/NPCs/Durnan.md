@@ -7,9 +7,9 @@ date modified: May 16th 2023, 2:03:24 pm
 tags: [NPCs]
 ---
 - Owner and proprietor of the Yawning Portal
-- **Known [Closed Lord](../Factions/Closed%20Lords%20of%20Waterdeep.md) of Waterdeep**
+- **Known [Closed Lord](Factions/Closed%20Lords%20of%20Waterdeep.md) of Waterdeep**
 - Middle Aged man who despite looking tired and haggard still has a sharp mind and a sharper sword - Grimvault
-![](attachments/Pasted%20image%2020230516135552.png)
+![Pasted image 20230516135552](attachments/Pasted%20image%2020230516135552.png)
 
 ## Background
 - Durnan is the owner and proprietor of the Yawning Portal. Although he looks like a middle-aged man whose best days are behind him, Durnan has a sharp mind and can still swing a sword when he must. He doesn’t like talking about his past, and he won’t reveal anything about his time as an adventurer.

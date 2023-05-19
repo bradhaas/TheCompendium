@@ -8,12 +8,12 @@ tags:
 ---
 ## Summary
 As the High Wizard of Waterdeep, she is charged with using all the magic and resources at her disposal to defend the city against threats.
-![](attachments/Pasted%20image%2020230516105853.png)
+![Pasted image 20230516105853](attachments/Pasted%20image%2020230516105853.png)
 
 ## Background
 **Race**: Human
 **Class**: Archwizard - The [Blackstaff](content/Items%20of%20Note/Blackstaff.md)
-**Faction**: [Force Gray](../Factions/Force%20Gray.md)
+**Faction**: [Force Gray](Factions/Force%20Gray.md)
 
 ## Party Relationship
 - Close with the party, but still exhibits some hesitation due to an incomplete understanding of the party's motivations
@@ -31,4 +31,4 @@ As the High Wizard of Waterdeep, she is charged with using all the magic and res
 - Vajra is always looking for new adventurers to fill the ranks of Force Grey, and she is particularly interested in those who can bring unique skills, abilities, or spells to the mix.
 
 - Several of the older and more seasoned wizards in Waterdeep consider Vajra an upstart, but they are smart enough not to challenge her.
-	- Only the [Open Lord](../Factions/Closed%20Lords%20of%20Waterdeep.md), currently Laeral Silverhand, can strip Vajra of her title.
+	- Only the [Open Lord](Factions/Closed%20Lords%20of%20Waterdeep.md), currently Laeral Silverhand, can strip Vajra of her title.
