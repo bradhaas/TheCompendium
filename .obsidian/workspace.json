@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Belle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Belle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/The Trollskull Team.md"
+                "file": "content/Belle.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/The Trollskull Team.md",
+                "file": "content/Belle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +211,11 @@
   },
   "active": "4d46a5a2463d1ec0",
   "lastOpenFiles": [
-    "content/Doom Raiders.md",
+    "content/Blackstaff.md",
+    "content/Belle.md",
+    "TheCompendium.md",
     "content/The Trollskull Team.md",
+    "content/Doom Raiders.md",
     "content/_index.md",
     "content/Chad.md",
     "content/Matrick.md",
@@ -227,7 +230,6 @@
     "content/Zhentarim.md",
     "content/Factions.md",
     "content/Force Gray.md",
-    "content/Blackstaff.md",
     "content/Manshoon.md",
     "content/Closed Lords of Waterdeep.md",
     "content/Davil Starsong (Deceased).md",
@@ -245,11 +247,9 @@
     "layouts/_default/baseof.rtf",
     "static/styles.css",
     "layouts/partials/header.html.sb-fdbe754b-Rvfqly",
-    "content/Tashlyn Yafeera.md",
     "content/attachments/Doom Raiders.png",
     "content/attachments/waterdeep.jpeg",
     "content/attachments/Pasted image 20230516105853.png",
-    "content/Ziraj the Hunter.md",
     "screenshot.png",
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Belle",
+      "path": "content/Belle.md"
+    },
+    {
+      "basename": "Blackstaff",
+      "path": "content/Blackstaff.md"
+    },
+    {
+      "basename": "TheCompendium",
+      "path": "TheCompendium.md"
+    },
+    {
       "basename": "The Trollskull Team",
       "path": "content/The Trollskull Team.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "Force Gray",
       "path": "content/Force Gray.md"
-    },
-    {
-      "basename": "Blackstaff",
-      "path": "content/Blackstaff.md"
     },
     {
       "basename": "Manshoon",
@@ -191,14 +199,6 @@
     {
       "basename": "README",
       "path": "D&D/TheCompendium/README.md"
-    },
-    {
-      "basename": "CODE_OF_CONDUCT",
-      "path": "D&D/TheCompendium/CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "2023-05-08",
-      "path": "Periodic Notes/Daily Notes/2023-05-08.md"
     }
   ],
   "omittedPaths": [],
