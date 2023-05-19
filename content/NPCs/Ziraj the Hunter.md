@@ -9,7 +9,7 @@ tags: [NPCs, Doom-Raiders]
 - A burly half orc paladin and one of the original members of the [Doom Raiders](Factions/Doom%20Raiders.md)
 - Loyal to anyone who shows him kindness
 - Good Friends with Chad
-![](attachments/Ziraj.png)
+![Ziraj](attachments/Ziraj.png)
 
 ## Background
 - **Race**: Half Orc
