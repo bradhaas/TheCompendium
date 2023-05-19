@@ -1,8 +1,9 @@
 ---
 title: Manshoon
+alias: 
 enableToc: false
 date created: May 15th 2023, 9:23:40 pm
-date modified: May 16th 2023, 12:22:55 pm
+date modified: May 19th 2023, 12:38:21 pm
 tags: [NPCs, Zhentarim]
 ---
 ## Summary
