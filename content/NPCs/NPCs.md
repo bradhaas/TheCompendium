@@ -12,6 +12,7 @@ tags:
 - [Davil Starsong (Deceased)](./Davil%20Starsong%20(Deceased).md)
 - [Durnan](./Durnan.md)
 - [Istrid Horn](./Istrid%20Horn.md)
+- [Lif](./Lif.md)
 - [Manshoon](./Manshoon.md)
 - [Renear](./Renear.md)
 - [Skeemo Weirdbottle](./Skeemo%20Weirdbottle.md)
