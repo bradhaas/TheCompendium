@@ -3,14 +3,14 @@ title: Doom Raiders
 alias: 
 enableToc: false
 date created: May 15th 2023, 5:59:17 pm
-date modified: May 19th 2023, 12:00:17 pm
+date modified: May 19th 2023, 12:01:00 pm
 tags: [factions, Doom-Raiders]
 ---
 ## Summary
 - An adventuring party not unlike the Trollskull crew
 - After raiding every dungeon they could, they founded a mercenary compamy named the Black Network
 - Eventually, they allied themselves with [Manshoon](../NPCs/Manshoon.md) leading to the Black Network's transformation in to the [Zhentarim](Zhentarim.md)
-- They're the best of friends
+- They all love each other, except for fucking skeemo
 
 ## Key Members
 Left to right in the image below:
