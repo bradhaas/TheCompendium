@@ -1,8 +1,9 @@
 ---
 title: Istrid Horn
+alias: 
 enableToc: false
 date created: May 15th 2023, 8:25:04 pm
-date modified: May 16th 2023, 10:30:25 am
+date modified: May 19th 2023, 12:43:27 pm
 tags: [Doom-Raiders, NPCs]
 ---
 ## Summary
@@ -14,5 +15,3 @@ tags: [Doom-Raiders, NPCs]
 ![Pasted image 20230515235113|825](attachments/Istrid%20Statblock.png)
 
 ## Party Notes
-- Test
-- Test
