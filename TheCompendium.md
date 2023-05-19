@@ -2,12 +2,15 @@
 - **assets**
 	- **indices**
 	- **js**
+
 	- **styles**
+
 - [[CODE_OF_CONDUCT]]
 - **content**
 	- [[_index]]
 	- **attachments**
 
+	- [[Belle]]
 	- [[Blackstaff]]
 	- [[Cassalanter Family]]
 	- [[Chad]]
@@ -37,11 +40,15 @@
 	- [[Zhentarim]]
 	- [[Ziraj the Hunter]]
 - **data**
+
 - **i18n**
+
 - **layouts**
 	- **_default**
 		- **_markup**
+
 	- **partials**
+
 - [[README]]
 - **static**
 

@@ -19,3 +19,5 @@ tags: [NPCs, Doom-Raiders]
 ## Party Relationship
 - Party fled from Ziraj's huge arrow bolts through the city as they fled Gralhund Villa with the Stone of Golorr
 - Chad and Ziraj struck up a friendship
+
+
