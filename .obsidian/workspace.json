@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/NPCs/NPCs.md",
+                "file": "content/NPCs/Vajra Safahr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NPCs/NPCs.md",
+                "file": "content/NPCs/Vajra Safahr.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/NPCs/NPCs.md"
+                "file": "content/NPCs/Vajra Safahr.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/NPCs/NPCs.md",
+                "file": "content/NPCs/Vajra Safahr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +211,8 @@
   },
   "active": "4d46a5a2463d1ec0",
   "lastOpenFiles": [
-    "content/Tuf.md",
     "content/NPCs/NPCs.md",
+    "content/Tuf.md",
     "content/Force Gray.md",
     "content/NPCs",
     "content/Istrid Horn.md",
