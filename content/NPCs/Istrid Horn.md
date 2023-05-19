@@ -10,8 +10,8 @@ tags: [Doom-Raiders, NPCs]
 	- Operates an illegal lending operation out of a heavily guarded warehouse in the Dock Ward
 - Founding member of the [Doom Raiders](Factions/Doom%20Raiders.md)
 - Open to working with the party
-![Pasted image 20230515234842](attachments/Istrid.png)
-![Pasted image 20230515235113](attachments/Istrid%20Statblock.png)
+![Pasted image 20230515234842|325](attachments/Istrid.png)
+![Pasted image 20230515235113|825](attachments/Istrid%20Statblock.png)
 
 ## Party Notes
 - Test
