@@ -11,7 +11,7 @@ tags: [factions, trollskull-team]
 >
 > Recover the treasure [Renear](Renear.md)'s father Dagult embezzled from the city and hid
 > - [[Stone of Golorr]], with all 3 eyes, will reveal it's location
-> - [Manshoon](Manshoon.md) and the [Cassalanter Family](Cassalanter%20Family.md) hold the remaining eyes
+> - [Manshoon](Manshoon.md) and the [Cassalanter Family](NPCs/Cassalanter%20Family.md) hold the remaining eyes
 
 > [!example] Secondary Goal
 >

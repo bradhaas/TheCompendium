@@ -12,7 +12,7 @@
 
 	- [[Belle]]
 	- [[Blackstaff]]
-	- [[Cassalanter Family]]
+	- [[content/NPCs/Cassalanter Family]]
 	- [[Chad]]
 	- [[Closed Lords of Waterdeep]]
 	- [[Davil Starsong (Deceased)]]
@@ -35,7 +35,7 @@
 		- [[post]]
 	- [[The Trollskull Team]]
 	- [[Tuf]]
-	- [[Vajra Safahr]]
+	- [[content/NPCs/Vajra Safahr]]
 	- [[Waterdeep - City of Splendors]]
 	- [[Zhentarim]]
 	- [[Ziraj the Hunter]]

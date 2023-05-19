@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "NPCs",
+      "path": "content/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Tuf",
+      "path": "content/Tuf.md"
+    },
+    {
+      "basename": "Force Gray",
+      "path": "content/Force Gray.md"
+    },
+    {
       "basename": "Istrid Horn",
       "path": "content/Istrid Horn.md"
     },
@@ -49,20 +61,16 @@
       "path": "content/Saf.md"
     },
     {
-      "basename": "Tuf",
-      "path": "content/Tuf.md"
-    },
-    {
       "basename": "Stone of Golorr",
       "path": "content/Stone of Golorr.md"
     },
     {
       "basename": "Vajra Safahr",
-      "path": "content/Vajra Safahr.md"
+      "path": "content/NPCs/Vajra Safahr.md"
     },
     {
       "basename": "Cassalanter Family",
-      "path": "content/Cassalanter Family.md"
+      "path": "content/NPCs/Cassalanter Family.md"
     },
     {
       "basename": "Zhentarim",
@@ -71,10 +79,6 @@
     {
       "basename": "Factions",
       "path": "content/Factions.md"
-    },
-    {
-      "basename": "Force Gray",
-      "path": "content/Force Gray.md"
     },
     {
       "basename": "Manshoon",
@@ -195,10 +199,6 @@
     {
       "basename": "Doom Raiders",
       "path": "D&D/TheCompendium/content/Doom Raiders.md"
-    },
-    {
-      "basename": "README",
-      "path": "D&D/TheCompendium/README.md"
     }
   ],
   "omittedPaths": [],

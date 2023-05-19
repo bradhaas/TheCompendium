@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Istrid Horn.md",
+                "file": "content/NPCs/NPCs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Istrid Horn.md",
+                "file": "content/NPCs/NPCs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Istrid Horn.md"
+                "file": "content/NPCs/NPCs.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Istrid Horn.md",
+                "file": "content/NPCs/NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,6 +211,11 @@
   },
   "active": "4d46a5a2463d1ec0",
   "lastOpenFiles": [
+    "content/Tuf.md",
+    "content/NPCs/NPCs.md",
+    "content/Force Gray.md",
+    "content/NPCs",
+    "content/Istrid Horn.md",
     "content/Belle.md",
     "content/Blackstaff.md",
     "TheCompendium.md",
@@ -223,14 +227,11 @@
     "content/Qis.md",
     "content/Renear.md",
     "content/Saf.md",
-    "content/Tuf.md",
     "content/Stone of Golorr.md",
-    "content/Vajra Safahr.md",
-    "content/Cassalanter Family.md",
-    "content/Istrid Horn.md",
+    "content/NPCs/Vajra Safahr.md",
+    "content/NPCs/Cassalanter Family.md",
     "content/Zhentarim.md",
     "content/Factions.md",
-    "content/Force Gray.md",
     "content/Manshoon.md",
     "content/Closed Lords of Waterdeep.md",
     "content/Davil Starsong (Deceased).md",
@@ -239,7 +240,6 @@
     "content/Skeemo Weirdbottle.md",
     "content/attachments/Pasted image 20230516135552.png",
     "static/icon.png",
-    "static/styles.css.md",
     "layouts/_default/baseof.html",
     "layouts/_default/Unconfirmed 607548.crdownload",
     "layouts/partials/header.html",
@@ -257,7 +257,6 @@
     "content/attachments/Skeemo.png",
     "content/attachments/Pasted image 20230515222747 1.png",
     "NPCs",
-    "Factions",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]

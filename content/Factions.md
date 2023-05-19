@@ -24,7 +24,7 @@ An ex-adventuring party turned mercenary group turned gang generals turned unlik
 - [Davil Starsong (Deceased)](Davil%20Starsong%20(Deceased).md)
 
 ## [Force Gray](Force%20Gray.md)
-The elite group of magical and non-magical scholars and warriors led by the [Blackstaff](Blackstaff.md) [Vajra Safahr](Vajra%20Safahr.md) and tasked with defending Waterdeep
+The elite group of magical and non-magical scholars and warriors led by the [Blackstaff](Blackstaff.md) [Vajra Safahr](NPCs/Vajra%20Safahr.md) and tasked with defending Waterdeep
 > [!info] Primary Goal
 >
 > Defend the city by any means necessary
@@ -35,7 +35,7 @@ Mercenary company turned gang led by [Manshoon](Manshoon.md), founded and manage
 >
 > Accumulate resources - money, power, and spellcasting components - to fund [Manshoon](Manshoon.md)'s expensive magical research. Lord Dagult's Treasure is just one way [Manshoon](Manshoon.md) is considering accumulating wealth
 
-## The [Cassalanter Family](Cassalanter%20Family.md)
+## The [Cassalanter Family](NPCs/Cassalanter%20Family.md)
 A family of "neuevo riche" - a new family of nobles desperately trying to compete with the old wealth of Waterdeep.
 > [!info] Primary Goal
 >
