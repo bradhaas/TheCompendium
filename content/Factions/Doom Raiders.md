@@ -14,7 +14,7 @@ tags: [factions, Doom-Raiders]
 
 ## Key Members
 Left to right in the image below:
-- [Davil Starsong (Deceased)](Deceased)).md) - A Human Rogue
+- [Davil Starsong (Deceased)](NPCs/Davil%20Starsong%20(Deceased).md) - A Human Rogue
 	- Stabbed in the back by [Skeemo Weirdbottle](NPCs/Skeemo%20Weirdbottle.md) as he betrayed his friends and helped [Manshoon](NPCs/Manshoon.md) assassinate the [Open Lord](Factions/Closed%20Lords%20of%20Waterdeep.md)
 - [Istrid Horn](NPCs/Istrid%20Horn.md) - A Dwarven Shield Cleric
 - [Tashlyn Yafeera](NPCs/Tashlyn%20Yafeera.md) - A Human Fighter
