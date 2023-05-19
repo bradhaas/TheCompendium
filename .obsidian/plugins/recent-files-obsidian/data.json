@@ -5,12 +5,12 @@
       "path": "content/Factions/Doom Raiders.md"
     },
     {
-      "basename": "Zhentarim",
-      "path": "content/Factions/Zhentarim.md"
-    },
-    {
       "basename": "Factions",
       "path": "content/Factions/Factions.md"
+    },
+    {
+      "basename": "Zhentarim",
+      "path": "content/Factions/Zhentarim.md"
     },
     {
       "basename": "Closed Lords of Waterdeep",
