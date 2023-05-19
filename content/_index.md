@@ -3,7 +3,7 @@ title: _index
 alias: 
 enableToc: false
 date created: May 15th 2023, 5:45:10 pm
-date modified: May 19th 2023, 12:34:17 pm
+date modified: May 19th 2023, 4:17:12 pm
 tags: 
 ---
 Welcome to the Compendium!
@@ -15,3 +15,9 @@ Welcome to the Compendium!
 ## [Session Summaries](Session%20Summaries/Session%20Summaries.md)
 
 ## [Factions](Factions/Factions.md)
+- [Doom Raiders](Factions/Doom%20Raiders.md)
+- [Manshoon](NPCs/Manshoon.md)
+- [Zhentarim](Factions/Zhentarim.md)
+- [Closed Lords of Waterdeep](Factions/Closed%20Lords%20of%20Waterdeep.md)
+
+## [NPCs](NPCs/NPCs.md)
