@@ -12,6 +12,6 @@ Welcome to the Compendium!
 - [Objectives](Factions/The%20Trollskull%20Team.md#Objectives)
 - [Members](Factions/The%20Trollskull%20Team.md#Members)
 
-## [Session Summaries](content/Session%20Summaries.md)
+## [Session Summaries](Session%20Summaries/Session%20Summaries.md)
 
 ## [Factions](Factions/Factions.md)
