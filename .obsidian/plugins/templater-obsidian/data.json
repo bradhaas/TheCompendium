@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "Obsidian/Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "NPCs",
-      "template": "templates/Compendium NPC Template.md"
+      "folder": "Periodic Notes/Daily Notes",
+      "template": "Obsidian/Templates/Daily Note Template.md"
+    },
+    {
+      "folder": "Periodic Notes/Weekly Notes",
+      "template": "Obsidian/Templates/Weekly Note Template.md"
+    },
+    {
+      "folder": "Periodic Notes/Monthly Notes",
+      "template": "Obsidian/Templates/Monthly Note Template.md"
     }
   ],
   "syntax_highlighting": true,

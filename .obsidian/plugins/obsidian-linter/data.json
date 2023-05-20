@@ -9,7 +9,7 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": true
+      "enabled": false
     },
     "format-yaml-array": {
       "enabled": false,

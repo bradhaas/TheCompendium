@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42ae0f40aeb2425d",
+        "id": "c0a46956beb0f464",
         "type": "tabs",
         "children": [
           {
-            "id": "04c0cc6d3663543c",
+            "id": "4d46a5a2463d1ec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,17 +104,8 @@
               "type": "google-calendar-view-schedule",
               "state": {}
             }
-          },
-          {
-            "id": "b2c52b62940edd50",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "95a6ffbf6275bd97",
@@ -127,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "content/Factions/Doom Raiders.md"
               }
             }
           },
@@ -188,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "content/Factions/Doom Raiders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,47 +209,46 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2c52b62940edd50",
+  "active": "4d46a5a2463d1ec0",
   "lastOpenFiles": [
-    "NPCs/Lif.md",
-    "templates/Compendium NPC Template.md",
-    "NPCs/Belle.md",
-    "NPCs/Istrid Horn.md",
-    "NPCs/Davil Starsong (Deceased).md",
-    "NPCs/Belle 2.md",
-    "NPCs/Testing Testing.md",
-    "\"/NPCs.md",
-    "\"/NPCs/Belle\".md",
-    "\"",
-    "Factions/The Trollskull Team.md",
-    "\"/NPCs",
-    "Factions/Factions.md",
-    "Factions/Closed Lords of Waterdeep.md",
-    "attachments/Davil.png",
-    "Factions/Doom Raiders.md",
-    "Session Summaries/Session Summaries.md",
-    "Locations/Locations.md",
-    "PCs/PCs.md",
-    "NPCs/NPCs.md",
-    "Items of Note/Items of Note.md",
+    "content/Factions/Factions.md",
+    "content/Factions/Doom Raiders.md",
+    "content/Factions/Zhentarim.md",
+    "content/Factions/Closed Lords of Waterdeep.md",
+    "content/NPCs/Davil Starsong (Deceased).md",
+    "content/NPCs/Durnan.md",
+    "content/NPCs/Cassalanter Family.md",
+    "content/NPCs/Belle.md",
+    "content/_index.md",
     "content/Session Summaries.md",
-    "NPCs/Durnan.md",
-    "NPCs/Cassalanter Family.md",
-    "NPCs/Ziraj the Hunter.md",
-    "NPCs/Vajra Safahr.md",
-    "NPCs/Tashlyn Yafeera.md",
-    "NPCs/Skeemo Weirdbottle.md",
-    "NPCs/Renear.md",
-    "Session Summaries",
-    "content",
     "content/Settings",
+    "content/Settings/Waterdeep - City of Splendors.md",
+    "content/NPCs/Istrid Horn.md",
     "content/Items of Note",
+    "content/NPCs/Ziraj the Hunter.md",
+    "content/NPCs/Vajra Safahr.md",
+    "content/NPCs/Tashlyn Yafeera.md",
+    "content/NPCs/Skeemo Weirdbottle.md",
+    "content/NPCs/Renear.md",
+    "content/Factions/Force Gray.md",
+    "content/Factions.md",
     "content/PCs",
+    "content/NPCs/NPCs.md",
     "content/Factions",
+    "content/PCs/Tuf.md",
     "content/NPCs",
+    "content/Items of Note/Blackstaff.md",
+    "TheCompendium.md",
+    "content/Factions/The Trollskull Team.md",
+    "content/PCs/Chad.md",
+    "content/PCs/Matrick.md",
     "content/attachments/Pasted image 20230516135552.png",
     "static/icon.png",
     "layouts/_default/baseof.html",
+    "layouts/_default/Unconfirmed 607548.crdownload",
+    "layouts/partials/header.html",
+    "layouts/partials/header.rtf",
+    "layouts/_default/baseof.html.rtf",
     "content/attachments/Doom Raiders.png",
     "content/attachments/waterdeep.jpeg",
     "content/attachments/Pasted image 20230516105853.png",
@@ -266,6 +256,7 @@
     "content/attachments/Davil.png",
     "content/attachments/Istrid.png",
     "content/attachments/Skeemo.png",
+    "content/attachments/Pasted image 20230515222747 1.png",
     "Vacations/2023 Europe/2023 Europe Trip.canvas",
     "Home Management/Projects/Wood Fired Hot Tub.canvas"
   ]
