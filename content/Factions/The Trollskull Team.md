@@ -3,7 +3,7 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 19th 2023, 5:23:18 pm
+date modified: May 19th 2023, 5:24:19 pm
 tags: [factions, trollskull-team]
 ---
 ## Objectives
