@@ -50,7 +50,7 @@ Key Equipment:
 ## [Qisandoral Ofandrus](PCs/Qis.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/29207223)
 Key Abilities:
-- **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](content/PCs/Qis.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
+- **Sculpt Spells**: For a spell that affects other creatures you can see - [Qis](content/PCs/Qis.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
 - **Arcane Recovery**
 Key Equipment:
 - [Arcane Grimoire](https://www.dndbeyond.com/magic-items/2411946-arcane-grimoire-2)
