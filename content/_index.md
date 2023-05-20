@@ -7,7 +7,8 @@ date modified: May 19th 2023, 5:10:53 pm
 tags: 
 ---
 Welcome to the Compendium!
-Testing a change from windows
+
+Testing a commit directly from the editor
 
 ## [The Trollskull Team](Factions/The%20Trollskull%20Team.md)
 - [Objectives](Factions/The%20Trollskull%20Team.md#Objectives)
