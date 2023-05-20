@@ -8,8 +8,6 @@ tags:
 ---
 Welcome to the Compendium!
 
-Testing a commit directly from the editor
-
 ## [The Trollskull Team](Factions/The%20Trollskull%20Team.md)
 - [Objectives](Factions/The%20Trollskull%20Team.md#Objectives)
 - [Members](Factions/The%20Trollskull%20Team.md#Members)

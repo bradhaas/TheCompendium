@@ -3,7 +3,7 @@ title: The Trollskull Team
 alias: Party
 enableToc: false
 date created: May 16th 2023, 12:38:52 pm
-date modified: May 17th 2023, 3:24:59 pm
+date modified: May 19th 2023, 5:23:18 pm
 tags: [factions, trollskull-team]
 ---
 ## Objectives
@@ -25,13 +25,13 @@ tags: [factions, trollskull-team]
 >
 
 ## Members
-## [Matrick](content/PCs/Matrick.md) / [Matrick Side-Eyes](content/PCs/Matrick.md)
+## [Matrick Side-Eyes](PCs/Matrick.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/47957494) - Level 11 Warlock
 Key Abilities:
 
 Key Equipment:
 
-## [Chad](content/PCs/Chad.md) / [Chad](content/PCs/Chad.md)
+## [Cruceus Hieron Auric Disthenes](PCs/Chad.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/29073151) - Level 10 Paladin
 Key Abilities:
 - **Smites**: Does a shit ton of damage
@@ -39,7 +39,7 @@ Key Abilities:
 Key Equipment
 - [Azuredge](https://www.dndbeyond.com/magic-items/253562-azuredge)
 
-## [Saf](content/PCs/Saf.md) / [Safvyre Everdreya](content/PCs/Saf.md)
+## [Safvyre Everdreya](PCs/Saf.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/28905246) - Level 11 Druid
 Key Abilities:
 - **Wild Shape**: Turn into an animal
@@ -47,7 +47,7 @@ Key Abilities:
 Key Equipment:
 - [Staff of the Woodlands](https://www.dndbeyond.com/magic-items/4769-staff-of-the-woodlands)
 
-## [Qis](content/PCs/Qis.md) / [Qisandoral Ofandrus](content/PCs/Qis.md)
+## [Qisandoral Ofandrus](PCs/Qis.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/29207223)
 Key Abilities:
 - **Sculpt Spells**: For a spell that affecets other creatures you can see - [Qis](content/PCs/Qis.md) can choose a number of creatures equal to 1 + spells level, chose creatures automatically succeed on saves and take no damage on a successful save
@@ -58,14 +58,14 @@ Key Equipment:
 - Blinded Stone of Golorr with 1
 	- 2 Portent charges
 
-## [Tuf](content/PCs/Tuf.md) / [Tuferbop Lilli Timbers](content/PCs/Tuf.md)
+## [Tuferbop Lilli Timbers](PCs/Tuf.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/29269184)
 ### Key Abilities
 - **Stunning Strike**
 ### Key Equipment
 - [Ring of Truth Telling](https://www.dndbeyond.com/magic-items/254338-ring-of-truth-telling)
 
-## [Renear Neverember](content/NPCs/Renear.md)
+## [Renear Neverember](NPCs/Renear.md)
 ### [Character Sheet](https://www.dndbeyond.com/characters/52716043)
 ### Key Abilities
 - **Sneak Attack**: Sneak attack for huge damage
