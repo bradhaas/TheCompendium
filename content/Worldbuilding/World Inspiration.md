@@ -17,7 +17,8 @@ tags:
 - Lonesome Dove by Larry McMurtry
 	- Pulitzer winning "Cowboy Novel", although from the 80s so still some problematic themese
 	- Tommy Lee Jones starred in a very well regarded TV adaptation
-- Undaunted country
+- Undaunted Courage by Stephen E. Ambrose
+	- Definitive account of Lewis and Clark + Corps of Discover
 - 
 
 ## Video Games
