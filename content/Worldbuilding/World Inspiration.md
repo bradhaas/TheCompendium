@@ -16,6 +16,6 @@ tags:
 - Fallout New Vegas
 
 ## TTRPGs
-- Coyote and Crow - a super
+- Coyote and Crow - a super cool TTRPG made by a team of Native game designers. They also put out a ton of ancillary material linked below that is cool / interesting
 	- [Recipe Book](https://coyoteandcrow.net/wp-content/uploads/2022/11/Coyote-Crow-Recipe-Cards.pdf)
 	- 
