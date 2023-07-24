@@ -3,12 +3,14 @@ title: Turtle Island (Lenape Creation Oral History)
 alias: 
 enableToc: false
 date created: July 23rd 2023, 6:32:15 pm
-date modified: July 23rd 2023, 6:41:16 pm
+date modified: July 23rd 2023, 6:43:31 pm
 tags: 
 ---
 Told by Robert Red Hawk
 
 Transcribed from Lenape by Zack Wiener
+
+[Source](https://web.archive.org/web/20160305144555/http://www.lenapenation.org/Lenape%20Lixsewakan%20Achimawakana/The%20Lenape%20Creation%20Story.pdf) 
 
 At one time everything was dark. There was nothing. But there was a spirit in that nothingness, and it would have remained that way, but the spirit fell asleep. As he slept, he dreamed. He dreamt of a world: mountains, sky, the ocean, all of the fish in the ocean, all the birds in the sky, all the trees, the deserts, all of the animals on the earth. He dreamed of man. He dreamed of ceremony: of people drumming and singing. But then, he awoke, and because it was just a dream, everything was still black. But because the seed had been planted in him, that dream, he started to manifest it.
 
@@ -23,3 +25,5 @@ Nanapush comes back into our stories a lot. One of them is an emergence story. A
 Then Nanapush said, “Well, we gotta make it a little bigger than it is—turtle’s only so big, even a snapping turtle’s only so big—so they had to go down and get some of the old earth under the water and put it up on top of the turtle. So first guy that goes down, the beaver, says I’m gonna go down. Beaver went all the way down. He comes up dead with no soil. Nanapush breathes some more life into him and brought him back to life. Then the bird nation came up and the loon said, " I wanna go down. I wanna go down and see if I can do it." Loon went down; he was down for a long time. He came back up dead. So Nanapush breathed into him. So finally the little bitty muskrat said, Let me try." So he went down. And poor little muskrat, he was down for the longest time, and he come up dead, but on his nose was some of the old earth. So he breathed into the little muskrat and they put the earth on the back of the turtle. And he told the muskrat he would always be blessed and his kind would always thrive in this land.
 
 Then Nanapush took his bow out again and started singing a song. And as he sang the turtle’s back grew and grew so much that you couldn’t even see from one end to the other anymore. And it kept growing. Nanapush says I wonder how long we should let this turtle grow. I’m gonna send out each of the animals. He sent the bear out. Bear came back 2-3 days later and said, “OK I got to the edge.” He sent the deer out. Deer came back two weeks later and said, “I made it to the edge.” Finally they sent the wolf. The wolf went. They waited for the wolf to come back. They waited months. They waited years. The wolf didn’t come back. That’s how big the land got. In fact to this day wolves at night will often howl, and what they’re howling for is they’re calling for their ancestor who went off to see if he can find his way back home again. That’s the story of how the earth was first made and how the first pipe came to our people and how the first flood came and we re-emerged from the flood.
+
+[Source](https://web.archive.org/web/20160305144555/http://www.lenapenation.org/Lenape%20Lixsewakan%20Achimawakana/The%20Lenape%20Creation%20Story.pdf) 
