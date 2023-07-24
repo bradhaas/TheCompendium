@@ -1,9 +1,9 @@
 ---
-title: Home
+title: _index
 alias: 
 enableToc: false
 date created: May 15th 2023, 5:45:10 pm
-date modified: July 23rd 2023, 7:29:00 pm
+date modified: July 23rd 2023, 8:27:36 pm
 tags: 
 ---
 Welcome to the Compendium!
