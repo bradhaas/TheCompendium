@@ -3,7 +3,7 @@ title: Turtle Island (Lenape Creation Oral History)
 alias: 
 enableToc: false
 date created: July 23rd 2023, 6:32:15 pm
-date modified: July 23rd 2023, 6:44:23 pm
+date modified: July 23rd 2023, 8:28:38 pm
 tags: 
 ---
 Told by Robert Red Hawk
@@ -24,4 +24,4 @@ Then Nanapush said, “Well, we gotta make it a little bigger than it is—turtl
 
 Then Nanapush took his bow out again and started singing a song. And as he sang the turtle’s back grew and grew so much that you couldn’t even see from one end to the other anymore. And it kept growing. Nanapush says I wonder how long we should let this turtle grow. I’m gonna send out each of the animals. He sent the bear out. Bear came back 2-3 days later and said, “OK I got to the edge.” He sent the deer out. Deer came back two weeks later and said, “I made it to the edge.” Finally they sent the wolf. The wolf went. They waited for the wolf to come back. They waited months. They waited years. The wolf didn’t come back. That’s how big the land got. In fact to this day wolves at night will often howl, and what they’re howling for is they’re calling for their ancestor who went off to see if he can find his way back home again. That’s the story of how the earth was first made and how the first pipe came to our people and how the first flood came and we re-emerged from the flood.
 
-[Source](https://web.archive.org/web/20160305144555/http://www.lenapenation.org/Lenape%20Lixsewakan%20Achimawakana/The%20Lenape%20Creation%20Story.pdf) 
+[Source](https://web.archive.org/web/20160305144555/http://www.lenapenation.org/Lenape%20Lixsewakan%20Achimawakana/The%20Lenape%20Creation%20Story.pdf)
