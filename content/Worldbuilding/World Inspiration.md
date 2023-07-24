@@ -18,7 +18,7 @@ tags:
 	- Pulitzer winning "Cowboy Novel", although from the 80s so still some problematic themese
 	- Tommy Lee Jones starred in a very well regarded TV adaptation
 - Undaunted Courage by Stephen E. Ambrose
-	- Definitive account of Lewis and Clark + Corps of Discover
+	- Definitive account of Lewis and Clark + Corps of Discovery
 - 
 
 ## Video Games
