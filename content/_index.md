@@ -8,6 +8,8 @@ tags:
 ---
 Welcome to the Compendium! This is the central website for our second DND campaign - [Turtle Island](Worldbuilding/Turtle%20Island%20(Lenape%20Creation%20Oral%20History).md)!
 
+Anyone can edit any of the pages on this site, and I'd encourage you to do so! Only catch - you will need a Github account to edit. 
+
 ## [World Inspiration](Worldbuilding/World%20Inspiration.md)
 
 ## [Turtle Island (Lenape Creation Oral History)](Worldbuilding/Turtle%20Island%20(Lenape%20Creation%20Oral%20History).md)
