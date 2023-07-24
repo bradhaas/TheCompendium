@@ -11,7 +11,7 @@ Artificer general abilities
 [Artificer - DND 5th Edition](http://dnd5e.wikidot.com/artificer)
 
 ## Artificer Specializations (Subclasses)
-The above link has more info on all of these, but here's a summar
+The above link has more info on all of these, but here's a summary
 - Alchemist - You can do damage, heal, and induce various magical effects by brewing potions.
 - Armorer - The "ironman" subclass - spec out a suit of armor to do crazy things. More ranged, more mobility than other classes, but expensive and very resource intensive to be good.
 - Artillerist - Cannons and explosives galore. Can manufacture ammunition. Lots of DPS, but limited utility.
