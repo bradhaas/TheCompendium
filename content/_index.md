@@ -8,4 +8,4 @@ tags:
 ---
 Welcome to the Compendium!
 
-## [Inspiration](Worldbuilding/Inspiration.md)
+## [Turtle Island (Lenape Creation Oral History)](Worldbuilding/Turtle%20Island%20(Lenape%20Creation%20Oral%20History).md)
