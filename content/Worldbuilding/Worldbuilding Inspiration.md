@@ -6,9 +6,6 @@ date created: July 24th 2023, 12:39:27 pm
 date modified: July 24th 2023, 12:40:16 pm
 tags: 
 ---
-## Art
-
-
 ## Books
 - Blood Meridian by Cormac McCarthy
 	- Heavy content warning, this book is fucking brutal, but it is one of the "Great American Novel" candidates
@@ -19,7 +16,6 @@ tags:
 	- Tommy Lee Jones starred in a very well regarded TV adaptation
 - Undaunted Courage by Stephen E. Ambrose
 	- Definitive account of Lewis and Clark + Corps of Discovery
-- 
 
 ## Video Games
 - Red Dead Redemption 2
