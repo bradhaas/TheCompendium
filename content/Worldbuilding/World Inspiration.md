@@ -14,3 +14,8 @@ tags:
 ## Video Games
 - Red Dead Redemption 2
 - Fallout New Vegas
+
+## TTRPGs
+- Coyote and Crow - a super
+	- [Recipe Book](https://coyoteandcrow.net/wp-content/uploads/2022/11/Coyote-Crow-Recipe-Cards.pdf)
+	- 
