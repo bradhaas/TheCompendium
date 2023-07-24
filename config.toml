@@ -1,6 +1,6 @@
 baseURL = "https://bradhaas.github.io/TheCompendium/"
 languageCode = "en-us"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
