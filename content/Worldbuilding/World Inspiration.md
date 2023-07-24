@@ -10,7 +10,13 @@ tags:
 
 
 ## Books
-- Blood Meridian by Cormac McCarthy - heavy content warning, this book is fucking brutal
+- Blood Meridian by Cormac McCarthy
+	- Heavy content warning, this book is fucking brutal
+- Empire of the Summer Moon by S.C. Gwynne
+	- Historical account of the war between the Comanche Nation and European Settlers
+- Lonesome Dove by Larry McMurtry
+	- Pulitzer winning 
+- Undaunted country
 - 
 
 ## Video Games
