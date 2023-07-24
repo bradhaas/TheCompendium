@@ -3,14 +3,12 @@ title: Turtle Island (Lenape Creation Oral History)
 alias: 
 enableToc: false
 date created: July 23rd 2023, 6:32:15 pm
-date modified: July 23rd 2023, 6:43:31 pm
+date modified: July 23rd 2023, 6:44:23 pm
 tags: 
 ---
 Told by Robert Red Hawk
 
 Transcribed from Lenape by Zack Wiener
-
-[Source](https://web.archive.org/web/20160305144555/http://www.lenapenation.org/Lenape%20Lixsewakan%20Achimawakana/The%20Lenape%20Creation%20Story.pdf) 
 
 At one time everything was dark. There was nothing. But there was a spirit in that nothingness, and it would have remained that way, but the spirit fell asleep. As he slept, he dreamed. He dreamt of a world: mountains, sky, the ocean, all of the fish in the ocean, all the birds in the sky, all the trees, the deserts, all of the animals on the earth. He dreamed of man. He dreamed of ceremony: of people drumming and singing. But then, he awoke, and because it was just a dream, everything was still black. But because the seed had been planted in him, that dream, he started to manifest it.
 
