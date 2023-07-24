@@ -7,6 +7,7 @@ date modified: July 23rd 2023, 6:41:16 pm
 tags: 
 ---
 Told by Robert Red Hawk
+
 Transcribed from Lenape by Zack Wiener
 
 At one time everything was dark. There was nothing. But there was a spirit in that nothingness, and it would have remained that way, but the spirit fell asleep. As he slept, he dreamed. He dreamt of a world: mountains, sky, the ocean, all of the fish in the ocean, all the birds in the sky, all the trees, the deserts, all of the animals on the earth. He dreamed of man. He dreamed of ceremony: of people drumming and singing. But then, he awoke, and because it was just a dream, everything was still black. But because the seed had been planted in him, that dream, he started to manifest it.
