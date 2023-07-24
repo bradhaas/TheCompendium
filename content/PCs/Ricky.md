@@ -1,9 +1,9 @@
 ---
-title: Untitled
+title: Ricky
 alias: 
 enableToc: false
 date created: July 23rd 2023, 6:49:32 pm
-date modified: July 23rd 2023, 6:49:54 pm
+date modified: July 23rd 2023, 7:26:22 pm
 tags: 
 ---
 ## Artificer Abilities
@@ -13,11 +13,10 @@ Artificer general abilities
 ## Artificer Specializations (Subclasses)
 The above link has more info on all of these, but here's a summar
 - Alchemist - You can do damage, heal, and induce various magical effects by brewing potions.
-- Armorer - The "ironman" subclass - spec out a suit of armor to do crazy things. Mor ranged, more mobility than other classes, but expensive and very resource intensive to be good.
+- Armorer - The "ironman" subclass - spec out a suit of armor to do crazy things. More ranged, more mobility than other classes, but expensive and very resource intensive to be good.
 - Artillerist - Cannons and explosives galore. Can manufacture ammunition. Lots of DPS, but limited utility.
 - Battle Smith - The "martial" artificer subclass. You're up in the mix, using Int and Con with a Steel Defender pet to back you up. You get abilities and bonuses for melee combat
 
 ## Other Class Ideas
 Similar idea, but different class/subclass
 - [Cleric: Forge Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:forge)
-- 
