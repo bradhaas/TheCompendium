@@ -17,10 +17,10 @@ Anyone can edit any of the pages on this site, and I'd encourage you to do so! O
 ## [[Class Selection]]
 
 ## PCs
-### [Ricky](PCs/Ricky.md)
-### [Roselyn](PCs/Roselyn.md)
-### [Charlie](PCs/Charlie.md)
-### [Amelia](PCs/Amelia.md)
-### [Babacar](PCs/Babacar.md)
+- [Amelia](./Amelia.md)
+- [Babacar](./Babacar.md)
+- [Charlie](./Charlie.md)
+- [Ricky](./Ricky.md)
+- [Roselyn](./Roselyn.md)
 
 ## [Custom Backgrounds](Custom%20Backgrounds/Custom%20Backgrounds.md)
