@@ -20,6 +20,6 @@ The above link has more info on all of these, but here's a summary
 
 ## Other Class Ideas
 Similar idea, but different class/subclass
-- [Cleric: Forge Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:forge)
-- [Sorcerer: Clockwork Soul - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer:clockwork-soul)
+- [Cleric](http://dnd5e.wikidot.com/cleric) + [Forge Domain](http://dnd5e.wikidot.com/cleric:forge)
+- [Sorcerer](http://dnd5e.wikidot.com/sorcerer) + [Clockwork Soul](http://dnd5e.wikidot.com/sorcerer:clockwork-soul)
 - 
