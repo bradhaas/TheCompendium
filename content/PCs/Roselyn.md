@@ -13,7 +13,7 @@ In no order:
 
 ### [Druid - DND 5th Edition](http://dnd5e.wikidot.com/druid)
 - [Druid: Circle of Dreams - DND 5th Edition](http://dnd5e.wikidot.com/druid:dreams)
-	- You could be on a rumspringa 
+	- You could be on a rumspringa  from the feywild / spirit world, exploring the real world
 
 ### [Sorcerer - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer)
 - [Sorcerer: Wild Magic - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer:wild-magic)
@@ -33,4 +33,9 @@ In no order:
 	- Your domain focuses on order and devotion to laws 
 - [Cleric: Trickery Domain - DND 5th Edition](http://dnd5e.wikidot.com/cleric:trickery)
 	- You're tricky - sneaky, disguises, mirror self, etc.
+
+### [Paladin - DND 5th Edition](http://dnd5e.wikidot.com/paladin)
+- [Paladin: Oath of Devotion - DND 5th Edition](http://dnd5e.wikidot.com/paladin:devotion)
+	- You're a cavalier - you serve justice, virtue, and order. Or at least you normally would - but right now you're on a walkabout
+- [Paladin: Oathbreaker - DND 5th Edition](http://dnd5e.wikidot.com/paladin:oathbreaker)
 - 

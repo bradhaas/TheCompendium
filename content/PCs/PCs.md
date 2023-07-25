@@ -10,6 +10,7 @@ tags:
 - [Amelia](./Amelia.md)
 - [Babacar](./Babacar.md)
 - [Charlie](./Charlie.md)
+- [Class Selection](./Class%20Selection.md)
 - [Ricky](./Ricky.md)
 - [Roselyn](./Roselyn.md)
 
