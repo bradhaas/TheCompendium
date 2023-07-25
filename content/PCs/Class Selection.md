@@ -15,6 +15,5 @@ tags:
 ### [Paladin - DND 5th Edition](http://dnd5e.wikidot.com/paladin)
 ### [Monk - DND 5th Edition](http://dnd5e.wikidot.com/monk)
 ### [Warlock - DND 5th Edition](http://dnd5e.wikidot.com/warlock)
-
 ### [Blood Hunter - DND 5th Edition](http://dnd5e.wikidot.com/blood-hunter)
 
