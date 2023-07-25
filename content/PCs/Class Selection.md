@@ -12,6 +12,8 @@ tags:
 ### [Sorcerer - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer)
 ### [Barbarian - DND 5th Edition](http://dnd5e.wikidot.com/barbarian)
 ### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)
+### [Rogue - DND 5th Edition](http://dnd5e.wikidot.com/rogue)
+### [Wizard - DND 5th Edition](http://dnd5e.wikidot.com/wizard)
 ### [Paladin - DND 5th Edition](http://dnd5e.wikidot.com/paladin)
 ### [Monk - DND 5th Edition](http://dnd5e.wikidot.com/monk)
 ### [Warlock - DND 5th Edition](http://dnd5e.wikidot.com/warlock)
