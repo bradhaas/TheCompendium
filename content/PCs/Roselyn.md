@@ -36,8 +36,7 @@ In no order:
 
 ### [Paladin - DND 5th Edition](http://dnd5e.wikidot.com/paladin)
 - [Paladin: Oath of Devotion - DND 5th Edition](http://dnd5e.wikidot.com/paladin:devotion)
-	- You're a cavalier - you serve justice, virtue, and order. Or at least you normally would - but right now you're on a walkabout
+	- You're a cavalier - you serve justice, virtue, and order. Or at least you normally would - but right now you're on a walkabout ;)
 - [Paladin: Oathbreaker - DND 5th Edition](http://dnd5e.wikidot.com/paladin:oathbreaker)
-
 ### [Blood Hunter - DND 5th Edition](http://dnd5e.wikidot.com/blood-hunter)
 - Could be a blood hunter who is running away from their cult or something
