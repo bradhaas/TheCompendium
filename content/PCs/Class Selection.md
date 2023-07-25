@@ -10,6 +10,7 @@ tags:
 - [Ricky](PCs/Ricky.md) considering
 ### [Bard - DND 5th Edition](http://dnd5e.wikidot.com/bard)
 ### [Druid - DND 5th Edition](http://dnd5e.wikidot.com/druid)
+### [Fighter - DND 5th Edition](http://dnd5e.wikidot.com/fighter)
 ### [Sorcerer - DND 5th Edition](http://dnd5e.wikidot.com/sorcerer)
 ### [Barbarian - DND 5th Edition](http://dnd5e.wikidot.com/barbarian)
 ### [Cleric - DND 5th Edition](http://dnd5e.wikidot.com/cleric)
