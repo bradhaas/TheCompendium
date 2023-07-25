@@ -3,7 +3,7 @@ title: Class Selection
 alias: 
 enableToc: false
 date created: July 25th 2023, 7:48:40 am
-date modified: July 25th 2023, 7:48:45 am
+date modified: July 25th 2023, 8:03:47 am
 tags: 
 ---
 ### [Artificer - DND 5th Edition](http://dnd5e.wikidot.com/artificer)
@@ -22,4 +22,3 @@ tags:
 ### [Monk - DND 5th Edition](http://dnd5e.wikidot.com/monk)
 ### [Warlock - DND 5th Edition](http://dnd5e.wikidot.com/warlock)
 ### [Blood Hunter - DND 5th Edition](http://dnd5e.wikidot.com/blood-hunter)
-

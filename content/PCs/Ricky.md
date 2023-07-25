@@ -3,7 +3,7 @@ title: Ricky
 alias: 
 enableToc: false
 date created: July 23rd 2023, 6:49:32 pm
-date modified: July 24th 2023, 12:49:08 pm
+date modified: July 25th 2023, 8:03:45 am
 tags: 
 ---
 ## Artificer Abilities
@@ -22,4 +22,3 @@ The above link has more info on all of these, but here's a summary
 Similar idea, but different class/subclass
 - [Cleric](http://dnd5e.wikidot.com/cleric) + [Forge Domain](http://dnd5e.wikidot.com/cleric:forge)
 - [Sorcerer](http://dnd5e.wikidot.com/sorcerer) + [Clockwork Soul](http://dnd5e.wikidot.com/sorcerer:clockwork-soul)
-- 

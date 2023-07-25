@@ -14,6 +14,8 @@ Anyone can edit any of the pages on this site, and I'd encourage you to do so! O
 - [Turtle Island (Lenape Creation Oral History)](Worldbuilding/Turtle%20Island%20(Lenape%20Creation%20Oral%20History).md)
 - [Art Inspiration](Worldbuilding/Art%20Inspiration.md)
 
+## [[Class Selection]]
+
 ## PCs
 ### [Ricky](PCs/Ricky.md)
 ### [Roselyn](PCs/Roselyn.md)
