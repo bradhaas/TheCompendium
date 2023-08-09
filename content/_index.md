@@ -3,7 +3,7 @@ title: _index
 alias: 
 enableToc: false
 date created: May 15th 2023, 5:45:10 pm
-date modified: July 25th 2023, 8:05:03 am
+date modified: August 8th 2023, 10:34:20 pm
 tags: 
 ---
 Welcome to the Compendium! This is the central website for our second DND campaign - [Turtle Island](Worldbuilding/Turtle%20Island%20(Lenape%20Creation%20Oral%20History).md)!
@@ -14,7 +14,7 @@ Anyone can edit any of the pages on this site, and I'd encourage you to do so! O
 - [Turtle Island (Lenape Creation Oral History)](Worldbuilding/Turtle%20Island%20(Lenape%20Creation%20Oral%20History).md)
 - [Art Inspiration](Worldbuilding/Art%20Inspiration.md)
 
-## [[Class Selection]]
+## [Class Selection](PCs/Class%20Selection.md)
 
 ## [PCs](PCs/PCs.md)
 ## [Custom Backgrounds](Custom%20Backgrounds/Custom%20Backgrounds.md)
