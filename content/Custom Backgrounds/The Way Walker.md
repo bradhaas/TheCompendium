@@ -19,7 +19,7 @@ You were raised on stories of other worlds. Your master, or clan, made it clear 
 	- Survival
 ### Languages
 - English
-- One of your choice from the [[Languages#Magical Languages]]
+- One of your choice from the [](Worldbuilding/Languages.md#Magical%20Languages)
 ### Tool Proficiencies
 ### Equipment
 - Spellcasting focus of some kind

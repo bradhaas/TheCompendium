@@ -19,7 +19,7 @@ You represent the law, and as a consequence you're either respected or feared by
 - Intimidation
 ### Languages
 - English
-- One [[Languages#Indigenous Languages]] of your choice
+- One [](Worldbuilding/Languages.md#Indigenous%20Languages) of your choice
 ### Tool Proficiencies
 ### Equipment
 - A badge or similar sigyl of your authority
