@@ -14,6 +14,7 @@ tags:
 - [The Old Timer](./The%20Old%20Timer.md)
 - [The Outlaw](./The%20Outlaw.md)
 - [The Way Walker](./The%20Way%20Walker.md)
+
 %% End Waypoint %%
 
 ## DND 5e Backgrounds
