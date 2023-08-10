@@ -6,7 +6,7 @@ date created: July 24th 2023, 1:40:16 pm
 date modified: July 24th 2023, 1:40:31 pm
 tags: 
 ---
-## Pintrest
+## Pinterest
 <iframe src='https://widgets.sociablekit.com/pinterest-board/iframe/178364' frameborder='0' width='100%' height='1000'></iframe>
 
 ## Billy Schenck
