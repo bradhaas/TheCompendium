@@ -1,16 +1,16 @@
 ---
 alias: 
 date created: August 16th 2023, 12:09:41 am
-date modified: August 16th 2023, 12:16:36 am
+date modified: August 16th 2023, 12:42:09 am
 ---
 ## Lore
 *In Character*
 
 Out of character
 ## Feature
-[UA Feats](https://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf)
-
-
+For inspiration
+- [UA Skill Feats](https://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf)
+- [40 DND Homebrew Feats to Use - The Arcade Man](https://thearcademan.net/dnd-homebrew-feats/)
 ## Mechanics
 ### Skill Proficiencies
 - Skill 1
