@@ -7,11 +7,11 @@ date modified: July 24th 2023, 12:45:40 pm
 tags: 
 ---
 %% Begin Waypoint %%
-- [Amelia](./Amelia.md)
-- [Babacar](./Babacar.md)
-- [Charlie](./Charlie.md)
-- [Class Selection](./Class%20Selection.md)
-- [Ricky](./Ricky.md)
-- [Roselyn](./Roselyn.md)
+- [Amelia](PCs/Amelia.md)
+- [Babacar](PCs/Babacar.md)
+- [Charlie](PCs/Charlie.md)
+- [Class Selection](PCs/Class%20Selection.md)
+- [Ricky](PCs/Ricky.md)
+- [Roselyn](PCs/Roselyn.md)
 
 %% End Waypoint %%
