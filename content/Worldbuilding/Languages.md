@@ -3,7 +3,7 @@ title: Languages
 alias: 
 enableToc: false
 date created: August 10th 2023, 12:04:47 am
-date modified: August 10th 2023, 12:05:15 am
+date modified: August 16th 2023, 8:08:46 am
 tags: 
 ---
 ## Colonizer Languages
@@ -15,9 +15,7 @@ tags:
 
 ## Indigenous Languages
 ### Numic
-[Numic languages - Wikipedia](https://en.wikipedia.org/wiki/Numic_languages) - spoken by the [[Comanche Nation]] and the Shoshone
-![[Pasted image 20230525012139.png|400]]
-
+[Numic languages - Wikipedia](https://en.wikipedia.org/wiki/Numic_languages) - family of languages spoken by the Comanche Nation and the Shoshone
 ## Magical Languages
 ### Abyssal
 

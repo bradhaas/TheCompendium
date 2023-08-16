@@ -7,17 +7,17 @@ date modified: August 16th 2023, 12:41:16 am
 tags: 
 ---
 %% Begin Waypoint %%
-- [Corps Founder](./Corps%20Founder.md)
-- [General Template](./General%20Template.md)
-- [Other Backgrounds](./Other%20Backgrounds.md)
-- [The Corps Founder](./The%20Corps%20Founder.md)
-- [The Cunning Linguist](./The%20Cunning%20Linguist.md)
-- [The Frontier Psychologist](./The%20Frontier%20Psychologist.md)
-- [The Law](./The%20Law.md)
-- [The Monster Hunter](./The%20Monster%20Hunter.md)
-- [The Old Timer](./The%20Old%20Timer.md)
-- [The Outlaw](./The%20Outlaw.md)
-- [The Way Walker](./The%20Way%20Walker.md)
+- [Corps Founder](Custom%20Backgrounds/Corps%20Founder.md)
+- [General Template](Custom%20Backgrounds/General%20Template.md)
+- [Other Backgrounds](Custom%20Backgrounds/Other%20Backgrounds.md)
+- [The Corps Founder](Custom%20Backgrounds/The%20Corps%20Founder.md)
+- [The Cunning Linguist](Custom%20Backgrounds/The%20Cunning%20Linguist.md)
+- [The Frontier Psychologist](Custom%20Backgrounds/The%20Frontier%20Psychologist.md)
+- [The Law](Custom%20Backgrounds/The%20Law.md)
+- [The Monster Hunter](Custom%20Backgrounds/The%20Monster%20Hunter.md)
+- [The Old Timer](Custom%20Backgrounds/The%20Old%20Timer.md)
+- [The Outlaw](Custom%20Backgrounds/The%20Outlaw.md)
+- [The Way Walker](Custom%20Backgrounds/The%20Way%20Walker.md)
 
 %% End Waypoint %%
 
