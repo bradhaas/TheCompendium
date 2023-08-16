@@ -21,3 +21,6 @@ tags:
 The below website has a phenomenal list of the existing 5e backgrounds - use those for inspiration! If you have a custom idea I'd love to hear it!
 
 [DnD Backgrounds 5E (Official) - 5e Backgrounds For D&D](https://5ebackgrounds.com/)
+
+## Unearthed Arcana Backgrounds
+[UA Skill Feats](https://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf)
