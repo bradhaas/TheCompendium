@@ -1,17 +1,20 @@
 ---
+title: The Frontier Psychologist
 alias: 
+enableToc: false
 date created: August 9th 2023, 11:25:25 pm
-date modified: August 9th 2023, 11:25:31 pm
+date modified: August 15th 2023, 11:53:13 pm
+tags: 
 ---
 ## Lore
-*In Character*
+*"To come to this place voluntarily one must be mentally deficient" - you think to yourself as you listen to the *
 
 Out of character
 ## Feature
 
 ## Mechanics
 ### Skill Proficiencies
-- Skill 1
+- Insight
 - Skill 2
 ### Languages
 - English

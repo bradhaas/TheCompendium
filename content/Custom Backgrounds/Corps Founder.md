@@ -13,14 +13,16 @@ Perhaps you're a Shoshone scientist trying to better understand the tools that r
 Either way - your goal is to find a group of like minded individuals to explore, document, and investigate the unknown frontier.
 ## Feature
 **Arcane Learnings**
-Your sutdies offer you insights others wouldn't be able to glean. The arcane has grown familiar, and as a result you can identify at least one major propert/characteristic of any arcane item or creature you encounter. 
+Your studies offer you insights others wouldn't be able to glean. The arcane has grown familiar, and as a result you can identify at least one major property/characteristic of any arcane item or creature you encounter. 
 
 ## Mechanics
 ### Skill Proficiencies
 - Investigation
-- 
+- Arcana
 ### Languages
 - English
+- One other language of your choosing
 ### Tool Proficiencies
+- 
 ### Equipment
-## Recommended Classes
+
