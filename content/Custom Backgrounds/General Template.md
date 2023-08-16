@@ -8,6 +8,8 @@ date modified: August 16th 2023, 12:16:36 am
 
 Out of character
 ## Feature
+[UA Feats](https://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf)
+
 
 ## Mechanics
 ### Skill Proficiencies

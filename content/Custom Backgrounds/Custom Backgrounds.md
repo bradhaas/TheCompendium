@@ -8,7 +8,6 @@ tags:
 ---
 %% Begin Waypoint %%
 - [Corps Founder](./Corps%20Founder.md)
-- [Feat Ideas for Inspiration](./Feat%20Ideas%20for%20Inspiration.md)
 - [General Template](./General%20Template.md)
 - [Other Backgrounds](./Other%20Backgrounds.md)
 - [The Corps Founder](./The%20Corps%20Founder.md)

@@ -7,7 +7,6 @@ date modified: August 16th 2023, 12:38:55 am
 tags: 
 ---
 [D&D: Subclasses Perfect For Playing In A Western Setting](https://www.thegamer.com/dungeons-dragons-dnd-subclasses-perfect-western-setting/#oath-of-conquest-paladin)
-
 ### [Artificer - DND 5th Edition](http://dnd5e.wikidot.com/artificer)
 - [Ricky](PCs/Ricky.md) considering
 ### [Bard - DND 5th Edition](http://dnd5e.wikidot.com/bard)
