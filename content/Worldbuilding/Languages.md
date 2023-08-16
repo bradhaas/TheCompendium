@@ -1,9 +1,9 @@
 ---
 title: Languages
-alias: 
+alias: Language
 enableToc: false
 date created: August 10th 2023, 12:04:47 am
-date modified: August 16th 2023, 8:08:46 am
+date modified: August 16th 2023, 8:18:30 am
 tags: 
 ---
 ## Colonizer Languages

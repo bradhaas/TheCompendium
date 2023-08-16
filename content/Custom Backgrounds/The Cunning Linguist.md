@@ -21,6 +21,7 @@ Though linguisticians generally focus more on studying languages than learning t
 - English
 - A second [[Languages#Colonizer Languages]]
 - A third [[Languages#Indigenous Languages]]
+- A fourth [Languages](Worldbuilding/Languages.md)
 ### Tool Proficiencies
 ### Equipment
 ## Recommended Classes
