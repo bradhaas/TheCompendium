@@ -2,25 +2,28 @@
 title: Custom Backgrounds
 alias: 
 enableToc: false
-date created: August 8th 2023, 9:49:54 pm
-date modified: August 10th 2023, 12:03:55 am
+date created: May 12th 2023, 9:45:48 am
+date modified: August 16th 2023, 12:41:16 am
 tags: 
 ---
-## Custom Backgrounds for Turtle Island
 %% Begin Waypoint %%
 - [Corps Founder](./Corps%20Founder.md)
+- [Feat Ideas for Inspiration](./Feat%20Ideas%20for%20Inspiration.md)
+- [General Template](./General%20Template.md)
+- [Other Backgrounds](./Other%20Backgrounds.md)
+- [The Corps Founder](./The%20Corps%20Founder.md)
+- [The Cunning Linguist](./The%20Cunning%20Linguist.md)
 - [The Frontier Psychologist](./The%20Frontier%20Psychologist.md)
 - [The Law](./The%20Law.md)
+- [The Monster Hunter](./The%20Monster%20Hunter.md)
 - [The Old Timer](./The%20Old%20Timer.md)
 - [The Outlaw](./The%20Outlaw.md)
 - [The Way Walker](./The%20Way%20Walker.md)
 
 %% End Waypoint %%
 
-## DND 5e Backgrounds
-The below website has a phenomenal list of the existing 5e backgrounds - use those for inspiration! If you have a custom idea I'd love to hear it!
+[D&D: Subclasses Perfect For Playing In A Western Setting](https://www.thegamer.com/dungeons-dragons-dnd-subclasses-perfect-western-setting/#circle-of-wildfire-druid)
+
+[Wild West Backgrounds - Imgur](https://imgur.com/a/on9ZD#XPvdcru)
 
 [DnD Backgrounds 5E (Official) - 5e Backgrounds For D&D](https://5ebackgrounds.com/)
-
-## Unearthed Arcana Backgrounds
-[UA Skill Feats](https://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf)

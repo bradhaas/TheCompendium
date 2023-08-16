@@ -38,7 +38,7 @@ You have kept something valuable from your criminal past that has pushed you Wes
 	- Stealth
 ### Languages
 - English
-- One of your choice from the [](Worldbuilding/Languages.md#Magical%20Languages)
+- One of your choice from the [[Languages#Magical Languages]]
 ### Tool Proficiencies
 - Disguise Kit
 - Thieves Tools
