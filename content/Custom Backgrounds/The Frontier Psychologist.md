@@ -8,7 +8,7 @@ date modified: August 15th 2023, 11:57:41 pm
 
 Out of character
 ## Feature
-**Empathetic**
+### Empathetic
 You possess keen insight into how other people think and feel. You gain the following benefits:
 - Increase your Wisdom score by 1, to a maximum of 20. 
 - You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. 
