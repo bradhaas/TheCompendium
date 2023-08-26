@@ -19,6 +19,8 @@ tags:
 
 %% End Waypoint %%
 ## Online Resources
+[Backgrounds - 5etools](https://5e.tools/backgrounds.html) - all the "official" backgrounds, a great source of inspiriation
+
 [5e Backgrounds - D&D Wiki](https://www.dandwiki.com/wiki/5e_Backgrounds)
 - This has a ton, but proceed with caution, I may veto OP ones
 
@@ -26,7 +28,3 @@ https://www.reddit.com/r/DnD/comments/ryk7wl/backgrounds_for_5e_wild_west_game/
 [Wild West Backgrounds - Imgur](https://imgur.com/a/on9ZD#XPvdcru)
 
 [DnD Backgrounds 5E (Official) - 5e Backgrounds For D&D](https://5ebackgrounds.com/)
-## Chef
-![](https://i.imgur.com/2tv5xrW.jpeg)
-- Advantage in survival situations
-- Camp chef or similar
